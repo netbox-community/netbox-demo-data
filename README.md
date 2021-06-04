@@ -28,6 +28,9 @@ Next, apply NetBox's database migrations using the `migrate` management command.
 ```bash
 source /opt/netbox/venv/bin/activate
 ./manage.py migrate
+
+# Netbox Docker
+docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py migrate"
 ```
 
 Finally, load the demo data fixtures from the JSON file.
