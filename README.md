@@ -36,10 +36,10 @@ docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./ma
 Finally, load the demo data fixtures from the JSON file.
 
 ```bash
-./manage.py loaddata -v 3 netbox-demo.json
+./manage.py loaddata -v 3 netbox-demo-$VERSION.json
 
 # NetBox Docker
-docker cp netbox-demo.json "$(docker-compose ps -q netbox)":/opt/netbox/netbox/netbox-demo.json
+docker cp netbox-demo-$VERSION.json "$(docker-compose ps -q netbox)":/opt/netbox/netbox/netbox-demo.json
 docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py loaddata netbox-demo.json"
 ```
 
@@ -49,9 +49,9 @@ The following steps are necessary **only** if you intend to save a snapshot of d
 
 ```bash
 source /opt/netbox/venv/bin/activate
-./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange --indent 2 -o netbox-demo.json
+./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange --indent 2 -o netbox-demo-$VERSION.json
 
 # NetBox Docker
-docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange --indent 2" > netbox-demo.json
+docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange --indent 2" > netbox-demo-$VERSION.json
 ```
 
