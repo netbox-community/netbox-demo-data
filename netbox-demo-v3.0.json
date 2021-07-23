@@ -604,13 +604,6 @@
 {
   "model": "contenttypes.contenttype",
   "fields": {
-    "app_label": "dummy_plugin",
-    "model": "dummymodel"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "fields": {
     "app_label": "ipam",
     "model": "iprange"
   }
@@ -621,22 +614,6 @@
   "fields": {
     "session_data": ".eJxVjEsKwjAUAO-StRST5leXXkBvEN7LeyFRTKFJQRDvbgsudDszzEsEWHsOa-MlFBInIcXhlyHEO9ddVO44P4ddce0lQi9zHS5449ivvDxKaxs4f_u_SYaWt4NN2qhkwPnorCOvJdMIKBWSJ2cn5bRHCyZacp6i8SAnSpLYshqPRor3Bz4ZOjs:1lS4QB:yF8hsSlX6bXtCNdIfQh-np4xpNX1zEFoRsDStBroVWs",
     "expire_date": "2021-04-15T21:00:07.705Z"
-  }
-},
-{
-  "model": "sessions.session",
-  "pk": "7p5zqhokqiabjhb3zjbg8dndnovk47aj",
-  "fields": {
-    "session_data": ".eJxVjEEKwjAQAP-Ss5Smu0laj35Af1B2NyuNYgpNCoL4d1vwoNeZYV5mpLVO41p0GVM0R2PN4ZcxyV3zLrJWnp_NrjTXJFTTnJsz31TqRZdHKmUDp2__N5moTNshWnFRAEkR-94F37phCJ4jiXbQwRWDIgEpK0d2AbwX6FoEtMENFs37A0A1OcM:1lpERx:jbOR-06uBwnx192snaiGvPoGT25R8dZKT0ip64ZyVwA",
-    "expire_date": "2021-06-18T18:21:41.092Z"
-  }
-},
-{
-  "model": "sessions.session",
-  "pk": "bg7jv5qa9g26irkc9gnzqd1i5m7je3e8",
-  "fields": {
-    "session_data": ".eJxVjEEKwjAQAP-Ss5Smu0laj35Af1B2NyuNYgpNCoL4d1vwoNeZYV5mpLVO41p0GVM0R2PN4ZcxyV3zLrJWnp_NrjTXJFTTnJsz31TqRZdHKmUDp2__N5moTNshWnFRAEkR-94F37phCJ4jiXbQwRWDIgEpK0d2AbwX6FoEtMENFs37A0A1OcM:1m6eGO:Jj_d5japGjIiSeX4nd50kNJ-pcFvJIY9ulHUVYGhxoE",
-    "expire_date": "2021-08-05T19:21:44.787Z"
   }
 },
 {
@@ -890,7 +867,7 @@
   "pk": 1,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.772Z",
+    "last_updated": "2021-07-23T12:48:18.918Z",
     "custom_field_data": {},
     "cid": "KKDG4923",
     "provider": 5,
@@ -910,7 +887,7 @@
   "pk": 2,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.759Z",
+    "last_updated": "2021-07-23T12:48:18.905Z",
     "custom_field_data": {},
     "cid": "JHEW3951",
     "provider": 5,
@@ -930,7 +907,7 @@
   "pk": 3,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.790Z",
+    "last_updated": "2021-07-23T12:48:18.936Z",
     "custom_field_data": {},
     "cid": "PPJQ5091",
     "provider": 5,
@@ -950,7 +927,7 @@
   "pk": 4,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.799Z",
+    "last_updated": "2021-07-23T12:48:18.945Z",
     "custom_field_data": {},
     "cid": "QPMA5027",
     "provider": 5,
@@ -970,7 +947,7 @@
   "pk": 5,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.763Z",
+    "last_updated": "2021-07-23T12:48:18.910Z",
     "custom_field_data": {},
     "cid": "KAGO3917",
     "provider": 5,
@@ -990,7 +967,7 @@
   "pk": 6,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.777Z",
+    "last_updated": "2021-07-23T12:48:18.923Z",
     "custom_field_data": {},
     "cid": "KLQU4018",
     "provider": 5,
@@ -1010,7 +987,7 @@
   "pk": 7,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.786Z",
+    "last_updated": "2021-07-23T12:48:18.932Z",
     "custom_field_data": {},
     "cid": "LQRT4981",
     "provider": 5,
@@ -1030,7 +1007,7 @@
   "pk": 9,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.781Z",
+    "last_updated": "2021-07-23T12:48:18.927Z",
     "custom_field_data": {},
     "cid": "KSIR0381",
     "provider": 5,
@@ -1050,7 +1027,7 @@
   "pk": 10,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.755Z",
+    "last_updated": "2021-07-23T12:48:18.901Z",
     "custom_field_data": {},
     "cid": "DOQHD947",
     "provider": 5,
@@ -1070,7 +1047,7 @@
   "pk": 11,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.750Z",
+    "last_updated": "2021-07-23T12:48:18.896Z",
     "custom_field_data": {},
     "cid": "DJDP9577",
     "provider": 5,
@@ -1090,7 +1067,7 @@
   "pk": 12,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.768Z",
+    "last_updated": "2021-07-23T12:48:18.914Z",
     "custom_field_data": {},
     "cid": "KDPO0597",
     "provider": 5,
@@ -1110,7 +1087,7 @@
   "pk": 13,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.795Z",
+    "last_updated": "2021-07-23T12:48:18.940Z",
     "custom_field_data": {},
     "cid": "QMKD2436",
     "provider": 5,
@@ -1130,7 +1107,7 @@
   "pk": 14,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.746Z",
+    "last_updated": "2021-07-23T12:48:18.892Z",
     "custom_field_data": {},
     "cid": "DEOW4921",
     "provider": 5,
@@ -1150,7 +1127,7 @@
   "pk": 15,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.715Z",
+    "last_updated": "2021-07-23T12:48:18.861Z",
     "custom_field_data": {},
     "cid": "1002847289",
     "provider": 2,
@@ -1170,7 +1147,7 @@
   "pk": 16,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.711Z",
+    "last_updated": "2021-07-23T12:48:18.856Z",
     "custom_field_data": {},
     "cid": "1002845894",
     "provider": 2,
@@ -1190,7 +1167,7 @@
   "pk": 17,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.676Z",
+    "last_updated": "2021-07-23T12:48:18.820Z",
     "custom_field_data": {},
     "cid": "1002842917",
     "provider": 2,
@@ -1210,7 +1187,7 @@
   "pk": 18,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.685Z",
+    "last_updated": "2021-07-23T12:48:18.830Z",
     "custom_field_data": {},
     "cid": "1002843350",
     "provider": 2,
@@ -1230,7 +1207,7 @@
   "pk": 19,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.662Z",
+    "last_updated": "2021-07-23T12:48:18.807Z",
     "custom_field_data": {},
     "cid": "1002840283",
     "provider": 2,
@@ -1250,7 +1227,7 @@
   "pk": 20,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.667Z",
+    "last_updated": "2021-07-23T12:48:18.812Z",
     "custom_field_data": {},
     "cid": "1002840457",
     "provider": 2,
@@ -1270,7 +1247,7 @@
   "pk": 21,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.671Z",
+    "last_updated": "2021-07-23T12:48:18.816Z",
     "custom_field_data": {},
     "cid": "1002841093",
     "provider": 2,
@@ -1290,7 +1267,7 @@
   "pk": 22,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.706Z",
+    "last_updated": "2021-07-23T12:48:18.852Z",
     "custom_field_data": {},
     "cid": "1002844978",
     "provider": 2,
@@ -1310,7 +1287,7 @@
   "pk": 23,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.689Z",
+    "last_updated": "2021-07-23T12:48:18.834Z",
     "custom_field_data": {},
     "cid": "1002843428",
     "provider": 2,
@@ -1330,7 +1307,7 @@
   "pk": 24,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.680Z",
+    "last_updated": "2021-07-23T12:48:18.825Z",
     "custom_field_data": {},
     "cid": "1002843016",
     "provider": 2,
@@ -1350,7 +1327,7 @@
   "pk": 25,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.702Z",
+    "last_updated": "2021-07-23T12:48:18.847Z",
     "custom_field_data": {},
     "cid": "1002844927",
     "provider": 2,
@@ -1370,7 +1347,7 @@
   "pk": 26,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.698Z",
+    "last_updated": "2021-07-23T12:48:18.843Z",
     "custom_field_data": {},
     "cid": "1002844901",
     "provider": 2,
@@ -1390,7 +1367,7 @@
   "pk": 27,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-07-22T19:20:11.693Z",
+    "last_updated": "2021-07-23T12:48:18.839Z",
     "custom_field_data": {},
     "cid": "1002843688",
     "provider": 2,
@@ -1410,7 +1387,7 @@
   "pk": 28,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-07-22T19:20:11.742Z",
+    "last_updated": "2021-07-23T12:48:18.887Z",
     "custom_field_data": {},
     "cid": "398282",
     "provider": 9,
@@ -1430,7 +1407,7 @@
   "pk": 29,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-07-22T19:20:11.733Z",
+    "last_updated": "2021-07-23T12:48:18.878Z",
     "custom_field_data": {},
     "cid": "350927",
     "provider": 9,
@@ -1450,7 +1427,7 @@
   "pk": 30,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-07-22T19:20:11.724Z",
+    "last_updated": "2021-07-23T12:48:18.870Z",
     "custom_field_data": {},
     "cid": "319031",
     "provider": 9,
@@ -73353,18 +73330,6 @@
   }
 },
 {
-  "model": "dcim.manufacturer",
-  "pk": 14,
-  "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:49.671Z",
-    "custom_field_data": {},
-    "name": "HPE",
-    "slug": "hpe",
-    "description": ""
-  }
-},
-{
   "model": "dcim.devicetype",
   "pk": 1,
   "fields": {
@@ -73609,25 +73574,6 @@
     "front_image": "",
     "rear_image": "",
     "comments": "[Juniper QFX10002 Data Sheet](https://www.juniper.net/assets/us/en/local/pdf/datasheets/1000531-en.pdf)"
-  }
-},
-{
-  "model": "dcim.devicetype",
-  "pk": 14,
-  "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.220Z",
-    "custom_field_data": {},
-    "manufacturer": 14,
-    "model": "c7000",
-    "slug": "c7000",
-    "part_number": "",
-    "u_height": 10,
-    "is_full_depth": true,
-    "subdevice_role": "parent",
-    "front_image": "",
-    "rear_image": "",
-    "comments": ""
   }
 },
 {
@@ -81215,102 +81161,6 @@
   }
 },
 {
-  "model": "dcim.powerporttemplate",
-  "pk": 21,
-  "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.308Z",
-    "device_type": 14,
-    "name": "PS1",
-    "_name": "PS00000001",
-    "label": "",
-    "description": "",
-    "type": "iec-60320-c20",
-    "maximum_draw": 2650,
-    "allocated_draw": null
-  }
-},
-{
-  "model": "dcim.powerporttemplate",
-  "pk": 22,
-  "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.352Z",
-    "device_type": 14,
-    "name": "PS2",
-    "_name": "PS00000002",
-    "label": "",
-    "description": "",
-    "type": "iec-60320-c20",
-    "maximum_draw": 2650,
-    "allocated_draw": null
-  }
-},
-{
-  "model": "dcim.powerporttemplate",
-  "pk": 23,
-  "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.398Z",
-    "device_type": 14,
-    "name": "PS3",
-    "_name": "PS00000003",
-    "label": "",
-    "description": "",
-    "type": "iec-60320-c20",
-    "maximum_draw": 2650,
-    "allocated_draw": null
-  }
-},
-{
-  "model": "dcim.powerporttemplate",
-  "pk": 24,
-  "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.442Z",
-    "device_type": 14,
-    "name": "PS4",
-    "_name": "PS00000004",
-    "label": "",
-    "description": "",
-    "type": "iec-60320-c20",
-    "maximum_draw": 2650,
-    "allocated_draw": null
-  }
-},
-{
-  "model": "dcim.powerporttemplate",
-  "pk": 25,
-  "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.490Z",
-    "device_type": 14,
-    "name": "PS5",
-    "_name": "PS00000005",
-    "label": "",
-    "description": "",
-    "type": "iec-60320-c20",
-    "maximum_draw": 2650,
-    "allocated_draw": null
-  }
-},
-{
-  "model": "dcim.powerporttemplate",
-  "pk": 26,
-  "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.572Z",
-    "device_type": 14,
-    "name": "PS6",
-    "_name": "PS00000006",
-    "label": "",
-    "description": "",
-    "type": "iec-60320-c20",
-    "maximum_draw": 2650,
-    "allocated_draw": null
-  }
-},
-{
   "model": "dcim.poweroutlettemplate",
   "pk": 1,
   "fields": {
@@ -88653,208 +88503,286 @@
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 23,
+  "pk": 1,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.662Z",
-    "device_type": 14,
-    "name": "Device Bay 1",
-    "_name": "Device Bay 00000001",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 1,
+    "name": "RE0/SCB0",
+    "_name": "RE00000000/SCB00000000",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 24,
+  "pk": 2,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.724Z",
-    "device_type": 14,
-    "name": "Device Bay 2",
-    "_name": "Device Bay 00000002",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 1,
+    "name": "RE1/SCB1",
+    "_name": "RE00000001/SCB00000001",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 25,
+  "pk": 3,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.766Z",
-    "device_type": 14,
-    "name": "Device Bay 3",
-    "_name": "Device Bay 00000003",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 1,
+    "name": "Linecard0",
+    "_name": "Linecard00000000",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 26,
+  "pk": 4,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.808Z",
-    "device_type": 14,
-    "name": "Device Bay 4",
-    "_name": "Device Bay 00000004",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 1,
+    "name": "Linecard1",
+    "_name": "Linecard00000001",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 27,
+  "pk": 5,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.850Z",
-    "device_type": 14,
-    "name": "Device Bay 5",
-    "_name": "Device Bay 00000005",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 1,
+    "name": "Linecard2",
+    "_name": "Linecard00000002",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 28,
+  "pk": 6,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.893Z",
-    "device_type": 14,
-    "name": "Device Bay 6",
-    "_name": "Device Bay 00000006",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 1,
+    "name": "Linecard3",
+    "_name": "Linecard00000003",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 29,
+  "pk": 7,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.935Z",
-    "device_type": 14,
-    "name": "Device Bay 7",
-    "_name": "Device Bay 00000007",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 1,
+    "name": "Linecard4",
+    "_name": "Linecard00000004",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 30,
+  "pk": 8,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:53.979Z",
-    "device_type": 14,
-    "name": "Device Bay 8",
-    "_name": "Device Bay 00000008",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 1,
+    "name": "Linecard5",
+    "_name": "Linecard00000005",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 31,
+  "pk": 9,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:54.021Z",
-    "device_type": 14,
-    "name": "Device Bay 9",
-    "_name": "Device Bay 00000009",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "Linecard0",
+    "_name": "Linecard00000000",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 32,
+  "pk": 10,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:54.064Z",
-    "device_type": 14,
-    "name": "Device Bay 10",
-    "_name": "Device Bay 00000010",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "Linecard1",
+    "_name": "Linecard00000001",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 33,
+  "pk": 11,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:54.108Z",
-    "device_type": 14,
-    "name": "Device Bay 11",
-    "_name": "Device Bay 00000011",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "Linecard2",
+    "_name": "Linecard00000002",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 34,
+  "pk": 12,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:54.150Z",
-    "device_type": 14,
-    "name": "Device Bay 12",
-    "_name": "Device Bay 00000012",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "Linecard3",
+    "_name": "Linecard00000003",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 35,
+  "pk": 13,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:54.192Z",
-    "device_type": 14,
-    "name": "Device Bay 13",
-    "_name": "Device Bay 00000013",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "Linecard4",
+    "_name": "Linecard00000004",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 36,
+  "pk": 14,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:54.234Z",
-    "device_type": 14,
-    "name": "Device Bay 14",
-    "_name": "Device Bay 00000014",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "Linecard5",
+    "_name": "Linecard00000005",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 37,
+  "pk": 15,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:54.278Z",
-    "device_type": 14,
-    "name": "Device Bay 15",
-    "_name": "Device Bay 00000015",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "RE0/SF0",
+    "_name": "RE00000000/SF00000000",
     "label": "",
     "description": ""
   }
 },
 {
   "model": "dcim.devicebaytemplate",
-  "pk": 38,
+  "pk": 16,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:27:54.321Z",
-    "device_type": 14,
-    "name": "Device Bay 16",
-    "_name": "Device Bay 00000016",
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "RE1/SF1",
+    "_name": "RE00000001/SF00000001",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 17,
+  "fields": {
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "SF2/Linecard6",
+    "_name": "SF00000002/Linecard00000006",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 18,
+  "fields": {
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "Linecard7",
+    "_name": "Linecard00000007",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 19,
+  "fields": {
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "Linecard8",
+    "_name": "Linecard00000008",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 20,
+  "fields": {
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "Linecard9",
+    "_name": "Linecard00000009",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 21,
+  "fields": {
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "Linecard10",
+    "_name": "Linecard00000010",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 22,
+  "fields": {
+    "created": "2021-04-14",
+    "last_updated": "2021-04-14T17:36:01.026Z",
+    "device_type": 3,
+    "name": "Linecard11",
+    "_name": "Linecard00000011",
     "label": "",
     "description": ""
   }
@@ -94852,279 +94780,6 @@
   }
 },
 {
-  "model": "ipam.prefix",
-  "pk": 73,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:18.665Z",
-    "custom_field_data": {},
-    "prefix": "192.168.0.0/20",
-    "site": null,
-    "vrf": 1,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 74,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:18.801Z",
-    "custom_field_data": {},
-    "prefix": "192.168.16.0/24",
-    "site": null,
-    "vrf": 2,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 75,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:18.975Z",
-    "custom_field_data": {},
-    "prefix": "192.168.17.0/24",
-    "site": null,
-    "vrf": 2,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 76,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:19.141Z",
-    "custom_field_data": {},
-    "prefix": "192.168.18.0/24",
-    "site": null,
-    "vrf": 2,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 77,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:19.269Z",
-    "custom_field_data": {},
-    "prefix": "192.168.19.0/24",
-    "site": null,
-    "vrf": 2,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 78,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:19.399Z",
-    "custom_field_data": {},
-    "prefix": "192.168.24.0/24",
-    "site": null,
-    "vrf": 3,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 79,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:19.527Z",
-    "custom_field_data": {},
-    "prefix": "192.168.25.0/24",
-    "site": null,
-    "vrf": 3,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 80,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:19.663Z",
-    "custom_field_data": {},
-    "prefix": "192.168.26.0/24",
-    "site": null,
-    "vrf": 3,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 81,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:19.791Z",
-    "custom_field_data": {},
-    "prefix": "192.168.27.0/24",
-    "site": null,
-    "vrf": 3,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 82,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:19.918Z",
-    "custom_field_data": {},
-    "prefix": "192.168.32.0/24",
-    "site": null,
-    "vrf": 4,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 83,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:20.046Z",
-    "custom_field_data": {},
-    "prefix": "192.168.33.0/24",
-    "site": null,
-    "vrf": 4,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 84,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:20.248Z",
-    "custom_field_data": {},
-    "prefix": "192.168.34.0/24",
-    "site": null,
-    "vrf": 4,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
-  "model": "ipam.prefix",
-  "pk": 85,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:26:20.394Z",
-    "custom_field_data": {},
-    "prefix": "192.168.35.0/24",
-    "site": null,
-    "vrf": 4,
-    "tenant": null,
-    "vlan": null,
-    "status": "active",
-    "role": null,
-    "is_pool": false,
-    "mark_utilized": false,
-    "description": "",
-    "_depth": 0,
-    "_children": 0
-  }
-},
-{
   "model": "ipam.vlangroup",
   "pk": 2,
   "fields": {
@@ -96312,116 +95967,11 @@
   }
 },
 {
-  "model": "ipam.vrf",
-  "pk": 1,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:25:14.911Z",
-    "custom_field_data": {},
-    "name": "All Customers",
-    "rd": "65000:1",
-    "tenant": null,
-    "enforce_unique": false,
-    "description": "",
-    "import_targets": [
-      1,
-      2
-    ],
-    "export_targets": [
-      1
-    ]
-  }
-},
-{
-  "model": "ipam.vrf",
-  "pk": 2,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:30:04.360Z",
-    "custom_field_data": {},
-    "name": "Customer A",
-    "rd": "65000:100",
-    "tenant": null,
-    "enforce_unique": false,
-    "description": "",
-    "import_targets": [
-      1
-    ],
-    "export_targets": [
-      2
-    ]
-  }
-},
-{
-  "model": "ipam.vrf",
-  "pk": 3,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:29:55.271Z",
-    "custom_field_data": {},
-    "name": "Customer B",
-    "rd": "65000:200",
-    "tenant": null,
-    "enforce_unique": false,
-    "description": "",
-    "import_targets": [
-      1
-    ],
-    "export_targets": [
-      2
-    ]
-  }
-},
-{
-  "model": "ipam.vrf",
-  "pk": 4,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:29:44.881Z",
-    "custom_field_data": {},
-    "name": "Customer C",
-    "rd": "65000:300",
-    "tenant": null,
-    "enforce_unique": false,
-    "description": "",
-    "import_targets": [
-      1
-    ],
-    "export_targets": [
-      2
-    ]
-  }
-},
-{
-  "model": "ipam.routetarget",
-  "pk": 1,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:23:30.503Z",
-    "custom_field_data": {},
-    "name": "65000:1",
-    "description": "Shared services",
-    "tenant": null
-  }
-},
-{
-  "model": "ipam.routetarget",
-  "pk": 2,
-  "fields": {
-    "created": "2021-06-04",
-    "last_updated": "2021-06-04T18:23:30.578Z",
-    "custom_field_data": {},
-    "name": "65000:99",
-    "description": "Customer routes",
-    "tenant": null
-  }
-},
-{
   "model": "extras.customfield",
   "pk": 1,
   "fields": {
-    "created": "2021-07-22",
-    "last_updated": "2021-07-22T19:33:43.340Z",
+    "created": "2021-07-23",
+    "last_updated": "2021-07-23T12:48:49.818Z",
     "type": "text",
     "name": "cust_id",
     "label": "Customer ID",
@@ -119562,50 +119112,6 @@
 {
   "model": "auth.permission",
   "fields": {
-    "name": "Can add dummy model",
-    "content_type": [
-      "dummy_plugin",
-      "dummymodel"
-    ],
-    "codename": "add_dummymodel"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can change dummy model",
-    "content_type": [
-      "dummy_plugin",
-      "dummymodel"
-    ],
-    "codename": "change_dummymodel"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can delete dummy model",
-    "content_type": [
-      "dummy_plugin",
-      "dummymodel"
-    ],
-    "codename": "delete_dummymodel"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can view dummy model",
-    "content_type": [
-      "dummy_plugin",
-      "dummymodel"
-    ],
-    "codename": "view_dummymodel"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
     "name": "Can add IP range",
     "content_type": [
       "ipam",
@@ -119650,8 +119156,8 @@
 {
   "model": "auth.user",
   "fields": {
-    "password": "pbkdf2_sha256$260000$hiaWpMBqRaopf9tKX8LqwK$+UdLl7FVqr8QWwG4LJ9gWYdAojLDVcaLVJqVoXJd304=",
-    "last_login": "2021-07-22T19:21:44.765Z",
+    "password": "pbkdf2_sha256$216000$c1IeWI6K9DQP$Yw/PueRVUfLi9XGCpzO/XDqrID+Hbz9FIVccMrZwOPQ=",
+    "last_login": "2021-04-05T20:05:34.946Z",
     "is_superuser": true,
     "username": "admin",
     "first_name": "",
@@ -119709,20 +119215,6 @@
             "u_height",
             "device_count"
           ]
-        },
-        "PrefixDetailTable": {
-          "columns": [
-            "prefix",
-            "status",
-            "children",
-            "vrf",
-            "tenant",
-            "site",
-            "vlan",
-            "role",
-            "description"
-          ],
-          "available_columns": []
         }
       }
     }
