@@ -1,7 +1,5 @@
 # netbox-demo-data
 
-**Requires NetBox v2.11.0+**
-
 This repository serves as "dummy" data that can be used to populate a [NetBox](https://github.com/netbox-community/netbox) instance for the purposes of demonstration and testing. The set of demo data comprises a set of JSON objects which are to be loaded into NetBox's PostgreSQL database using Django's `loaddata` management command (see the instructions below).
 
 Once populated, the demo instance can be accessed using the username `admin` and password `admin`.
