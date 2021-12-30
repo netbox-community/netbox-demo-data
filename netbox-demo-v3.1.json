@@ -745,6 +745,14 @@
 },
 {
   "model": "sessions.session",
+  "pk": "ikgt6hyf7h71ys4ojl1zpgqybde6to4q",
+  "fields": {
+    "session_data": ".eJxVjEEKwjAQRe-StZSUmE7i0gvoDcLMZEKimEKTgiDe3RZc6OJv3vu8lwq49hzWJksoUZ3UqA6_jJDvUndRpdP8HHYltRfGXuY6XOgm3K-yPEprGzh__3-RjC1vhYltOppJwz4g74Ed2YSY2EantfaYNIyGo5HkTQQLhsgZP3IE0aLeHy-XOjQ:1n2xO5:LPfkFHrG5474BW0hJN488MwgGGHuc2CYprzSP4RozgU",
+    "expire_date": "2022-01-13T15:30:41.173Z"
+  }
+},
+{
+  "model": "sessions.session",
   "pk": "jzghkrf05djj09l1q9nx1av9dckf7s44",
   "fields": {
     "session_data": ".eJxVjEEKwjAQRe-StZSUmE7i0gvoDcLMZEKimEKTgiDe3RZc6OJv3vu8lwq49hzWJksoUZ3UqA6_jJDvUndRpdP8HHYltRfGXuY6XOgm3K-yPEprGzh__3-RjC1vhYltOppJwz4g74Ed2YSY2EantfaYNIyGo5HkTQQLhsgZP3IE0aLeHy-XOjQ:1mOLKA:09DVMAwSHPtbK7KzkJ3lrTxq5dv9zsWjbZ7vyvevBUo",
@@ -828,7 +836,7 @@
   "pk": 1,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.131Z",
+    "last_updated": "2021-12-30T15:28:00.584Z",
     "custom_field_data": {},
     "cid": "KKDG4923",
     "provider": 5,
@@ -848,7 +856,7 @@
   "pk": 2,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.119Z",
+    "last_updated": "2021-12-30T15:28:00.573Z",
     "custom_field_data": {},
     "cid": "JHEW3951",
     "provider": 5,
@@ -868,7 +876,7 @@
   "pk": 3,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.147Z",
+    "last_updated": "2021-12-30T15:28:00.600Z",
     "custom_field_data": {},
     "cid": "PPJQ5091",
     "provider": 5,
@@ -888,7 +896,7 @@
   "pk": 4,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.155Z",
+    "last_updated": "2021-12-30T15:28:00.609Z",
     "custom_field_data": {},
     "cid": "QPMA5027",
     "provider": 5,
@@ -908,7 +916,7 @@
   "pk": 5,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.123Z",
+    "last_updated": "2021-12-30T15:28:00.577Z",
     "custom_field_data": {},
     "cid": "KAGO3917",
     "provider": 5,
@@ -928,7 +936,7 @@
   "pk": 6,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.135Z",
+    "last_updated": "2021-12-30T15:28:00.588Z",
     "custom_field_data": {},
     "cid": "KLQU4018",
     "provider": 5,
@@ -948,7 +956,7 @@
   "pk": 7,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.143Z",
+    "last_updated": "2021-12-30T15:28:00.596Z",
     "custom_field_data": {},
     "cid": "LQRT4981",
     "provider": 5,
@@ -968,7 +976,7 @@
   "pk": 9,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.139Z",
+    "last_updated": "2021-12-30T15:28:00.592Z",
     "custom_field_data": {},
     "cid": "KSIR0381",
     "provider": 5,
@@ -988,7 +996,7 @@
   "pk": 10,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.115Z",
+    "last_updated": "2021-12-30T15:28:00.568Z",
     "custom_field_data": {},
     "cid": "DOQHD947",
     "provider": 5,
@@ -1008,7 +1016,7 @@
   "pk": 11,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.111Z",
+    "last_updated": "2021-12-30T15:28:00.564Z",
     "custom_field_data": {},
     "cid": "DJDP9577",
     "provider": 5,
@@ -1028,7 +1036,7 @@
   "pk": 12,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.127Z",
+    "last_updated": "2021-12-30T15:28:00.581Z",
     "custom_field_data": {},
     "cid": "KDPO0597",
     "provider": 5,
@@ -1048,7 +1056,7 @@
   "pk": 13,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.151Z",
+    "last_updated": "2021-12-30T15:28:00.604Z",
     "custom_field_data": {},
     "cid": "QMKD2436",
     "provider": 5,
@@ -1068,7 +1076,7 @@
   "pk": 14,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.107Z",
+    "last_updated": "2021-12-30T15:28:00.560Z",
     "custom_field_data": {},
     "cid": "DEOW4921",
     "provider": 5,
@@ -1088,7 +1096,7 @@
   "pk": 15,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.080Z",
+    "last_updated": "2021-12-30T15:28:00.532Z",
     "custom_field_data": {},
     "cid": "1002847289",
     "provider": 2,
@@ -1108,7 +1116,7 @@
   "pk": 16,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.076Z",
+    "last_updated": "2021-12-30T15:28:00.529Z",
     "custom_field_data": {},
     "cid": "1002845894",
     "provider": 2,
@@ -1128,7 +1136,7 @@
   "pk": 17,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.044Z",
+    "last_updated": "2021-12-30T15:28:00.496Z",
     "custom_field_data": {},
     "cid": "1002842917",
     "provider": 2,
@@ -1148,7 +1156,7 @@
   "pk": 18,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.052Z",
+    "last_updated": "2021-12-30T15:28:00.504Z",
     "custom_field_data": {},
     "cid": "1002843350",
     "provider": 2,
@@ -1168,7 +1176,7 @@
   "pk": 19,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.032Z",
+    "last_updated": "2021-12-30T15:28:00.484Z",
     "custom_field_data": {},
     "cid": "1002840283",
     "provider": 2,
@@ -1188,7 +1196,7 @@
   "pk": 20,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.036Z",
+    "last_updated": "2021-12-30T15:28:00.488Z",
     "custom_field_data": {},
     "cid": "1002840457",
     "provider": 2,
@@ -1208,7 +1216,7 @@
   "pk": 21,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.040Z",
+    "last_updated": "2021-12-30T15:28:00.492Z",
     "custom_field_data": {},
     "cid": "1002841093",
     "provider": 2,
@@ -1228,7 +1236,7 @@
   "pk": 22,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.072Z",
+    "last_updated": "2021-12-30T15:28:00.525Z",
     "custom_field_data": {},
     "cid": "1002844978",
     "provider": 2,
@@ -1248,7 +1256,7 @@
   "pk": 23,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.056Z",
+    "last_updated": "2021-12-30T15:28:00.508Z",
     "custom_field_data": {},
     "cid": "1002843428",
     "provider": 2,
@@ -1268,7 +1276,7 @@
   "pk": 24,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.048Z",
+    "last_updated": "2021-12-30T15:28:00.500Z",
     "custom_field_data": {},
     "cid": "1002843016",
     "provider": 2,
@@ -1288,7 +1296,7 @@
   "pk": 25,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.068Z",
+    "last_updated": "2021-12-30T15:28:00.520Z",
     "custom_field_data": {},
     "cid": "1002844927",
     "provider": 2,
@@ -1308,7 +1316,7 @@
   "pk": 26,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.064Z",
+    "last_updated": "2021-12-30T15:28:00.516Z",
     "custom_field_data": {},
     "cid": "1002844901",
     "provider": 2,
@@ -1328,7 +1336,7 @@
   "pk": 27,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-21T18:26:45.060Z",
+    "last_updated": "2021-12-30T15:28:00.512Z",
     "custom_field_data": {},
     "cid": "1002843688",
     "provider": 2,
@@ -1348,7 +1356,7 @@
   "pk": 28,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-21T18:26:45.104Z",
+    "last_updated": "2021-12-30T15:28:00.557Z",
     "custom_field_data": {},
     "cid": "398282",
     "provider": 9,
@@ -1368,7 +1376,7 @@
   "pk": 29,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-21T18:26:45.095Z",
+    "last_updated": "2021-12-30T15:28:00.549Z",
     "custom_field_data": {},
     "cid": "350927",
     "provider": 9,
@@ -1388,7 +1396,7 @@
   "pk": 30,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-21T18:26:45.088Z",
+    "last_updated": "2021-12-30T15:28:00.541Z",
     "custom_field_data": {},
     "cid": "319031",
     "provider": 9,
@@ -3322,7 +3330,7 @@
     ],
     "_link_peer_id": 1,
     "mark_connected": false,
-    "_path": 131,
+    "_path": 129,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3347,7 +3355,7 @@
     ],
     "_link_peer_id": 57,
     "mark_connected": false,
-    "_path": 133,
+    "_path": 131,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3372,7 +3380,7 @@
     ],
     "_link_peer_id": 65,
     "mark_connected": false,
-    "_path": 135,
+    "_path": 133,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3397,7 +3405,7 @@
     ],
     "_link_peer_id": 73,
     "mark_connected": false,
-    "_path": 137,
+    "_path": 135,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3422,7 +3430,7 @@
     ],
     "_link_peer_id": 81,
     "mark_connected": false,
-    "_path": 139,
+    "_path": 137,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3447,7 +3455,7 @@
     ],
     "_link_peer_id": 89,
     "mark_connected": false,
-    "_path": 141,
+    "_path": 139,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3472,7 +3480,7 @@
     ],
     "_link_peer_id": 97,
     "mark_connected": false,
-    "_path": 143,
+    "_path": 141,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3497,7 +3505,7 @@
     ],
     "_link_peer_id": 105,
     "mark_connected": false,
-    "_path": 145,
+    "_path": 143,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3522,7 +3530,7 @@
     ],
     "_link_peer_id": 113,
     "mark_connected": false,
-    "_path": 147,
+    "_path": 145,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3547,7 +3555,7 @@
     ],
     "_link_peer_id": 121,
     "mark_connected": false,
-    "_path": 149,
+    "_path": 147,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3572,7 +3580,7 @@
     ],
     "_link_peer_id": 129,
     "mark_connected": false,
-    "_path": 151,
+    "_path": 149,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3597,7 +3605,7 @@
     ],
     "_link_peer_id": 137,
     "mark_connected": false,
-    "_path": 153,
+    "_path": 151,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3622,7 +3630,7 @@
     ],
     "_link_peer_id": 145,
     "mark_connected": false,
-    "_path": 155,
+    "_path": 153,
     "type": "iec-60320-c14",
     "maximum_draw": 150,
     "allocated_draw": null
@@ -3933,7 +3941,7 @@
     ],
     "_link_peer_id": 2,
     "mark_connected": false,
-    "_path": 132,
+    "_path": 130,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -3958,7 +3966,7 @@
     ],
     "_link_peer_id": 58,
     "mark_connected": false,
-    "_path": 134,
+    "_path": 132,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -3983,7 +3991,7 @@
     ],
     "_link_peer_id": 66,
     "mark_connected": false,
-    "_path": 136,
+    "_path": 134,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -4008,7 +4016,7 @@
     ],
     "_link_peer_id": 74,
     "mark_connected": false,
-    "_path": 138,
+    "_path": 136,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -4033,7 +4041,7 @@
     ],
     "_link_peer_id": 82,
     "mark_connected": false,
-    "_path": 140,
+    "_path": 138,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -4058,7 +4066,7 @@
     ],
     "_link_peer_id": 90,
     "mark_connected": false,
-    "_path": 142,
+    "_path": 140,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -4083,7 +4091,7 @@
     ],
     "_link_peer_id": 98,
     "mark_connected": false,
-    "_path": 144,
+    "_path": 142,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -4108,7 +4116,7 @@
     ],
     "_link_peer_id": 106,
     "mark_connected": false,
-    "_path": 146,
+    "_path": 144,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -4133,7 +4141,7 @@
     ],
     "_link_peer_id": 114,
     "mark_connected": false,
-    "_path": 148,
+    "_path": 146,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -4158,7 +4166,7 @@
     ],
     "_link_peer_id": 122,
     "mark_connected": false,
-    "_path": 150,
+    "_path": 148,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -4183,7 +4191,7 @@
     ],
     "_link_peer_id": 130,
     "mark_connected": false,
-    "_path": 152,
+    "_path": 150,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -4208,7 +4216,7 @@
     ],
     "_link_peer_id": 138,
     "mark_connected": false,
-    "_path": 154,
+    "_path": 152,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -4233,7 +4241,7 @@
     ],
     "_link_peer_id": 146,
     "mark_connected": false,
-    "_path": 156,
+    "_path": 154,
     "type": "iec-60320-c14",
     "maximum_draw": null,
     "allocated_draw": null
@@ -4566,7 +4574,7 @@
     ],
     "_link_peer_id": 1,
     "mark_connected": false,
-    "_path": 105,
+    "_path": 103,
     "type": "nema-5-20r",
     "power_port": 14,
     "feed_leg": ""
@@ -4591,7 +4599,7 @@
     ],
     "_link_peer_id": 33,
     "mark_connected": false,
-    "_path": 106,
+    "_path": 104,
     "type": "nema-5-20r",
     "power_port": 14,
     "feed_leg": ""
@@ -4748,7 +4756,7 @@
     ],
     "_link_peer_id": 2,
     "mark_connected": false,
-    "_path": 107,
+    "_path": 105,
     "type": "nema-5-20r",
     "power_port": 21,
     "feed_leg": ""
@@ -4773,7 +4781,7 @@
     ],
     "_link_peer_id": 34,
     "mark_connected": false,
-    "_path": 108,
+    "_path": 106,
     "type": "nema-5-20r",
     "power_port": 21,
     "feed_leg": ""
@@ -4930,7 +4938,7 @@
     ],
     "_link_peer_id": 3,
     "mark_connected": false,
-    "_path": 109,
+    "_path": 107,
     "type": "nema-5-20r",
     "power_port": 22,
     "feed_leg": ""
@@ -4955,7 +4963,7 @@
     ],
     "_link_peer_id": 35,
     "mark_connected": false,
-    "_path": 110,
+    "_path": 108,
     "type": "nema-5-20r",
     "power_port": 22,
     "feed_leg": ""
@@ -5112,7 +5120,7 @@
     ],
     "_link_peer_id": 4,
     "mark_connected": false,
-    "_path": 111,
+    "_path": 109,
     "type": "nema-5-20r",
     "power_port": 23,
     "feed_leg": ""
@@ -5137,7 +5145,7 @@
     ],
     "_link_peer_id": 36,
     "mark_connected": false,
-    "_path": 112,
+    "_path": 110,
     "type": "nema-5-20r",
     "power_port": 23,
     "feed_leg": ""
@@ -5294,7 +5302,7 @@
     ],
     "_link_peer_id": 5,
     "mark_connected": false,
-    "_path": 113,
+    "_path": 111,
     "type": "nema-5-20r",
     "power_port": 24,
     "feed_leg": ""
@@ -5319,7 +5327,7 @@
     ],
     "_link_peer_id": 37,
     "mark_connected": false,
-    "_path": 114,
+    "_path": 112,
     "type": "nema-5-20r",
     "power_port": 24,
     "feed_leg": ""
@@ -5476,7 +5484,7 @@
     ],
     "_link_peer_id": 6,
     "mark_connected": false,
-    "_path": 115,
+    "_path": 113,
     "type": "nema-5-20r",
     "power_port": 25,
     "feed_leg": ""
@@ -5501,7 +5509,7 @@
     ],
     "_link_peer_id": 38,
     "mark_connected": false,
-    "_path": 116,
+    "_path": 114,
     "type": "nema-5-20r",
     "power_port": 25,
     "feed_leg": ""
@@ -5658,7 +5666,7 @@
     ],
     "_link_peer_id": 7,
     "mark_connected": false,
-    "_path": 117,
+    "_path": 115,
     "type": "nema-5-20r",
     "power_port": 26,
     "feed_leg": ""
@@ -5683,7 +5691,7 @@
     ],
     "_link_peer_id": 39,
     "mark_connected": false,
-    "_path": 118,
+    "_path": 116,
     "type": "nema-5-20r",
     "power_port": 26,
     "feed_leg": ""
@@ -5840,7 +5848,7 @@
     ],
     "_link_peer_id": 8,
     "mark_connected": false,
-    "_path": 119,
+    "_path": 117,
     "type": "nema-5-20r",
     "power_port": 27,
     "feed_leg": ""
@@ -5865,7 +5873,7 @@
     ],
     "_link_peer_id": 40,
     "mark_connected": false,
-    "_path": 120,
+    "_path": 118,
     "type": "nema-5-20r",
     "power_port": 27,
     "feed_leg": ""
@@ -6022,7 +6030,7 @@
     ],
     "_link_peer_id": 9,
     "mark_connected": false,
-    "_path": 121,
+    "_path": 119,
     "type": "nema-5-20r",
     "power_port": 28,
     "feed_leg": ""
@@ -6047,7 +6055,7 @@
     ],
     "_link_peer_id": 41,
     "mark_connected": false,
-    "_path": 122,
+    "_path": 120,
     "type": "nema-5-20r",
     "power_port": 28,
     "feed_leg": ""
@@ -6204,7 +6212,7 @@
     ],
     "_link_peer_id": 10,
     "mark_connected": false,
-    "_path": 123,
+    "_path": 121,
     "type": "nema-5-20r",
     "power_port": 29,
     "feed_leg": ""
@@ -6229,7 +6237,7 @@
     ],
     "_link_peer_id": 42,
     "mark_connected": false,
-    "_path": 124,
+    "_path": 122,
     "type": "nema-5-20r",
     "power_port": 29,
     "feed_leg": ""
@@ -6386,7 +6394,7 @@
     ],
     "_link_peer_id": 11,
     "mark_connected": false,
-    "_path": 125,
+    "_path": 123,
     "type": "nema-5-20r",
     "power_port": 30,
     "feed_leg": ""
@@ -6411,7 +6419,7 @@
     ],
     "_link_peer_id": 43,
     "mark_connected": false,
-    "_path": 126,
+    "_path": 124,
     "type": "nema-5-20r",
     "power_port": 30,
     "feed_leg": ""
@@ -6568,7 +6576,7 @@
     ],
     "_link_peer_id": 12,
     "mark_connected": false,
-    "_path": 127,
+    "_path": 125,
     "type": "nema-5-20r",
     "power_port": 31,
     "feed_leg": ""
@@ -6593,7 +6601,7 @@
     ],
     "_link_peer_id": 44,
     "mark_connected": false,
-    "_path": 128,
+    "_path": 126,
     "type": "nema-5-20r",
     "power_port": 31,
     "feed_leg": ""
@@ -6750,7 +6758,7 @@
     ],
     "_link_peer_id": 13,
     "mark_connected": false,
-    "_path": 129,
+    "_path": 127,
     "type": "nema-5-20r",
     "power_port": 32,
     "feed_leg": ""
@@ -6775,7 +6783,7 @@
     ],
     "_link_peer_id": 45,
     "mark_connected": false,
-    "_path": 130,
+    "_path": 128,
     "type": "nema-5-20r",
     "power_port": 32,
     "feed_leg": ""
@@ -6931,7 +6939,7 @@
     ],
     "_link_peer_id": 1,
     "mark_connected": false,
-    "_path": null,
+    "_path": 1,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -6972,7 +6980,7 @@
     ],
     "_link_peer_id": 23,
     "mark_connected": false,
-    "_path": null,
+    "_path": 2,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -7013,7 +7021,7 @@
     ],
     "_link_peer_id": 170,
     "mark_connected": false,
-    "_path": 29,
+    "_path": 3,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -7054,7 +7062,7 @@
     ],
     "_link_peer_id": 171,
     "mark_connected": false,
-    "_path": 30,
+    "_path": 4,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -7437,7 +7445,7 @@
     ],
     "_link_peer_id": 2,
     "mark_connected": false,
-    "_path": null,
+    "_path": 7,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -7478,7 +7486,7 @@
     ],
     "_link_peer_id": 24,
     "mark_connected": false,
-    "_path": null,
+    "_path": 8,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -7519,7 +7527,7 @@
     ],
     "_link_peer_id": 221,
     "mark_connected": false,
-    "_path": 35,
+    "_path": 9,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -7560,7 +7568,7 @@
     ],
     "_link_peer_id": 222,
     "mark_connected": false,
-    "_path": 36,
+    "_path": 10,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -7943,7 +7951,7 @@
     ],
     "_link_peer_id": 3,
     "mark_connected": false,
-    "_path": null,
+    "_path": 13,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -7984,7 +7992,7 @@
     ],
     "_link_peer_id": 25,
     "mark_connected": false,
-    "_path": null,
+    "_path": 14,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -8025,7 +8033,7 @@
     ],
     "_link_peer_id": 272,
     "mark_connected": false,
-    "_path": 41,
+    "_path": 15,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -8066,7 +8074,7 @@
     ],
     "_link_peer_id": 273,
     "mark_connected": false,
-    "_path": 42,
+    "_path": 16,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -8449,7 +8457,7 @@
     ],
     "_link_peer_id": 4,
     "mark_connected": false,
-    "_path": null,
+    "_path": 19,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -8490,7 +8498,7 @@
     ],
     "_link_peer_id": 26,
     "mark_connected": false,
-    "_path": null,
+    "_path": 20,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -8531,7 +8539,7 @@
     ],
     "_link_peer_id": 323,
     "mark_connected": false,
-    "_path": 47,
+    "_path": 21,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -8572,7 +8580,7 @@
     ],
     "_link_peer_id": 324,
     "mark_connected": false,
-    "_path": 48,
+    "_path": 22,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -8955,7 +8963,7 @@
     ],
     "_link_peer_id": 5,
     "mark_connected": false,
-    "_path": null,
+    "_path": 25,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -8996,7 +9004,7 @@
     ],
     "_link_peer_id": 27,
     "mark_connected": false,
-    "_path": null,
+    "_path": 26,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -9037,7 +9045,7 @@
     ],
     "_link_peer_id": 374,
     "mark_connected": false,
-    "_path": 53,
+    "_path": 27,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -9078,7 +9086,7 @@
     ],
     "_link_peer_id": 375,
     "mark_connected": false,
-    "_path": 54,
+    "_path": 28,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -9461,7 +9469,7 @@
     ],
     "_link_peer_id": 6,
     "mark_connected": false,
-    "_path": null,
+    "_path": 31,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -9502,7 +9510,7 @@
     ],
     "_link_peer_id": 28,
     "mark_connected": false,
-    "_path": null,
+    "_path": 32,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -9543,7 +9551,7 @@
     ],
     "_link_peer_id": 425,
     "mark_connected": false,
-    "_path": 59,
+    "_path": 33,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -9584,7 +9592,7 @@
     ],
     "_link_peer_id": 426,
     "mark_connected": false,
-    "_path": 60,
+    "_path": 34,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -9967,7 +9975,7 @@
     ],
     "_link_peer_id": 8,
     "mark_connected": false,
-    "_path": null,
+    "_path": 37,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -10008,7 +10016,7 @@
     ],
     "_link_peer_id": 29,
     "mark_connected": false,
-    "_path": null,
+    "_path": 38,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -10049,7 +10057,7 @@
     ],
     "_link_peer_id": 476,
     "mark_connected": false,
-    "_path": 65,
+    "_path": 39,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -10090,7 +10098,7 @@
     ],
     "_link_peer_id": 477,
     "mark_connected": false,
-    "_path": 66,
+    "_path": 40,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -10473,7 +10481,7 @@
     ],
     "_link_peer_id": 10,
     "mark_connected": false,
-    "_path": null,
+    "_path": 43,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -10514,7 +10522,7 @@
     ],
     "_link_peer_id": 30,
     "mark_connected": false,
-    "_path": null,
+    "_path": 44,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -10555,7 +10563,7 @@
     ],
     "_link_peer_id": 527,
     "mark_connected": false,
-    "_path": 71,
+    "_path": 45,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -10596,7 +10604,7 @@
     ],
     "_link_peer_id": 528,
     "mark_connected": false,
-    "_path": 72,
+    "_path": 46,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -10979,7 +10987,7 @@
     ],
     "_link_peer_id": 11,
     "mark_connected": false,
-    "_path": null,
+    "_path": 49,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -11020,7 +11028,7 @@
     ],
     "_link_peer_id": 31,
     "mark_connected": false,
-    "_path": null,
+    "_path": 50,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -11061,7 +11069,7 @@
     ],
     "_link_peer_id": 578,
     "mark_connected": false,
-    "_path": 77,
+    "_path": 51,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -11102,7 +11110,7 @@
     ],
     "_link_peer_id": 579,
     "mark_connected": false,
-    "_path": 78,
+    "_path": 52,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -11485,7 +11493,7 @@
     ],
     "_link_peer_id": 12,
     "mark_connected": false,
-    "_path": null,
+    "_path": 55,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -11526,7 +11534,7 @@
     ],
     "_link_peer_id": 32,
     "mark_connected": false,
-    "_path": null,
+    "_path": 56,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -11567,7 +11575,7 @@
     ],
     "_link_peer_id": 629,
     "mark_connected": false,
-    "_path": 83,
+    "_path": 57,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -11608,7 +11616,7 @@
     ],
     "_link_peer_id": 630,
     "mark_connected": false,
-    "_path": 84,
+    "_path": 58,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -11991,7 +11999,7 @@
     ],
     "_link_peer_id": 13,
     "mark_connected": false,
-    "_path": null,
+    "_path": 61,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -12032,7 +12040,7 @@
     ],
     "_link_peer_id": 33,
     "mark_connected": false,
-    "_path": null,
+    "_path": 62,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -12073,7 +12081,7 @@
     ],
     "_link_peer_id": 680,
     "mark_connected": false,
-    "_path": 89,
+    "_path": 63,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -12114,7 +12122,7 @@
     ],
     "_link_peer_id": 681,
     "mark_connected": false,
-    "_path": 90,
+    "_path": 64,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -12497,7 +12505,7 @@
     ],
     "_link_peer_id": 14,
     "mark_connected": false,
-    "_path": null,
+    "_path": 67,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -12538,7 +12546,7 @@
     ],
     "_link_peer_id": 34,
     "mark_connected": false,
-    "_path": null,
+    "_path": 68,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -12579,7 +12587,7 @@
     ],
     "_link_peer_id": 731,
     "mark_connected": false,
-    "_path": 95,
+    "_path": 69,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -12620,7 +12628,7 @@
     ],
     "_link_peer_id": 732,
     "mark_connected": false,
-    "_path": 96,
+    "_path": 70,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -13003,7 +13011,7 @@
     ],
     "_link_peer_id": 15,
     "mark_connected": false,
-    "_path": null,
+    "_path": 73,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -13044,7 +13052,7 @@
     ],
     "_link_peer_id": 35,
     "mark_connected": false,
-    "_path": null,
+    "_path": 74,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -13085,7 +13093,7 @@
     ],
     "_link_peer_id": 782,
     "mark_connected": false,
-    "_path": 101,
+    "_path": 75,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -13126,7 +13134,7 @@
     ],
     "_link_peer_id": 783,
     "mark_connected": false,
-    "_path": 102,
+    "_path": 76,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -13509,7 +13517,7 @@
     ],
     "_link_peer_id": 3,
     "mark_connected": false,
-    "_path": 31,
+    "_path": 5,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -13550,7 +13558,7 @@
     ],
     "_link_peer_id": 4,
     "mark_connected": false,
-    "_path": 32,
+    "_path": 6,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -15453,7 +15461,7 @@
     ],
     "_link_peer_id": 16,
     "mark_connected": false,
-    "_path": 37,
+    "_path": 11,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -15494,7 +15502,7 @@
     ],
     "_link_peer_id": 17,
     "mark_connected": false,
-    "_path": 38,
+    "_path": 12,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -17397,7 +17405,7 @@
     ],
     "_link_peer_id": 29,
     "mark_connected": false,
-    "_path": 43,
+    "_path": 17,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -17438,7 +17446,7 @@
     ],
     "_link_peer_id": 30,
     "mark_connected": false,
-    "_path": 44,
+    "_path": 18,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -19341,7 +19349,7 @@
     ],
     "_link_peer_id": 42,
     "mark_connected": false,
-    "_path": 49,
+    "_path": 23,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -19382,7 +19390,7 @@
     ],
     "_link_peer_id": 43,
     "mark_connected": false,
-    "_path": 50,
+    "_path": 24,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -21285,7 +21293,7 @@
     ],
     "_link_peer_id": 55,
     "mark_connected": false,
-    "_path": 55,
+    "_path": 29,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -21326,7 +21334,7 @@
     ],
     "_link_peer_id": 56,
     "mark_connected": false,
-    "_path": 56,
+    "_path": 30,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -23229,7 +23237,7 @@
     ],
     "_link_peer_id": 68,
     "mark_connected": false,
-    "_path": 61,
+    "_path": 35,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -23270,7 +23278,7 @@
     ],
     "_link_peer_id": 69,
     "mark_connected": false,
-    "_path": 62,
+    "_path": 36,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -25173,7 +25181,7 @@
     ],
     "_link_peer_id": 81,
     "mark_connected": false,
-    "_path": 67,
+    "_path": 41,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -25214,7 +25222,7 @@
     ],
     "_link_peer_id": 82,
     "mark_connected": false,
-    "_path": 68,
+    "_path": 42,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -27117,7 +27125,7 @@
     ],
     "_link_peer_id": 94,
     "mark_connected": false,
-    "_path": 73,
+    "_path": 47,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -27158,7 +27166,7 @@
     ],
     "_link_peer_id": 95,
     "mark_connected": false,
-    "_path": 74,
+    "_path": 48,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -29061,7 +29069,7 @@
     ],
     "_link_peer_id": 107,
     "mark_connected": false,
-    "_path": 79,
+    "_path": 53,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -29102,7 +29110,7 @@
     ],
     "_link_peer_id": 108,
     "mark_connected": false,
-    "_path": 80,
+    "_path": 54,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -31005,7 +31013,7 @@
     ],
     "_link_peer_id": 120,
     "mark_connected": false,
-    "_path": 85,
+    "_path": 59,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -31046,7 +31054,7 @@
     ],
     "_link_peer_id": 121,
     "mark_connected": false,
-    "_path": 86,
+    "_path": 60,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -32949,7 +32957,7 @@
     ],
     "_link_peer_id": 133,
     "mark_connected": false,
-    "_path": 91,
+    "_path": 65,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -32990,7 +32998,7 @@
     ],
     "_link_peer_id": 134,
     "mark_connected": false,
-    "_path": 92,
+    "_path": 66,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -34893,7 +34901,7 @@
     ],
     "_link_peer_id": 146,
     "mark_connected": false,
-    "_path": 97,
+    "_path": 71,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -34934,7 +34942,7 @@
     ],
     "_link_peer_id": 147,
     "mark_connected": false,
-    "_path": 98,
+    "_path": 72,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -36837,7 +36845,7 @@
     ],
     "_link_peer_id": 159,
     "mark_connected": false,
-    "_path": 103,
+    "_path": 77,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -36878,7 +36886,7 @@
     ],
     "_link_peer_id": 160,
     "mark_connected": false,
-    "_path": 104,
+    "_path": 78,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -39921,7 +39929,7 @@
     ],
     "_link_peer_id": 1393,
     "mark_connected": false,
-    "_path": null,
+    "_path": 87,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -39962,7 +39970,7 @@
     ],
     "_link_peer_id": 1394,
     "mark_connected": false,
-    "_path": null,
+    "_path": 88,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -40003,7 +40011,7 @@
     ],
     "_link_peer_id": 1395,
     "mark_connected": false,
-    "_path": null,
+    "_path": 89,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -40044,7 +40052,7 @@
     ],
     "_link_peer_id": 1396,
     "mark_connected": false,
-    "_path": null,
+    "_path": 90,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -41947,7 +41955,7 @@
     ],
     "_link_peer_id": 1441,
     "mark_connected": false,
-    "_path": null,
+    "_path": 79,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -41988,7 +41996,7 @@
     ],
     "_link_peer_id": 1442,
     "mark_connected": false,
-    "_path": null,
+    "_path": 80,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -42029,7 +42037,7 @@
     ],
     "_link_peer_id": 1443,
     "mark_connected": false,
-    "_path": null,
+    "_path": 81,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -42070,7 +42078,7 @@
     ],
     "_link_peer_id": 1444,
     "mark_connected": false,
-    "_path": null,
+    "_path": 82,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -43973,7 +43981,7 @@
     ],
     "_link_peer_id": 1489,
     "mark_connected": false,
-    "_path": null,
+    "_path": 83,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -44014,7 +44022,7 @@
     ],
     "_link_peer_id": 1490,
     "mark_connected": false,
-    "_path": null,
+    "_path": 84,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -44055,7 +44063,7 @@
     ],
     "_link_peer_id": 1491,
     "mark_connected": false,
-    "_path": null,
+    "_path": 85,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -44096,7 +44104,7 @@
     ],
     "_link_peer_id": 1492,
     "mark_connected": false,
-    "_path": null,
+    "_path": 86,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -45847,7 +45855,7 @@
     ],
     "_link_peer_id": 1297,
     "mark_connected": false,
-    "_path": null,
+    "_path": 91,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -45888,7 +45896,7 @@
     ],
     "_link_peer_id": 1298,
     "mark_connected": false,
-    "_path": null,
+    "_path": 92,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -45929,7 +45937,7 @@
     ],
     "_link_peer_id": 1345,
     "mark_connected": false,
-    "_path": null,
+    "_path": 93,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -45970,7 +45978,7 @@
     ],
     "_link_peer_id": 1346,
     "mark_connected": false,
-    "_path": null,
+    "_path": 94,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -46011,7 +46019,7 @@
     ],
     "_link_peer_id": 1249,
     "mark_connected": false,
-    "_path": null,
+    "_path": 95,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -46052,7 +46060,7 @@
     ],
     "_link_peer_id": 1250,
     "mark_connected": false,
-    "_path": null,
+    "_path": 96,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -47689,7 +47697,7 @@
     ],
     "_link_peer_id": 1299,
     "mark_connected": false,
-    "_path": null,
+    "_path": 97,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -47730,7 +47738,7 @@
     ],
     "_link_peer_id": 1300,
     "mark_connected": false,
-    "_path": null,
+    "_path": 98,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -47771,7 +47779,7 @@
     ],
     "_link_peer_id": 1347,
     "mark_connected": false,
-    "_path": null,
+    "_path": 99,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -47812,7 +47820,7 @@
     ],
     "_link_peer_id": 1348,
     "mark_connected": false,
-    "_path": null,
+    "_path": 100,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -47853,7 +47861,7 @@
     ],
     "_link_peer_id": 1251,
     "mark_connected": false,
-    "_path": null,
+    "_path": 101,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -47894,7 +47902,7 @@
     ],
     "_link_peer_id": 1252,
     "mark_connected": false,
-    "_path": null,
+    "_path": 102,
     "enabled": true,
     "mac_address": null,
     "mtu": null,
@@ -89040,7 +89048,42 @@
 },
 {
   "model": "dcim.cablepath",
-  "pk": 29,
+  "pk": 1,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 1,
+    "destination_type": [
+      "circuits",
+      "providernetwork"
+    ],
+    "destination_id": 1,
+    "path": "[\"19:7\", \"15:1\", \"15:48\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 2,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 2,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:21\", \"15:23\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 3,
   "fields": {
     "origin_type": [
       "dcim",
@@ -89052,7 +89095,489 @@
       "interface"
     ],
     "destination_id": 170,
-    "path": "[\"46:35\"]",
+    "path": "[\"19:35\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 4,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 4,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 171,
+    "path": "[\"19:36\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 5,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 170,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 3,
+    "path": "[\"19:35\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 6,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 171,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 4,
+    "path": "[\"19:36\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 7,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 14,
+    "destination_type": [
+      "circuits",
+      "providernetwork"
+    ],
+    "destination_id": 1,
+    "path": "[\"19:4\", \"15:2\", \"15:45\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 8,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 15,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:22\", \"15:24\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 9,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 16,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 221,
+    "path": "[\"19:37\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 10,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 17,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 222,
+    "path": "[\"19:38\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 11,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 221,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 16,
+    "path": "[\"19:37\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 12,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 222,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 17,
+    "path": "[\"19:38\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 13,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 27,
+    "destination_type": [
+      "circuits",
+      "providernetwork"
+    ],
+    "destination_id": 1,
+    "path": "[\"19:12\", \"15:3\", \"15:52\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 14,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 28,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:23\", \"15:25\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 15,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 29,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 272,
+    "path": "[\"19:39\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 16,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 30,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 273,
+    "path": "[\"19:40\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 17,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 272,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 29,
+    "path": "[\"19:39\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 18,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 273,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 30,
+    "path": "[\"19:40\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 19,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 40,
+    "destination_type": [
+      "circuits",
+      "providernetwork"
+    ],
+    "destination_id": 1,
+    "path": "[\"19:14\", \"15:4\", \"15:54\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 20,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 41,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:24\", \"15:26\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 21,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 42,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 323,
+    "path": "[\"19:41\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 22,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 43,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 324,
+    "path": "[\"19:42\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 23,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 323,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 42,
+    "path": "[\"19:41\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 24,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 324,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 43,
+    "path": "[\"19:42\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 25,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 53,
+    "destination_type": [
+      "circuits",
+      "providernetwork"
+    ],
+    "destination_id": 1,
+    "path": "[\"19:5\", \"15:5\", \"15:46\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 26,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 54,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:25\", \"15:27\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 27,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 55,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 374,
+    "path": "[\"19:43\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 28,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 56,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 375,
+    "path": "[\"19:44\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 29,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 374,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 55,
+    "path": "[\"19:43\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89065,13 +89590,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 4,
+    "origin_id": 375,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 171,
-    "path": "[\"46:36\"]",
+    "destination_id": 56,
+    "path": "[\"19:44\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89084,13 +89609,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 170,
+    "origin_id": 66,
     "destination_type": [
-      "dcim",
-      "interface"
+      "circuits",
+      "providernetwork"
     ],
-    "destination_id": 3,
-    "path": "[\"46:35\"]",
+    "destination_id": 1,
+    "path": "[\"19:8\", \"15:6\", \"15:49\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89103,13 +89628,48 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 171,
+    "origin_id": 67,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:26\", \"15:28\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 33,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 68,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 4,
-    "path": "[\"46:36\"]",
+    "destination_id": 425,
+    "path": "[\"19:45\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 34,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 69,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 426,
+    "path": "[\"19:46\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89122,13 +89682,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 16,
+    "origin_id": 425,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 221,
-    "path": "[\"46:37\"]",
+    "destination_id": 68,
+    "path": "[\"19:45\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89141,13 +89701,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 17,
+    "origin_id": 426,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 222,
-    "path": "[\"46:38\"]",
+    "destination_id": 69,
+    "path": "[\"19:46\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89160,13 +89720,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 221,
+    "origin_id": 79,
     "destination_type": [
-      "dcim",
-      "interface"
+      "circuits",
+      "providernetwork"
     ],
-    "destination_id": 16,
-    "path": "[\"46:37\"]",
+    "destination_id": 1,
+    "path": "[\"19:10\", \"15:8\", \"15:51\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89179,13 +89739,48 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 222,
+    "origin_id": 80,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:27\", \"15:29\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 39,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 81,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 17,
-    "path": "[\"46:38\"]",
+    "destination_id": 476,
+    "path": "[\"19:47\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 40,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 82,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 477,
+    "path": "[\"19:48\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89198,13 +89793,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 29,
+    "origin_id": 476,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 272,
-    "path": "[\"46:39\"]",
+    "destination_id": 81,
+    "path": "[\"19:47\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89217,13 +89812,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 30,
+    "origin_id": 477,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 273,
-    "path": "[\"46:40\"]",
+    "destination_id": 82,
+    "path": "[\"19:48\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89236,13 +89831,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 272,
+    "origin_id": 92,
     "destination_type": [
-      "dcim",
-      "interface"
+      "circuits",
+      "providernetwork"
     ],
-    "destination_id": 29,
-    "path": "[\"46:39\"]",
+    "destination_id": 1,
+    "path": "[\"19:9\", \"15:10\", \"15:50\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89255,13 +89850,48 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 273,
+    "origin_id": 93,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:28\", \"15:30\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 45,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 94,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 30,
-    "path": "[\"46:40\"]",
+    "destination_id": 527,
+    "path": "[\"19:49\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 46,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 95,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 528,
+    "path": "[\"19:50\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89274,13 +89904,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 42,
+    "origin_id": 527,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 323,
-    "path": "[\"46:41\"]",
+    "destination_id": 94,
+    "path": "[\"19:49\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89293,13 +89923,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 43,
+    "origin_id": 528,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 324,
-    "path": "[\"46:42\"]",
+    "destination_id": 95,
+    "path": "[\"19:50\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89312,13 +89942,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 323,
+    "origin_id": 105,
     "destination_type": [
-      "dcim",
-      "interface"
+      "circuits",
+      "providernetwork"
     ],
-    "destination_id": 42,
-    "path": "[\"46:41\"]",
+    "destination_id": 1,
+    "path": "[\"19:3\", \"15:11\", \"15:44\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89331,13 +89961,48 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 324,
+    "origin_id": 106,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:29\", \"15:31\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 51,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 107,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 43,
-    "path": "[\"46:42\"]",
+    "destination_id": 578,
+    "path": "[\"19:51\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 52,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 108,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 579,
+    "path": "[\"19:52\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89350,13 +90015,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 55,
+    "origin_id": 578,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 374,
-    "path": "[\"46:43\"]",
+    "destination_id": 107,
+    "path": "[\"19:51\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89369,13 +90034,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 56,
+    "origin_id": 579,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 375,
-    "path": "[\"46:44\"]",
+    "destination_id": 108,
+    "path": "[\"19:52\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89388,13 +90053,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 374,
+    "origin_id": 118,
     "destination_type": [
-      "dcim",
-      "interface"
+      "circuits",
+      "providernetwork"
     ],
-    "destination_id": 55,
-    "path": "[\"46:43\"]",
+    "destination_id": 1,
+    "path": "[\"19:2\", \"15:12\", \"15:43\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89407,13 +90072,48 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 375,
+    "origin_id": 119,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:30\", \"15:32\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 57,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 120,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 56,
-    "path": "[\"46:44\"]",
+    "destination_id": 629,
+    "path": "[\"19:53\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 58,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 121,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 630,
+    "path": "[\"19:54\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89426,13 +90126,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 68,
+    "origin_id": 629,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 425,
-    "path": "[\"46:45\"]",
+    "destination_id": 120,
+    "path": "[\"19:53\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89445,13 +90145,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 69,
+    "origin_id": 630,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 426,
-    "path": "[\"46:46\"]",
+    "destination_id": 121,
+    "path": "[\"19:54\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89464,13 +90164,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 425,
+    "origin_id": 131,
     "destination_type": [
-      "dcim",
-      "interface"
+      "circuits",
+      "providernetwork"
     ],
-    "destination_id": 68,
-    "path": "[\"46:45\"]",
+    "destination_id": 1,
+    "path": "[\"19:6\", \"15:13\", \"15:47\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89483,13 +90183,48 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 426,
+    "origin_id": 132,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:31\", \"15:33\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 63,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 133,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 69,
-    "path": "[\"46:46\"]",
+    "destination_id": 680,
+    "path": "[\"19:55\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 64,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 134,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 681,
+    "path": "[\"19:56\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89502,13 +90237,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 81,
+    "origin_id": 680,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 476,
-    "path": "[\"46:47\"]",
+    "destination_id": 133,
+    "path": "[\"19:55\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89521,13 +90256,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 82,
+    "origin_id": 681,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 477,
-    "path": "[\"46:48\"]",
+    "destination_id": 134,
+    "path": "[\"19:56\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89540,13 +90275,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 476,
+    "origin_id": 144,
     "destination_type": [
-      "dcim",
-      "interface"
+      "circuits",
+      "providernetwork"
     ],
-    "destination_id": 81,
-    "path": "[\"46:47\"]",
+    "destination_id": 1,
+    "path": "[\"19:13\", \"15:14\", \"15:53\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89559,13 +90294,48 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 477,
+    "origin_id": 145,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:32\", \"15:34\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 69,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 146,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 82,
-    "path": "[\"46:48\"]",
+    "destination_id": 731,
+    "path": "[\"19:57\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 70,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 147,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 732,
+    "path": "[\"19:58\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89578,13 +90348,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 94,
+    "origin_id": 731,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 527,
-    "path": "[\"46:49\"]",
+    "destination_id": 146,
+    "path": "[\"19:57\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89597,13 +90367,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 95,
+    "origin_id": 732,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 528,
-    "path": "[\"46:50\"]",
+    "destination_id": 147,
+    "path": "[\"19:58\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89616,13 +90386,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 527,
+    "origin_id": 157,
     "destination_type": [
-      "dcim",
-      "interface"
+      "circuits",
+      "providernetwork"
     ],
-    "destination_id": 94,
-    "path": "[\"46:49\"]",
+    "destination_id": 1,
+    "path": "[\"19:1\", \"15:15\", \"15:42\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89635,13 +90405,48 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 528,
+    "origin_id": 158,
+    "destination_type": null,
+    "destination_id": null,
+    "path": "[\"19:33\", \"15:35\"]",
+    "is_active": false,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 75,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 159,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 95,
-    "path": "[\"46:50\"]",
+    "destination_id": 782,
+    "path": "[\"19:59\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 76,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 160,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 783,
+    "path": "[\"19:60\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89654,13 +90459,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 107,
+    "origin_id": 782,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 578,
-    "path": "[\"46:51\"]",
+    "destination_id": 159,
+    "path": "[\"19:59\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89673,13 +90478,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 108,
+    "origin_id": 783,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 579,
-    "path": "[\"46:52\"]",
+    "destination_id": 160,
+    "path": "[\"19:60\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89692,13 +90497,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 578,
+    "origin_id": 916,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 107,
-    "path": "[\"46:51\"]",
+    "destination_id": 1018,
+    "path": "[\"19:116\", \"30:1441\", \"47:1253\", \"19:90\", \"15:39\", \"15:38\", \"19:89\", \"47:1250\", \"30:1297\", \"19:104\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89711,13 +90516,51 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 579,
+    "origin_id": 917,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 108,
-    "path": "[\"46:52\"]",
+    "destination_id": 1019,
+    "path": "[\"19:117\", \"30:1442\", \"47:1253\", \"19:90\", \"15:39\", \"15:38\", \"19:89\", \"47:1250\", \"30:1298\", \"19:105\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 81,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 918,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 1066,
+    "path": "[\"19:118\", \"30:1443\", \"47:1253\", \"19:90\", \"15:39\", \"15:38\", \"19:89\", \"47:1250\", \"30:1299\", \"19:106\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 82,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 919,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 1067,
+    "path": "[\"19:119\", \"30:1444\", \"47:1253\", \"19:90\", \"15:39\", \"15:38\", \"19:89\", \"47:1250\", \"30:1300\", \"19:107\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89730,13 +90573,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 120,
+    "origin_id": 969,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 629,
-    "path": "[\"46:53\"]",
+    "destination_id": 1020,
+    "path": "[\"19:120\", \"30:1489\", \"47:1254\", \"19:92\", \"15:41\", \"15:40\", \"19:91\", \"47:1251\", \"30:1345\", \"19:108\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89749,13 +90592,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 121,
+    "origin_id": 970,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 630,
-    "path": "[\"46:54\"]",
+    "destination_id": 1021,
+    "path": "[\"19:121\", \"30:1490\", \"47:1254\", \"19:92\", \"15:41\", \"15:40\", \"19:91\", \"47:1251\", \"30:1346\", \"19:109\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89768,13 +90611,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 629,
+    "origin_id": 971,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 120,
-    "path": "[\"46:53\"]",
+    "destination_id": 1068,
+    "path": "[\"19:122\", \"30:1491\", \"47:1254\", \"19:92\", \"15:41\", \"15:40\", \"19:91\", \"47:1251\", \"30:1347\", \"19:110\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89787,13 +90630,51 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 630,
+    "origin_id": 972,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 121,
-    "path": "[\"46:54\"]",
+    "destination_id": 1069,
+    "path": "[\"19:123\", \"30:1492\", \"47:1254\", \"19:92\", \"15:41\", \"15:40\", \"19:91\", \"47:1251\", \"30:1348\", \"19:111\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 87,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 863,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 1022,
+    "path": "[\"19:124\", \"30:1393\", \"47:1252\", \"19:88\", \"15:37\", \"15:36\", \"19:87\", \"47:1249\", \"30:1249\", \"19:112\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 88,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 864,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 1023,
+    "path": "[\"19:125\", \"30:1394\", \"47:1252\", \"19:88\", \"15:37\", \"15:36\", \"19:87\", \"47:1249\", \"30:1250\", \"19:113\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89806,13 +90687,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 133,
+    "origin_id": 865,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 680,
-    "path": "[\"46:55\"]",
+    "destination_id": 1070,
+    "path": "[\"19:126\", \"30:1395\", \"47:1252\", \"19:88\", \"15:37\", \"15:36\", \"19:87\", \"47:1249\", \"30:1251\", \"19:114\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89825,13 +90706,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 134,
+    "origin_id": 866,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 681,
-    "path": "[\"46:56\"]",
+    "destination_id": 1071,
+    "path": "[\"19:127\", \"30:1396\", \"47:1252\", \"19:88\", \"15:37\", \"15:36\", \"19:87\", \"47:1249\", \"30:1252\", \"19:115\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89844,13 +90725,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 680,
+    "origin_id": 1018,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 133,
-    "path": "[\"46:55\"]",
+    "destination_id": 916,
+    "path": "[\"19:104\", \"30:1297\", \"47:1250\", \"19:89\", \"15:38\", \"15:39\", \"19:90\", \"47:1253\", \"30:1441\", \"19:116\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89863,13 +90744,51 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 681,
+    "origin_id": 1019,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 134,
-    "path": "[\"46:56\"]",
+    "destination_id": 917,
+    "path": "[\"19:105\", \"30:1298\", \"47:1250\", \"19:89\", \"15:38\", \"15:39\", \"19:90\", \"47:1253\", \"30:1442\", \"19:117\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 93,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 1020,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 969,
+    "path": "[\"19:108\", \"30:1345\", \"47:1251\", \"19:91\", \"15:40\", \"15:41\", \"19:92\", \"47:1254\", \"30:1489\", \"19:120\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 94,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 1021,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 970,
+    "path": "[\"19:109\", \"30:1346\", \"47:1251\", \"19:91\", \"15:40\", \"15:41\", \"19:92\", \"47:1254\", \"30:1490\", \"19:121\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89882,13 +90801,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 146,
+    "origin_id": 1022,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 731,
-    "path": "[\"46:57\"]",
+    "destination_id": 863,
+    "path": "[\"19:112\", \"30:1249\", \"47:1249\", \"19:87\", \"15:36\", \"15:37\", \"19:88\", \"47:1252\", \"30:1393\", \"19:124\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89901,13 +90820,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 147,
+    "origin_id": 1023,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 732,
-    "path": "[\"46:58\"]",
+    "destination_id": 864,
+    "path": "[\"19:113\", \"30:1250\", \"47:1249\", \"19:87\", \"15:36\", \"15:37\", \"19:88\", \"47:1252\", \"30:1394\", \"19:125\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89920,13 +90839,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 731,
+    "origin_id": 1066,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 146,
-    "path": "[\"46:57\"]",
+    "destination_id": 918,
+    "path": "[\"19:106\", \"30:1299\", \"47:1250\", \"19:89\", \"15:38\", \"15:39\", \"19:90\", \"47:1253\", \"30:1443\", \"19:118\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89939,13 +90858,51 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 732,
+    "origin_id": 1067,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 147,
-    "path": "[\"46:58\"]",
+    "destination_id": 919,
+    "path": "[\"19:107\", \"30:1300\", \"47:1250\", \"19:89\", \"15:38\", \"15:39\", \"19:90\", \"47:1253\", \"30:1444\", \"19:119\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 99,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 1068,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 971,
+    "path": "[\"19:110\", \"30:1347\", \"47:1251\", \"19:91\", \"15:40\", \"15:41\", \"19:92\", \"47:1254\", \"30:1491\", \"19:122\"]",
+    "is_active": true,
+    "is_split": false
+  }
+},
+{
+  "model": "dcim.cablepath",
+  "pk": 100,
+  "fields": {
+    "origin_type": [
+      "dcim",
+      "interface"
+    ],
+    "origin_id": 1069,
+    "destination_type": [
+      "dcim",
+      "interface"
+    ],
+    "destination_id": 972,
+    "path": "[\"19:111\", \"30:1348\", \"47:1251\", \"19:91\", \"15:40\", \"15:41\", \"19:92\", \"47:1254\", \"30:1492\", \"19:123\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89958,13 +90915,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 159,
+    "origin_id": 1070,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 782,
-    "path": "[\"46:59\"]",
+    "destination_id": 865,
+    "path": "[\"19:114\", \"30:1251\", \"47:1249\", \"19:87\", \"15:36\", \"15:37\", \"19:88\", \"47:1252\", \"30:1395\", \"19:126\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89977,13 +90934,13 @@
       "dcim",
       "interface"
     ],
-    "origin_id": 160,
+    "origin_id": 1071,
     "destination_type": [
       "dcim",
       "interface"
     ],
-    "destination_id": 783,
-    "path": "[\"46:60\"]",
+    "destination_id": 866,
+    "path": "[\"19:115\", \"30:1252\", \"47:1249\", \"19:87\", \"15:36\", \"15:37\", \"19:88\", \"47:1252\", \"30:1396\", \"19:127\"]",
     "is_active": true,
     "is_split": false
   }
@@ -89994,15 +90951,15 @@
   "fields": {
     "origin_type": [
       "dcim",
-      "interface"
+      "poweroutlet"
     ],
-    "origin_id": 782,
+    "origin_id": 1,
     "destination_type": [
       "dcim",
-      "interface"
+      "powerport"
     ],
-    "destination_id": 159,
-    "path": "[\"46:59\"]",
+    "destination_id": 1,
+    "path": "[\"19:61\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90013,15 +90970,15 @@
   "fields": {
     "origin_type": [
       "dcim",
-      "interface"
+      "poweroutlet"
     ],
-    "origin_id": 783,
+    "origin_id": 2,
     "destination_type": [
       "dcim",
-      "interface"
+      "powerport"
     ],
-    "destination_id": 160,
-    "path": "[\"46:60\"]",
+    "destination_id": 33,
+    "path": "[\"19:62\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90034,13 +90991,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 1,
+    "origin_id": 57,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 1,
-    "path": "[\"46:61\"]",
+    "destination_id": 2,
+    "path": "[\"19:63\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90053,13 +91010,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 2,
+    "origin_id": 58,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 33,
-    "path": "[\"46:62\"]",
+    "destination_id": 34,
+    "path": "[\"19:64\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90072,13 +91029,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 57,
+    "origin_id": 65,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 2,
-    "path": "[\"46:63\"]",
+    "destination_id": 3,
+    "path": "[\"19:65\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90091,13 +91048,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 58,
+    "origin_id": 66,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 34,
-    "path": "[\"46:64\"]",
+    "destination_id": 35,
+    "path": "[\"19:66\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90110,13 +91067,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 65,
+    "origin_id": 73,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 3,
-    "path": "[\"46:65\"]",
+    "destination_id": 4,
+    "path": "[\"19:67\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90129,13 +91086,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 66,
+    "origin_id": 74,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 35,
-    "path": "[\"46:66\"]",
+    "destination_id": 36,
+    "path": "[\"19:68\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90148,13 +91105,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 73,
+    "origin_id": 81,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 4,
-    "path": "[\"46:67\"]",
+    "destination_id": 5,
+    "path": "[\"19:69\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90167,13 +91124,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 74,
+    "origin_id": 82,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 36,
-    "path": "[\"46:68\"]",
+    "destination_id": 37,
+    "path": "[\"19:70\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90186,13 +91143,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 81,
+    "origin_id": 89,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 5,
-    "path": "[\"46:69\"]",
+    "destination_id": 6,
+    "path": "[\"19:71\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90205,13 +91162,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 82,
+    "origin_id": 90,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 37,
-    "path": "[\"46:70\"]",
+    "destination_id": 38,
+    "path": "[\"19:72\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90224,13 +91181,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 89,
+    "origin_id": 97,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 6,
-    "path": "[\"46:71\"]",
+    "destination_id": 7,
+    "path": "[\"19:73\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90243,13 +91200,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 90,
+    "origin_id": 98,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 38,
-    "path": "[\"46:72\"]",
+    "destination_id": 39,
+    "path": "[\"19:74\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90262,13 +91219,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 97,
+    "origin_id": 105,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 7,
-    "path": "[\"46:73\"]",
+    "destination_id": 8,
+    "path": "[\"19:75\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90281,13 +91238,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 98,
+    "origin_id": 106,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 39,
-    "path": "[\"46:74\"]",
+    "destination_id": 40,
+    "path": "[\"19:76\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90300,13 +91257,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 105,
+    "origin_id": 113,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 8,
-    "path": "[\"46:75\"]",
+    "destination_id": 9,
+    "path": "[\"19:77\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90319,13 +91276,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 106,
+    "origin_id": 114,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 40,
-    "path": "[\"46:76\"]",
+    "destination_id": 41,
+    "path": "[\"19:78\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90338,13 +91295,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 113,
+    "origin_id": 121,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 9,
-    "path": "[\"46:77\"]",
+    "destination_id": 10,
+    "path": "[\"19:79\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90357,13 +91314,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 114,
+    "origin_id": 122,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 41,
-    "path": "[\"46:78\"]",
+    "destination_id": 42,
+    "path": "[\"19:80\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90376,13 +91333,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 121,
+    "origin_id": 129,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 10,
-    "path": "[\"46:79\"]",
+    "destination_id": 11,
+    "path": "[\"19:81\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90395,13 +91352,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 122,
+    "origin_id": 130,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 42,
-    "path": "[\"46:80\"]",
+    "destination_id": 43,
+    "path": "[\"19:82\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90414,13 +91371,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 129,
+    "origin_id": 137,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 11,
-    "path": "[\"46:81\"]",
+    "destination_id": 12,
+    "path": "[\"19:83\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90433,13 +91390,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 130,
+    "origin_id": 138,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 43,
-    "path": "[\"46:82\"]",
+    "destination_id": 44,
+    "path": "[\"19:84\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90452,13 +91409,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 137,
+    "origin_id": 145,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 12,
-    "path": "[\"46:83\"]",
+    "destination_id": 13,
+    "path": "[\"19:85\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90471,13 +91428,13 @@
       "dcim",
       "poweroutlet"
     ],
-    "origin_id": 138,
+    "origin_id": 146,
     "destination_type": [
       "dcim",
       "powerport"
     ],
-    "destination_id": 44,
-    "path": "[\"46:84\"]",
+    "destination_id": 45,
+    "path": "[\"19:86\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90488,15 +91445,15 @@
   "fields": {
     "origin_type": [
       "dcim",
-      "poweroutlet"
-    ],
-    "origin_id": 145,
-    "destination_type": [
-      "dcim",
       "powerport"
     ],
-    "destination_id": 13,
-    "path": "[\"46:85\"]",
+    "origin_id": 1,
+    "destination_type": [
+      "dcim",
+      "poweroutlet"
+    ],
+    "destination_id": 1,
+    "path": "[\"19:61\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90507,15 +91464,15 @@
   "fields": {
     "origin_type": [
       "dcim",
-      "poweroutlet"
-    ],
-    "origin_id": 146,
-    "destination_type": [
-      "dcim",
       "powerport"
     ],
-    "destination_id": 45,
-    "path": "[\"46:86\"]",
+    "origin_id": 33,
+    "destination_type": [
+      "dcim",
+      "poweroutlet"
+    ],
+    "destination_id": 2,
+    "path": "[\"19:62\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90528,13 +91485,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 1,
+    "origin_id": 2,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 1,
-    "path": "[\"46:61\"]",
+    "destination_id": 57,
+    "path": "[\"19:63\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90547,13 +91504,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 33,
+    "origin_id": 34,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 2,
-    "path": "[\"46:62\"]",
+    "destination_id": 58,
+    "path": "[\"19:64\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90566,13 +91523,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 2,
+    "origin_id": 3,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 57,
-    "path": "[\"46:63\"]",
+    "destination_id": 65,
+    "path": "[\"19:65\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90585,13 +91542,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 34,
+    "origin_id": 35,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 58,
-    "path": "[\"46:64\"]",
+    "destination_id": 66,
+    "path": "[\"19:66\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90604,13 +91561,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 3,
+    "origin_id": 4,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 65,
-    "path": "[\"46:65\"]",
+    "destination_id": 73,
+    "path": "[\"19:67\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90623,13 +91580,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 35,
+    "origin_id": 36,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 66,
-    "path": "[\"46:66\"]",
+    "destination_id": 74,
+    "path": "[\"19:68\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90642,13 +91599,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 4,
+    "origin_id": 5,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 73,
-    "path": "[\"46:67\"]",
+    "destination_id": 81,
+    "path": "[\"19:69\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90661,13 +91618,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 36,
+    "origin_id": 37,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 74,
-    "path": "[\"46:68\"]",
+    "destination_id": 82,
+    "path": "[\"19:70\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90680,13 +91637,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 5,
+    "origin_id": 6,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 81,
-    "path": "[\"46:69\"]",
+    "destination_id": 89,
+    "path": "[\"19:71\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90699,13 +91656,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 37,
+    "origin_id": 38,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 82,
-    "path": "[\"46:70\"]",
+    "destination_id": 90,
+    "path": "[\"19:72\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90718,13 +91675,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 6,
+    "origin_id": 7,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 89,
-    "path": "[\"46:71\"]",
+    "destination_id": 97,
+    "path": "[\"19:73\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90737,13 +91694,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 38,
+    "origin_id": 39,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 90,
-    "path": "[\"46:72\"]",
+    "destination_id": 98,
+    "path": "[\"19:74\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90756,13 +91713,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 7,
+    "origin_id": 8,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 97,
-    "path": "[\"46:73\"]",
+    "destination_id": 105,
+    "path": "[\"19:75\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90775,13 +91732,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 39,
+    "origin_id": 40,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 98,
-    "path": "[\"46:74\"]",
+    "destination_id": 106,
+    "path": "[\"19:76\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90794,13 +91751,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 8,
+    "origin_id": 9,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 105,
-    "path": "[\"46:75\"]",
+    "destination_id": 113,
+    "path": "[\"19:77\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90813,13 +91770,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 40,
+    "origin_id": 41,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 106,
-    "path": "[\"46:76\"]",
+    "destination_id": 114,
+    "path": "[\"19:78\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90832,13 +91789,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 9,
+    "origin_id": 10,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 113,
-    "path": "[\"46:77\"]",
+    "destination_id": 121,
+    "path": "[\"19:79\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90851,13 +91808,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 41,
+    "origin_id": 42,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 114,
-    "path": "[\"46:78\"]",
+    "destination_id": 122,
+    "path": "[\"19:80\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90870,13 +91827,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 10,
+    "origin_id": 11,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 121,
-    "path": "[\"46:79\"]",
+    "destination_id": 129,
+    "path": "[\"19:81\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90889,13 +91846,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 42,
+    "origin_id": 43,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 122,
-    "path": "[\"46:80\"]",
+    "destination_id": 130,
+    "path": "[\"19:82\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90908,13 +91865,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 11,
+    "origin_id": 12,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 129,
-    "path": "[\"46:81\"]",
+    "destination_id": 137,
+    "path": "[\"19:83\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90927,13 +91884,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 43,
+    "origin_id": 44,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 130,
-    "path": "[\"46:82\"]",
+    "destination_id": 138,
+    "path": "[\"19:84\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90946,13 +91903,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 12,
+    "origin_id": 13,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
-    "destination_id": 137,
-    "path": "[\"46:83\"]",
+    "destination_id": 145,
+    "path": "[\"19:85\"]",
     "is_active": true,
     "is_split": false
   }
@@ -90965,51 +91922,13 @@
       "dcim",
       "powerport"
     ],
-    "origin_id": 44,
-    "destination_type": [
-      "dcim",
-      "poweroutlet"
-    ],
-    "destination_id": 138,
-    "path": "[\"46:84\"]",
-    "is_active": true,
-    "is_split": false
-  }
-},
-{
-  "model": "dcim.cablepath",
-  "pk": 155,
-  "fields": {
-    "origin_type": [
-      "dcim",
-      "powerport"
-    ],
-    "origin_id": 13,
-    "destination_type": [
-      "dcim",
-      "poweroutlet"
-    ],
-    "destination_id": 145,
-    "path": "[\"46:85\"]",
-    "is_active": true,
-    "is_split": false
-  }
-},
-{
-  "model": "dcim.cablepath",
-  "pk": 156,
-  "fields": {
-    "origin_type": [
-      "dcim",
-      "powerport"
-    ],
     "origin_id": 45,
     "destination_type": [
       "dcim",
       "poweroutlet"
     ],
     "destination_id": 146,
-    "path": "[\"46:86\"]",
+    "path": "[\"19:86\"]",
     "is_active": true,
     "is_split": false
   }
@@ -102451,18 +103370,69 @@
   }
 },
 {
+  "model": "dcim.sitegroup",
+  "pk": 1,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:41:01.816Z",
+    "custom_field_data": {},
+    "parent": null,
+    "name": "Customer Sites",
+    "slug": "customer-sites",
+    "description": "",
+    "lft": 1,
+    "rght": 6,
+    "tree_id": 1,
+    "level": 0
+  }
+},
+{
+  "model": "dcim.sitegroup",
+  "pk": 2,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:41:13.892Z",
+    "custom_field_data": {},
+    "parent": 1,
+    "name": "Branch Offices",
+    "slug": "branch-offices",
+    "description": "",
+    "lft": 2,
+    "rght": 3,
+    "tree_id": 1,
+    "level": 1
+  }
+},
+{
+  "model": "dcim.sitegroup",
+  "pk": 3,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:41:22.089Z",
+    "custom_field_data": {},
+    "parent": 1,
+    "name": "Headquarters",
+    "slug": "headquarters",
+    "description": "",
+    "lft": 4,
+    "rght": 5,
+    "tree_id": 1,
+    "level": 1
+  }
+},
+{
   "model": "dcim.site",
   "pk": 1,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:05.372Z",
+    "last_updated": "2021-12-30T15:45:37.458Z",
     "custom_field_data": {},
     "name": "DM-NYC",
     "_name": "DM-NYC",
     "slug": "dm-nyc",
     "status": "active",
     "region": 43,
-    "group": null,
+    "group": 3,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102484,14 +103454,14 @@
   "pk": 2,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:05.453Z",
+    "last_updated": "2021-12-30T15:45:37.384Z",
     "custom_field_data": {},
     "name": "DM-Akron",
     "_name": "DM-Akron",
     "slug": "dm-akron",
     "status": "active",
     "region": 51,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102513,14 +103483,14 @@
   "pk": 3,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:05.519Z",
+    "last_updated": "2021-12-30T15:45:37.397Z",
     "custom_field_data": {},
     "name": "DM-Albany",
     "_name": "DM-Albany",
     "slug": "dm-albany",
     "status": "active",
     "region": 43,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102542,14 +103512,14 @@
   "pk": 4,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:05.591Z",
+    "last_updated": "2021-12-30T15:45:37.409Z",
     "custom_field_data": {},
     "name": "DM-Binghamton",
     "_name": "DM-Binghamton",
     "slug": "dm-binghamton",
     "status": "active",
     "region": 43,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102571,14 +103541,14 @@
   "pk": 5,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:05.687Z",
+    "last_updated": "2021-12-30T15:45:37.422Z",
     "custom_field_data": {},
     "name": "DM-Buffalo",
     "_name": "DM-Buffalo",
     "slug": "dm-buffalo",
     "status": "active",
     "region": 43,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102600,14 +103570,14 @@
   "pk": 6,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:05.765Z",
+    "last_updated": "2021-12-30T15:45:37.434Z",
     "custom_field_data": {},
     "name": "DM-Camden",
     "_name": "DM-Camden",
     "slug": "dm-camden",
     "status": "active",
     "region": 38,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102629,14 +103599,14 @@
   "pk": 7,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:05.829Z",
+    "last_updated": "2021-12-30T15:45:37.445Z",
     "custom_field_data": {},
     "name": "DM-Nashua",
     "_name": "DM-Nashua",
     "slug": "dm-nashua",
     "status": "active",
     "region": 37,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102658,14 +103628,14 @@
   "pk": 8,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:05.892Z",
+    "last_updated": "2021-12-30T15:46:40.331Z",
     "custom_field_data": {},
     "name": "DM-Pittsfield",
     "_name": "DM-Pittsfield",
     "slug": "dm-pittsfield",
     "status": "active",
     "region": 76,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102687,14 +103657,14 @@
   "pk": 9,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:05.955Z",
+    "last_updated": "2021-12-30T15:45:37.477Z",
     "custom_field_data": {},
     "name": "DM-Rochester",
     "_name": "DM-Rochester",
     "slug": "dm-rochester",
     "status": "active",
     "region": 43,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102716,14 +103686,14 @@
   "pk": 10,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:06.019Z",
+    "last_updated": "2021-12-30T15:45:37.489Z",
     "custom_field_data": {},
     "name": "DM-Scranton",
     "_name": "DM-Scranton",
     "slug": "dm-scranton",
     "status": "active",
     "region": 63,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102745,14 +103715,14 @@
   "pk": 11,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:06.083Z",
+    "last_updated": "2021-12-30T15:45:37.501Z",
     "custom_field_data": {},
     "name": "DM-Stamford",
     "_name": "DM-Stamford",
     "slug": "dm-stamford",
     "status": "active",
     "region": 49,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102774,14 +103744,14 @@
   "pk": 12,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:06.147Z",
+    "last_updated": "2021-12-30T15:45:37.513Z",
     "custom_field_data": {},
     "name": "DM-Syracuse",
     "_name": "DM-Syracuse",
     "slug": "dm-syracuse",
     "status": "active",
     "region": 43,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102803,14 +103773,14 @@
   "pk": 13,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:06.211Z",
+    "last_updated": "2021-12-30T15:45:37.525Z",
     "custom_field_data": {},
     "name": "DM-Utica",
     "_name": "DM-Utica",
     "slug": "dm-utica",
     "status": "active",
     "region": 43,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102832,14 +103802,14 @@
   "pk": 14,
   "fields": {
     "created": "2020-12-19",
-    "last_updated": "2020-12-19T03:16:06.275Z",
+    "last_updated": "2021-12-30T15:45:37.537Z",
     "custom_field_data": {},
     "name": "DM-Yonkers",
     "_name": "DM-Yonkers",
     "slug": "dm-yonkers",
     "status": "active",
     "region": 43,
-    "group": null,
+    "group": 2,
     "tenant": 5,
     "facility": "",
     "asn": null,
@@ -102861,14 +103831,14 @@
   "pk": 15,
   "fields": {
     "created": "2021-03-10",
-    "last_updated": "2021-03-10T20:45:05.869Z",
+    "last_updated": "2021-12-30T15:45:37.573Z",
     "custom_field_data": {},
     "name": "JBB Branch 104",
     "_name": "JBB Branch 00000104",
     "slug": "jbb-branch-104",
     "status": "active",
     "region": 33,
-    "group": null,
+    "group": 2,
     "tenant": 10,
     "facility": "",
     "asn": null,
@@ -102890,14 +103860,14 @@
   "pk": 16,
   "fields": {
     "created": "2021-03-10",
-    "last_updated": "2021-03-10T20:45:34.944Z",
+    "last_updated": "2021-12-30T15:45:37.585Z",
     "custom_field_data": {},
     "name": "JBB Branch 109",
     "_name": "JBB Branch 00000109",
     "slug": "jbb-branch-109",
     "status": "active",
     "region": 64,
-    "group": null,
+    "group": 2,
     "tenant": 10,
     "facility": "",
     "asn": null,
@@ -102919,14 +103889,14 @@
   "pk": 17,
   "fields": {
     "created": "2021-03-10",
-    "last_updated": "2021-03-10T20:45:59.009Z",
+    "last_updated": "2021-12-30T15:45:37.597Z",
     "custom_field_data": {},
     "name": "JBB Branch 115",
     "_name": "JBB Branch 00000115",
     "slug": "jbb-branch-115",
     "status": "active",
     "region": 44,
-    "group": null,
+    "group": 2,
     "tenant": 10,
     "facility": "",
     "asn": null,
@@ -102948,14 +103918,14 @@
   "pk": 18,
   "fields": {
     "created": "2021-03-10",
-    "last_updated": "2021-03-10T20:46:20.631Z",
+    "last_updated": "2021-12-30T15:45:37.609Z",
     "custom_field_data": {},
     "name": "JBB Branch 120",
     "_name": "JBB Branch 00000120",
     "slug": "jbb-branch-120",
     "status": "active",
     "region": 43,
-    "group": null,
+    "group": 2,
     "tenant": 10,
     "facility": "",
     "asn": null,
@@ -102977,14 +103947,14 @@
   "pk": 19,
   "fields": {
     "created": "2021-03-10",
-    "last_updated": "2021-03-10T20:46:37.444Z",
+    "last_updated": "2021-12-30T15:45:37.621Z",
     "custom_field_data": {},
     "name": "JBB Branch 127",
     "_name": "JBB Branch 00000127",
     "slug": "jbb-branch-127",
     "status": "active",
     "region": 35,
-    "group": null,
+    "group": 2,
     "tenant": 10,
     "facility": "",
     "asn": null,
@@ -103006,14 +103976,14 @@
   "pk": 20,
   "fields": {
     "created": "2021-03-10",
-    "last_updated": "2021-03-10T20:46:56.353Z",
+    "last_updated": "2021-12-30T15:45:37.634Z",
     "custom_field_data": {},
     "name": "JBB Branch 133",
     "_name": "JBB Branch 00000133",
     "slug": "jbb-branch-133",
     "status": "active",
     "region": 43,
-    "group": null,
+    "group": 2,
     "tenant": 10,
     "facility": "",
     "asn": null,
@@ -103035,7 +104005,7 @@
   "pk": 21,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-04-02T16:55:15.385Z",
+    "last_updated": "2021-12-30T15:45:37.647Z",
     "custom_field_data": {},
     "name": "MDF",
     "_name": "MDF",
@@ -103064,7 +104034,7 @@
   "pk": 22,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-04-02T16:52:33.644Z",
+    "last_updated": "2021-12-30T15:45:37.549Z",
     "custom_field_data": {},
     "name": "D. S. Weaver Labs",
     "_name": "D. S. Weaver Labs",
@@ -103093,7 +104063,7 @@
   "pk": 23,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-04-02T16:53:44.735Z",
+    "last_updated": "2021-12-30T15:45:37.561Z",
     "custom_field_data": {},
     "name": "Grinnells Lab",
     "_name": "Grinnells Lab",
@@ -103122,7 +104092,7 @@
   "pk": 24,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-04-02T16:54:17.830Z",
+    "last_updated": "2021-12-30T15:45:37.371Z",
     "custom_field_data": {},
     "name": "Butler Communications",
     "_name": "Butler Communications",
@@ -106034,6 +107004,1182 @@
     "status": "active",
     "role": null,
     "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 1,
+  "fields": {
+    "name": "Alpha",
+    "slug": "alpha",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:39.930Z",
+    "color": "aa1409",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 2,
+  "fields": {
+    "name": "Bravo",
+    "slug": "bravo",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:39.978Z",
+    "color": "f44336",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 3,
+  "fields": {
+    "name": "Charlie",
+    "slug": "charlie",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.005Z",
+    "color": "e91e63",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 4,
+  "fields": {
+    "name": "Delta",
+    "slug": "delta",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.032Z",
+    "color": "ffe4e1",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 5,
+  "fields": {
+    "name": "Echo",
+    "slug": "echo",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.059Z",
+    "color": "ff66ff",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 6,
+  "fields": {
+    "name": "Foxtrot",
+    "slug": "foxtrot",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.085Z",
+    "color": "9c27b0",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 7,
+  "fields": {
+    "name": "Golf",
+    "slug": "golf",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.112Z",
+    "color": "673ab7",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 8,
+  "fields": {
+    "name": "Hotel",
+    "slug": "hotel",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.142Z",
+    "color": "3f51b5",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 9,
+  "fields": {
+    "name": "India",
+    "slug": "india",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.169Z",
+    "color": "2196f3",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 10,
+  "fields": {
+    "name": "Juliett",
+    "slug": "juliett",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.195Z",
+    "color": "03a9f4",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 11,
+  "fields": {
+    "name": "Kilo",
+    "slug": "kilo",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.221Z",
+    "color": "00bcd4",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 12,
+  "fields": {
+    "name": "Lima",
+    "slug": "lima",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.247Z",
+    "color": "009688",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 13,
+  "fields": {
+    "name": "Mike",
+    "slug": "mike",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.273Z",
+    "color": "00ffff",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 14,
+  "fields": {
+    "name": "November",
+    "slug": "november",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.299Z",
+    "color": "2f6a31",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 15,
+  "fields": {
+    "name": "Oscar",
+    "slug": "oscar",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.325Z",
+    "color": "4caf50",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 16,
+  "fields": {
+    "name": "Papa",
+    "slug": "papa",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.352Z",
+    "color": "8bc34a",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 17,
+  "fields": {
+    "name": "Quebec",
+    "slug": "quebec",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.378Z",
+    "color": "cddc39",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 18,
+  "fields": {
+    "name": "Romeo",
+    "slug": "romeo",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.404Z",
+    "color": "ffeb3b",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 19,
+  "fields": {
+    "name": "Sierra",
+    "slug": "sierra",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.430Z",
+    "color": "ffc107",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 20,
+  "fields": {
+    "name": "Tango",
+    "slug": "tango",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.456Z",
+    "color": "ff9800",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 21,
+  "fields": {
+    "name": "Uniform",
+    "slug": "uniform",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.482Z",
+    "color": "ff5722",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 22,
+  "fields": {
+    "name": "Victor",
+    "slug": "victor",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.508Z",
+    "color": "795548",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 23,
+  "fields": {
+    "name": "Whiskey",
+    "slug": "whiskey",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.534Z",
+    "color": "c0c0c0",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 24,
+  "fields": {
+    "name": "X-ray",
+    "slug": "x-ray",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.560Z",
+    "color": "9e9e9e",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 25,
+  "fields": {
+    "name": "Yankee",
+    "slug": "yankee",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.586Z",
+    "color": "607d8b",
+    "description": ""
+  }
+},
+{
+  "model": "extras.tag",
+  "pk": 26,
+  "fields": {
+    "name": "Zulu",
+    "slug": "zulu",
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:39:40.624Z",
+    "color": "111111",
+    "description": ""
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 1,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 24,
+    "tag": 24
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 2,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 24,
+    "tag": 12
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 3,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 24,
+    "tag": 7
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 4,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 2,
+    "tag": 1
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 5,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 2,
+    "tag": 2
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 6,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 2,
+    "tag": 7
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 7,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 3,
+    "tag": 16
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 8,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 3,
+    "tag": 3
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 9,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 3,
+    "tag": 14
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 10,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 4,
+    "tag": 17
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 11,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 4,
+    "tag": 18
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 12,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 4,
+    "tag": 7
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 13,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 5,
+    "tag": 26
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 14,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 5,
+    "tag": 4
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 15,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 5,
+    "tag": 5
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 16,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 6,
+    "tag": 26
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 17,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 6,
+    "tag": 10
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 18,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 6,
+    "tag": 11
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 19,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 7,
+    "tag": 26
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 20,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 7,
+    "tag": 5
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 21,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 7,
+    "tag": 14
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 22,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 1,
+    "tag": 17
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 23,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 1,
+    "tag": 22
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 24,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 1,
+    "tag": 15
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 25,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 8,
+    "tag": 5
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 26,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 9,
+    "tag": 17
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 27,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 9,
+    "tag": 5
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 28,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 9,
+    "tag": 6
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 29,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 10,
+    "tag": 24
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 30,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 10,
+    "tag": 10
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 31,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 10,
+    "tag": 7
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 32,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 11,
+    "tag": 16
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 33,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 11,
+    "tag": 24
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 34,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 11,
+    "tag": 10
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 35,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 12,
+    "tag": 25
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 36,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 12,
+    "tag": 20
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 37,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 12,
+    "tag": 14
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 38,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 13,
+    "tag": 16
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 39,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 13,
+    "tag": 3
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 40,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 13,
+    "tag": 13
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 41,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 14,
+    "tag": 16
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 42,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 14,
+    "tag": 17
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 43,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 14,
+    "tag": 9
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 44,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 22,
+    "tag": 24
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 45,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 22,
+    "tag": 17
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 46,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 22,
+    "tag": 20
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 47,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 23,
+    "tag": 12
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 48,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 23,
+    "tag": 5
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 49,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 23,
+    "tag": 22
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 50,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 15,
+    "tag": 19
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 51,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 15,
+    "tag": 20
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 52,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 15,
+    "tag": 6
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 53,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 16,
+    "tag": 17
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 54,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 16,
+    "tag": 10
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 55,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 16,
+    "tag": 21
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 56,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 17,
+    "tag": 16
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 57,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 17,
+    "tag": 17
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 58,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 17,
+    "tag": 25
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 59,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 18,
+    "tag": 10
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 60,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 18,
+    "tag": 19
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 61,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 18,
+    "tag": 20
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 62,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 19,
+    "tag": 2
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 63,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 19,
+    "tag": 26
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 64,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 19,
+    "tag": 12
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 65,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 20,
+    "tag": 10
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 66,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 20,
+    "tag": 11
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 67,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 20,
+    "tag": 5
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 68,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 21,
+    "tag": 8
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 69,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 21,
+    "tag": 17
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 70,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 21,
+    "tag": 26
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 71,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 8,
+    "tag": 10
+  }
+},
+{
+  "model": "extras.taggeditem",
+  "pk": 72,
+  "fields": {
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 8,
+    "tag": 20
   }
 },
 {
@@ -130662,7 +132808,7 @@
   "model": "auth.user",
   "fields": {
     "password": "pbkdf2_sha256$260000$1HdcEs3AzIts5vF5VChEPI$3TfdxjKUJ6XXCXP/QtqeyBXrr1+JS90aHci9zIiENS0=",
-    "last_login": "2021-09-09T14:46:46.973Z",
+    "last_login": "2021-12-30T15:30:41.158Z",
     "is_superuser": true,
     "username": "admin",
     "first_name": "",
@@ -130691,9 +132837,9 @@
             "facility",
             "region",
             "tenant",
-            "description",
-            "physical_address"
-          ]
+            "tags"
+          ],
+          "available_columns": []
         },
         "CableTable": {
           "columns": [
