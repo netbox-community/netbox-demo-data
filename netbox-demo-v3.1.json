@@ -836,7 +836,7 @@
   "pk": 1,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.172Z",
+    "last_updated": "2021-12-30T16:31:36.694Z",
     "custom_field_data": {},
     "cid": "KKDG4923",
     "provider": 5,
@@ -856,7 +856,7 @@
   "pk": 2,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.160Z",
+    "last_updated": "2021-12-30T16:31:36.682Z",
     "custom_field_data": {},
     "cid": "JHEW3951",
     "provider": 5,
@@ -876,7 +876,7 @@
   "pk": 3,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.189Z",
+    "last_updated": "2021-12-30T16:31:36.709Z",
     "custom_field_data": {},
     "cid": "PPJQ5091",
     "provider": 5,
@@ -896,7 +896,7 @@
   "pk": 4,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.197Z",
+    "last_updated": "2021-12-30T16:31:36.717Z",
     "custom_field_data": {},
     "cid": "QPMA5027",
     "provider": 5,
@@ -916,7 +916,7 @@
   "pk": 5,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.164Z",
+    "last_updated": "2021-12-30T16:31:36.686Z",
     "custom_field_data": {},
     "cid": "KAGO3917",
     "provider": 5,
@@ -936,7 +936,7 @@
   "pk": 6,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.176Z",
+    "last_updated": "2021-12-30T16:31:36.698Z",
     "custom_field_data": {},
     "cid": "KLQU4018",
     "provider": 5,
@@ -956,7 +956,7 @@
   "pk": 7,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.185Z",
+    "last_updated": "2021-12-30T16:31:36.706Z",
     "custom_field_data": {},
     "cid": "LQRT4981",
     "provider": 5,
@@ -976,7 +976,7 @@
   "pk": 9,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.180Z",
+    "last_updated": "2021-12-30T16:31:36.701Z",
     "custom_field_data": {},
     "cid": "KSIR0381",
     "provider": 5,
@@ -996,7 +996,7 @@
   "pk": 10,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.156Z",
+    "last_updated": "2021-12-30T16:31:36.678Z",
     "custom_field_data": {},
     "cid": "DOQHD947",
     "provider": 5,
@@ -1016,7 +1016,7 @@
   "pk": 11,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.151Z",
+    "last_updated": "2021-12-30T16:31:36.674Z",
     "custom_field_data": {},
     "cid": "DJDP9577",
     "provider": 5,
@@ -1036,7 +1036,7 @@
   "pk": 12,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.168Z",
+    "last_updated": "2021-12-30T16:31:36.690Z",
     "custom_field_data": {},
     "cid": "KDPO0597",
     "provider": 5,
@@ -1056,7 +1056,7 @@
   "pk": 13,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.193Z",
+    "last_updated": "2021-12-30T16:31:36.713Z",
     "custom_field_data": {},
     "cid": "QMKD2436",
     "provider": 5,
@@ -1076,7 +1076,7 @@
   "pk": 14,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.147Z",
+    "last_updated": "2021-12-30T16:31:36.670Z",
     "custom_field_data": {},
     "cid": "DEOW4921",
     "provider": 5,
@@ -1096,7 +1096,7 @@
   "pk": 15,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.118Z",
+    "last_updated": "2021-12-30T16:31:36.643Z",
     "custom_field_data": {},
     "cid": "1002847289",
     "provider": 2,
@@ -1116,7 +1116,7 @@
   "pk": 16,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.114Z",
+    "last_updated": "2021-12-30T16:31:36.639Z",
     "custom_field_data": {},
     "cid": "1002845894",
     "provider": 2,
@@ -1136,7 +1136,7 @@
   "pk": 17,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.082Z",
+    "last_updated": "2021-12-30T16:31:36.608Z",
     "custom_field_data": {},
     "cid": "1002842917",
     "provider": 2,
@@ -1156,7 +1156,7 @@
   "pk": 18,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.090Z",
+    "last_updated": "2021-12-30T16:31:36.616Z",
     "custom_field_data": {},
     "cid": "1002843350",
     "provider": 2,
@@ -1176,7 +1176,7 @@
   "pk": 19,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.070Z",
+    "last_updated": "2021-12-30T16:31:36.597Z",
     "custom_field_data": {},
     "cid": "1002840283",
     "provider": 2,
@@ -1196,7 +1196,7 @@
   "pk": 20,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.074Z",
+    "last_updated": "2021-12-30T16:31:36.600Z",
     "custom_field_data": {},
     "cid": "1002840457",
     "provider": 2,
@@ -1216,7 +1216,7 @@
   "pk": 21,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.078Z",
+    "last_updated": "2021-12-30T16:31:36.604Z",
     "custom_field_data": {},
     "cid": "1002841093",
     "provider": 2,
@@ -1236,7 +1236,7 @@
   "pk": 22,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.110Z",
+    "last_updated": "2021-12-30T16:31:36.635Z",
     "custom_field_data": {},
     "cid": "1002844978",
     "provider": 2,
@@ -1256,7 +1256,7 @@
   "pk": 23,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.094Z",
+    "last_updated": "2021-12-30T16:31:36.620Z",
     "custom_field_data": {},
     "cid": "1002843428",
     "provider": 2,
@@ -1276,7 +1276,7 @@
   "pk": 24,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.086Z",
+    "last_updated": "2021-12-30T16:31:36.612Z",
     "custom_field_data": {},
     "cid": "1002843016",
     "provider": 2,
@@ -1296,7 +1296,7 @@
   "pk": 25,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.106Z",
+    "last_updated": "2021-12-30T16:31:36.632Z",
     "custom_field_data": {},
     "cid": "1002844927",
     "provider": 2,
@@ -1316,7 +1316,7 @@
   "pk": 26,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.102Z",
+    "last_updated": "2021-12-30T16:31:36.628Z",
     "custom_field_data": {},
     "cid": "1002844901",
     "provider": 2,
@@ -1336,7 +1336,7 @@
   "pk": 27,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:05:25.098Z",
+    "last_updated": "2021-12-30T16:31:36.624Z",
     "custom_field_data": {},
     "cid": "1002843688",
     "provider": 2,
@@ -1356,7 +1356,7 @@
   "pk": 28,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-30T16:05:25.143Z",
+    "last_updated": "2021-12-30T16:31:36.666Z",
     "custom_field_data": {},
     "cid": "398282",
     "provider": 9,
@@ -1376,7 +1376,7 @@
   "pk": 29,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-30T16:05:25.135Z",
+    "last_updated": "2021-12-30T16:31:36.659Z",
     "custom_field_data": {},
     "cid": "350927",
     "provider": 9,
@@ -1396,7 +1396,7 @@
   "pk": 30,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-30T16:05:25.126Z",
+    "last_updated": "2021-12-30T16:31:36.651Z",
     "custom_field_data": {},
     "cid": "319031",
     "provider": 9,
@@ -103173,7 +103173,7 @@
   "pk": 98,
   "fields": {
     "created": "2021-12-30",
-    "last_updated": "2021-12-30T16:16:55.655Z",
+    "last_updated": "2021-12-30T16:31:45.541Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
@@ -103237,7 +103237,7 @@
   "pk": 100,
   "fields": {
     "created": "2021-12-30",
-    "last_updated": "2021-12-30T16:17:27.829Z",
+    "last_updated": "2021-12-30T16:31:45.547Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
@@ -103301,7 +103301,7 @@
   "pk": 102,
   "fields": {
     "created": "2021-12-30",
-    "last_updated": "2021-12-30T16:17:56.366Z",
+    "last_updated": "2021-12-30T16:31:45.553Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
@@ -103365,7 +103365,7 @@
   "pk": 104,
   "fields": {
     "created": "2021-12-30",
-    "last_updated": "2021-12-30T16:18:24.360Z",
+    "last_updated": "2021-12-30T16:31:45.558Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
@@ -121842,6 +121842,84 @@
   }
 },
 {
+  "model": "ipam.rir",
+  "pk": 8,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:40:16.192Z",
+    "custom_field_data": {},
+    "name": "RFC 6996",
+    "slug": "rfc-6996",
+    "is_private": true,
+    "description": ""
+  }
+},
+{
+  "model": "ipam.asn",
+  "pk": 1,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:40:24.803Z",
+    "custom_field_data": {},
+    "asn": 65001,
+    "description": "",
+    "rir": 8,
+    "tenant": null
+  }
+},
+{
+  "model": "ipam.asn",
+  "pk": 2,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:40:31.826Z",
+    "custom_field_data": {},
+    "asn": 65002,
+    "description": "",
+    "rir": 8,
+    "tenant": null
+  }
+},
+{
+  "model": "ipam.asn",
+  "pk": 3,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:40:38.400Z",
+    "custom_field_data": {},
+    "asn": 65003,
+    "description": "",
+    "rir": 8,
+    "tenant": null
+  }
+},
+{
+  "model": "ipam.asn",
+  "pk": 4,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:40:44.720Z",
+    "custom_field_data": {},
+    "asn": 65004,
+    "description": "",
+    "rir": 8,
+    "tenant": null
+  }
+},
+{
+  "model": "ipam.asn",
+  "pk": 5,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:40:51.733Z",
+    "custom_field_data": {},
+    "asn": 65005,
+    "description": "",
+    "rir": 8,
+    "tenant": null
+  }
+},
+{
   "model": "ipam.aggregate",
   "pk": 1,
   "fields": {
@@ -121945,6 +122023,19 @@
     "custom_field_data": {},
     "name": "Management",
     "slug": "management",
+    "weight": 1000,
+    "description": ""
+  }
+},
+{
+  "model": "ipam.role",
+  "pk": 5,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:35:29.395Z",
+    "custom_field_data": {},
+    "name": "Testing",
+    "slug": "testing",
     "weight": 1000,
     "description": ""
   }
@@ -123375,6 +123466,665 @@
     "description": "",
     "_depth": 2,
     "_children": 4
+  }
+},
+{
+  "model": "ipam.prefix",
+  "pk": 73,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:35:35.870Z",
+    "custom_field_data": {},
+    "prefix": "192.168.0.0/22",
+    "site": null,
+    "vrf": null,
+    "tenant": null,
+    "vlan": null,
+    "status": "active",
+    "role": 5,
+    "is_pool": false,
+    "mark_utilized": false,
+    "description": "",
+    "_depth": 0,
+    "_children": 0
+  }
+},
+{
+  "model": "ipam.iprange",
+  "pk": 1,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:38:52.581Z",
+    "custom_field_data": {},
+    "start_address": "192.168.1.0/22",
+    "end_address": "192.168.1.49/22",
+    "size": 50,
+    "vrf": null,
+    "tenant": null,
+    "status": "reserved",
+    "role": null,
+    "description": "Future use"
+  }
+},
+{
+  "model": "ipam.iprange",
+  "pk": 2,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:37:42.535Z",
+    "custom_field_data": {},
+    "start_address": "192.168.1.50/22",
+    "end_address": "192.168.1.99/22",
+    "size": 50,
+    "vrf": null,
+    "tenant": null,
+    "status": "reserved",
+    "role": null,
+    "description": "Future use"
+  }
+},
+{
+  "model": "ipam.iprange",
+  "pk": 3,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:37:57.767Z",
+    "custom_field_data": {},
+    "start_address": "192.168.1.100/22",
+    "end_address": "192.168.1.149/22",
+    "size": 50,
+    "vrf": null,
+    "tenant": null,
+    "status": "reserved",
+    "role": null,
+    "description": "Future use"
+  }
+},
+{
+  "model": "ipam.iprange",
+  "pk": 4,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:38:09.979Z",
+    "custom_field_data": {},
+    "start_address": "192.168.1.150/22",
+    "end_address": "192.168.1.199/22",
+    "size": 50,
+    "vrf": null,
+    "tenant": null,
+    "status": "reserved",
+    "role": null,
+    "description": "Future use"
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 1,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:39:19.868Z",
+    "custom_field_data": {},
+    "address": "192.168.0.1/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "reserved",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 2,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:39:19.986Z",
+    "custom_field_data": {},
+    "address": "192.168.0.2/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "reserved",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 3,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:39:20.093Z",
+    "custom_field_data": {},
+    "address": "192.168.0.3/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "reserved",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 4,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:39:20.193Z",
+    "custom_field_data": {},
+    "address": "192.168.0.4/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "reserved",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 5,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:39:20.288Z",
+    "custom_field_data": {},
+    "address": "192.168.0.5/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "reserved",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 6,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:07.331Z",
+    "custom_field_data": {},
+    "address": "192.168.0.6/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 7,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:07.433Z",
+    "custom_field_data": {},
+    "address": "192.168.0.7/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 8,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:07.541Z",
+    "custom_field_data": {},
+    "address": "192.168.0.8/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 9,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:07.661Z",
+    "custom_field_data": {},
+    "address": "192.168.0.9/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 10,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:07.765Z",
+    "custom_field_data": {},
+    "address": "192.168.0.10/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 11,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:07.870Z",
+    "custom_field_data": {},
+    "address": "192.168.0.11/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 12,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:07.959Z",
+    "custom_field_data": {},
+    "address": "192.168.0.12/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 13,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:08.042Z",
+    "custom_field_data": {},
+    "address": "192.168.0.13/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 14,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:08.126Z",
+    "custom_field_data": {},
+    "address": "192.168.0.14/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 15,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:08.218Z",
+    "custom_field_data": {},
+    "address": "192.168.0.15/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 16,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:08.305Z",
+    "custom_field_data": {},
+    "address": "192.168.0.16/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 17,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:08.391Z",
+    "custom_field_data": {},
+    "address": "192.168.0.17/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 18,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:08.476Z",
+    "custom_field_data": {},
+    "address": "192.168.0.18/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 19,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:08.563Z",
+    "custom_field_data": {},
+    "address": "192.168.0.19/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 20,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:08.649Z",
+    "custom_field_data": {},
+    "address": "192.168.0.20/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 21,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:08.734Z",
+    "custom_field_data": {},
+    "address": "192.168.0.21/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 22,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:08.819Z",
+    "custom_field_data": {},
+    "address": "192.168.0.22/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 23,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:08.907Z",
+    "custom_field_data": {},
+    "address": "192.168.0.23/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 24,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:09.025Z",
+    "custom_field_data": {},
+    "address": "192.168.0.24/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 25,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:09.144Z",
+    "custom_field_data": {},
+    "address": "192.168.0.25/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 26,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:09.252Z",
+    "custom_field_data": {},
+    "address": "192.168.0.26/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 27,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:09.358Z",
+    "custom_field_data": {},
+    "address": "192.168.0.27/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 28,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:09.454Z",
+    "custom_field_data": {},
+    "address": "192.168.0.28/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 29,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:09.540Z",
+    "custom_field_data": {},
+    "address": "192.168.0.29/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
+  }
+},
+{
+  "model": "ipam.ipaddress",
+  "pk": 30,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:36:09.626Z",
+    "custom_field_data": {},
+    "address": "192.168.0.30/22",
+    "vrf": null,
+    "tenant": null,
+    "status": "active",
+    "role": "",
+    "assigned_object_type": null,
+    "assigned_object_id": null,
+    "nat_inside": null,
+    "dns_name": "",
+    "description": ""
   }
 },
 {
