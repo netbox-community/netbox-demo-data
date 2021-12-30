@@ -15,10 +15,6 @@ First, drop and recreate the PostgreSQL database. The example here assumes the d
 ```bash
 sudo -u postgres psql -c "DROP database netbox;"
 sudo -u postgres psql -c "CREATE database netbox;"
-
-# NetBox Docker
-docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "DROP DATABASE netbox;"'
-docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "CREATE DATABASE netbox;"'
 ```
 
 Next, apply NetBox's database migrations using the `migrate` management command. (Ensure that the Python virtual environment is active before attempting to invoke the command.)
@@ -26,17 +22,25 @@ Next, apply NetBox's database migrations using the `migrate` management command.
 ```bash
 source /opt/netbox/venv/bin/activate
 ./manage.py migrate
-
-# Netbox Docker
-docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py migrate"
 ```
 
 Finally, load the demo data fixtures from the JSON file.
 
 ```bash
 ./manage.py loaddata -v 3 netbox-demo-$VERSION.json
+```
 
-# NetBox Docker
+### Docker Commands
+
+```
+# Drop & recreate the database
+docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "DROP DATABASE netbox;"'
+docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "CREATE DATABASE netbox;"'
+
+# Apply migrations
+docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py migrate"
+
+# Load the demo data
 docker cp netbox-demo-$VERSION.json "$(docker-compose ps -q netbox)":/opt/netbox/netbox/netbox-demo.json
 docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py loaddata netbox-demo.json"
 ```
@@ -48,8 +52,11 @@ The following steps are necessary **only** if you intend to save a snapshot of d
 ```bash
 source /opt/netbox/venv/bin/activate
 ./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange -e django_rq --indent 2 -o netbox-demo-$VERSION.json
+```
 
-# NetBox Docker
+### Docker Commands
+
+```
 docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange --indent 2" > netbox-demo-$VERSION.json
 ```
 
