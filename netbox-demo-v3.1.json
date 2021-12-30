@@ -836,7 +836,7 @@
   "pk": 1,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.584Z",
+    "last_updated": "2021-12-30T15:49:03.460Z",
     "custom_field_data": {},
     "cid": "KKDG4923",
     "provider": 5,
@@ -856,7 +856,7 @@
   "pk": 2,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.573Z",
+    "last_updated": "2021-12-30T15:49:03.448Z",
     "custom_field_data": {},
     "cid": "JHEW3951",
     "provider": 5,
@@ -876,7 +876,7 @@
   "pk": 3,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.600Z",
+    "last_updated": "2021-12-30T15:49:03.480Z",
     "custom_field_data": {},
     "cid": "PPJQ5091",
     "provider": 5,
@@ -896,7 +896,7 @@
   "pk": 4,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.609Z",
+    "last_updated": "2021-12-30T15:49:03.488Z",
     "custom_field_data": {},
     "cid": "QPMA5027",
     "provider": 5,
@@ -916,7 +916,7 @@
   "pk": 5,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.577Z",
+    "last_updated": "2021-12-30T15:49:03.452Z",
     "custom_field_data": {},
     "cid": "KAGO3917",
     "provider": 5,
@@ -936,7 +936,7 @@
   "pk": 6,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.588Z",
+    "last_updated": "2021-12-30T15:49:03.464Z",
     "custom_field_data": {},
     "cid": "KLQU4018",
     "provider": 5,
@@ -956,7 +956,7 @@
   "pk": 7,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.596Z",
+    "last_updated": "2021-12-30T15:49:03.476Z",
     "custom_field_data": {},
     "cid": "LQRT4981",
     "provider": 5,
@@ -976,7 +976,7 @@
   "pk": 9,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.592Z",
+    "last_updated": "2021-12-30T15:49:03.470Z",
     "custom_field_data": {},
     "cid": "KSIR0381",
     "provider": 5,
@@ -996,7 +996,7 @@
   "pk": 10,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.568Z",
+    "last_updated": "2021-12-30T15:49:03.444Z",
     "custom_field_data": {},
     "cid": "DOQHD947",
     "provider": 5,
@@ -1016,7 +1016,7 @@
   "pk": 11,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.564Z",
+    "last_updated": "2021-12-30T15:49:03.439Z",
     "custom_field_data": {},
     "cid": "DJDP9577",
     "provider": 5,
@@ -1036,7 +1036,7 @@
   "pk": 12,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.581Z",
+    "last_updated": "2021-12-30T15:49:03.456Z",
     "custom_field_data": {},
     "cid": "KDPO0597",
     "provider": 5,
@@ -1056,7 +1056,7 @@
   "pk": 13,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.604Z",
+    "last_updated": "2021-12-30T15:49:03.484Z",
     "custom_field_data": {},
     "cid": "QMKD2436",
     "provider": 5,
@@ -1076,7 +1076,7 @@
   "pk": 14,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.560Z",
+    "last_updated": "2021-12-30T15:49:03.435Z",
     "custom_field_data": {},
     "cid": "DEOW4921",
     "provider": 5,
@@ -1096,7 +1096,7 @@
   "pk": 15,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.532Z",
+    "last_updated": "2021-12-30T15:49:03.405Z",
     "custom_field_data": {},
     "cid": "1002847289",
     "provider": 2,
@@ -1116,7 +1116,7 @@
   "pk": 16,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.529Z",
+    "last_updated": "2021-12-30T15:49:03.401Z",
     "custom_field_data": {},
     "cid": "1002845894",
     "provider": 2,
@@ -1136,7 +1136,7 @@
   "pk": 17,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.496Z",
+    "last_updated": "2021-12-30T15:49:03.365Z",
     "custom_field_data": {},
     "cid": "1002842917",
     "provider": 2,
@@ -1156,7 +1156,7 @@
   "pk": 18,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.504Z",
+    "last_updated": "2021-12-30T15:49:03.373Z",
     "custom_field_data": {},
     "cid": "1002843350",
     "provider": 2,
@@ -1176,7 +1176,7 @@
   "pk": 19,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.484Z",
+    "last_updated": "2021-12-30T15:49:03.351Z",
     "custom_field_data": {},
     "cid": "1002840283",
     "provider": 2,
@@ -1196,7 +1196,7 @@
   "pk": 20,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.488Z",
+    "last_updated": "2021-12-30T15:49:03.356Z",
     "custom_field_data": {},
     "cid": "1002840457",
     "provider": 2,
@@ -1216,7 +1216,7 @@
   "pk": 21,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.492Z",
+    "last_updated": "2021-12-30T15:49:03.360Z",
     "custom_field_data": {},
     "cid": "1002841093",
     "provider": 2,
@@ -1236,7 +1236,7 @@
   "pk": 22,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.525Z",
+    "last_updated": "2021-12-30T15:49:03.396Z",
     "custom_field_data": {},
     "cid": "1002844978",
     "provider": 2,
@@ -1256,7 +1256,7 @@
   "pk": 23,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.508Z",
+    "last_updated": "2021-12-30T15:49:03.377Z",
     "custom_field_data": {},
     "cid": "1002843428",
     "provider": 2,
@@ -1276,7 +1276,7 @@
   "pk": 24,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.500Z",
+    "last_updated": "2021-12-30T15:49:03.369Z",
     "custom_field_data": {},
     "cid": "1002843016",
     "provider": 2,
@@ -1296,7 +1296,7 @@
   "pk": 25,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.520Z",
+    "last_updated": "2021-12-30T15:49:03.392Z",
     "custom_field_data": {},
     "cid": "1002844927",
     "provider": 2,
@@ -1316,7 +1316,7 @@
   "pk": 26,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.516Z",
+    "last_updated": "2021-12-30T15:49:03.387Z",
     "custom_field_data": {},
     "cid": "1002844901",
     "provider": 2,
@@ -1336,7 +1336,7 @@
   "pk": 27,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T15:28:00.512Z",
+    "last_updated": "2021-12-30T15:49:03.382Z",
     "custom_field_data": {},
     "cid": "1002843688",
     "provider": 2,
@@ -1356,7 +1356,7 @@
   "pk": 28,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-30T15:28:00.557Z",
+    "last_updated": "2021-12-30T15:49:03.431Z",
     "custom_field_data": {},
     "cid": "398282",
     "provider": 9,
@@ -1376,7 +1376,7 @@
   "pk": 29,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-30T15:28:00.549Z",
+    "last_updated": "2021-12-30T15:49:03.421Z",
     "custom_field_data": {},
     "cid": "350927",
     "provider": 9,
@@ -1396,7 +1396,7 @@
   "pk": 30,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-30T15:28:00.541Z",
+    "last_updated": "2021-12-30T15:49:03.413Z",
     "custom_field_data": {},
     "cid": "319031",
     "provider": 9,
@@ -108209,6 +108209,172 @@
   }
 },
 {
+  "model": "tenancy.contactgroup",
+  "pk": 1,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:58:29.302Z",
+    "custom_field_data": {},
+    "name": "Customers",
+    "slug": "customers",
+    "parent": null,
+    "description": "",
+    "lft": 1,
+    "rght": 4,
+    "tree_id": 1,
+    "level": 0
+  }
+},
+{
+  "model": "tenancy.contactgroup",
+  "pk": 2,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:58:37.371Z",
+    "custom_field_data": {},
+    "name": "Dunder-Mifflin",
+    "slug": "dunder-mifflin",
+    "parent": 1,
+    "description": "",
+    "lft": 2,
+    "rght": 3,
+    "tree_id": 1,
+    "level": 1
+  }
+},
+{
+  "model": "tenancy.contactrole",
+  "pk": 1,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:56:57.687Z",
+    "custom_field_data": {},
+    "name": "Administrative",
+    "slug": "administrative",
+    "description": ""
+  }
+},
+{
+  "model": "tenancy.contactrole",
+  "pk": 2,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:57:02.707Z",
+    "custom_field_data": {},
+    "name": "Operational",
+    "slug": "operational",
+    "description": ""
+  }
+},
+{
+  "model": "tenancy.contactrole",
+  "pk": 3,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:57:07.209Z",
+    "custom_field_data": {},
+    "name": "Billing",
+    "slug": "billing",
+    "description": ""
+  }
+},
+{
+  "model": "tenancy.contact",
+  "pk": 1,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:00:56.747Z",
+    "custom_field_data": {},
+    "group": 2,
+    "name": "Michael Scott",
+    "title": "Regional Manager",
+    "phone": "272-555-9194",
+    "email": "mscott@dunder-mifflin.com",
+    "address": "",
+    "comments": ""
+  }
+},
+{
+  "model": "tenancy.contact",
+  "pk": 2,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:01:12.192Z",
+    "custom_field_data": {},
+    "group": 2,
+    "name": "Pamela Halpert",
+    "title": "Office Admin",
+    "phone": "272-555-1261",
+    "email": "phalpert@dunder-mifflin.com",
+    "address": "",
+    "comments": ""
+  }
+},
+{
+  "model": "tenancy.contact",
+  "pk": 3,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:00:36.197Z",
+    "custom_field_data": {},
+    "group": 2,
+    "name": "Dwight Schrute",
+    "title": "Assistant to the Regional Manager",
+    "phone": "272-555-3827",
+    "email": "dschrute@dunder-miffline.com",
+    "address": "",
+    "comments": ""
+  }
+},
+{
+  "model": "tenancy.contactassignment",
+  "pk": 1,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:02:04.079Z",
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 10,
+    "contact": 2,
+    "role": 1,
+    "priority": "primary"
+  }
+},
+{
+  "model": "tenancy.contactassignment",
+  "pk": 2,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:02:13.267Z",
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 10,
+    "contact": 1,
+    "role": 1,
+    "priority": "secondary"
+  }
+},
+{
+  "model": "tenancy.contactassignment",
+  "pk": 3,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T16:02:23.996Z",
+    "content_type": [
+      "dcim",
+      "site"
+    ],
+    "object_id": 10,
+    "contact": 3,
+    "role": 2,
+    "priority": "primary"
+  }
+},
+{
   "model": "tenancy.tenantgroup",
   "pk": 1,
   "fields": {
@@ -132805,6 +132971,13 @@
   }
 },
 {
+  "model": "auth.group",
+  "fields": {
+    "name": "Staff",
+    "permissions": []
+  }
+},
+{
   "model": "auth.user",
   "fields": {
     "password": "pbkdf2_sha256$260000$1HdcEs3AzIts5vF5VChEPI$3TfdxjKUJ6XXCXP/QtqeyBXrr1+JS90aHci9zIiENS0=",
@@ -132819,6 +132992,143 @@
     "date_joined": "2020-12-18T02:07:15.359Z",
     "groups": [],
     "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$gBi1K9FpA2NWj5dSvB6znV$zBALOmUvzUyYDaWRYLzVrRI1zG8h9Ad0gg7Qvg0v/UA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "alice",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2021-12-30T15:51:08Z",
+    "groups": [
+      [
+        "Staff"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$JgEVc44FdXaM95n6Be3n7Y$/F2wz5QMuE3N+d7y33pC3T3UAqbM48cJE9kvev+8bbk=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "bob",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2021-12-30T15:51:16Z",
+    "groups": [
+      [
+        "Staff"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$0p4aoqQjuAqDTT7Bw38a3f$J1MJnsHPyQS5B/qZdiJwWqoVkolzklptsVvHwumSNxY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "charlie",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2021-12-30T15:51:22Z",
+    "groups": [
+      [
+        "Staff"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$GBsMoAampVW1SJXxqW2QST$M5K+Kg7Q1YHhvX8aJnlqVqQCoPYAodeVPiHGrD5kpqE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "danielle",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2021-12-30T15:51:40Z",
+    "groups": [
+      [
+        "Staff"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$OmfTtdffXUdO8KU20NV2st$SCU3bZf19U8QaovyDS/PY5joXvHllYUK7qULPxuoIsk=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "edward",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2021-12-30T15:51:50Z",
+    "groups": [
+      [
+        "Staff"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "dcim.rackreservation",
+  "pk": 1,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:55:18.622Z",
+    "custom_field_data": {},
+    "rack": 39,
+    "units": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\"]",
+    "tenant": null,
+    "user": [
+      "alice"
+    ],
+    "description": "Reserved for future projects"
+  }
+},
+{
+  "model": "dcim.rackreservation",
+  "pk": 2,
+  "fields": {
+    "created": "2021-12-30",
+    "last_updated": "2021-12-30T15:56:21.237Z",
+    "custom_field_data": {},
+    "rack": 14,
+    "units": "[\"20\", \"21\"]",
+    "tenant": null,
+    "user": [
+      "bob"
+    ],
+    "description": "Damaged - DO NOT USE"
   }
 },
 {
@@ -132872,6 +133182,56 @@
   }
 },
 {
+  "model": "users.userconfig",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "alice"
+    ],
+    "data": {}
+  }
+},
+{
+  "model": "users.userconfig",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "bob"
+    ],
+    "data": {}
+  }
+},
+{
+  "model": "users.userconfig",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "charlie"
+    ],
+    "data": {}
+  }
+},
+{
+  "model": "users.userconfig",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "danielle"
+    ],
+    "data": {}
+  }
+},
+{
+  "model": "users.userconfig",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "edward"
+    ],
+    "data": {}
+  }
+},
+{
   "model": "admin.logentry",
   "pk": 1,
   "fields": {
@@ -132887,6 +133247,204 @@
     "object_repr": "Customer ID",
     "action_flag": 1,
     "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2021-12-30T15:51:08.186Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "2",
+    "object_repr": "alice",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2021-12-30T15:51:16.114Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "3",
+    "object_repr": "bob",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2021-12-30T15:51:22.813Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "4",
+    "object_repr": "charlie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2021-12-30T15:51:41.039Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "5",
+    "object_repr": "danielle",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2021-12-30T15:51:50.742Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "6",
+    "object_repr": "edward",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2021-12-30T15:52:05.739Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "object_id": "1",
+    "object_repr": "Staff",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2021-12-30T15:53:02.242Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "2",
+    "object_repr": "alice",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2021-12-30T15:53:08.690Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "3",
+    "object_repr": "bob",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2021-12-30T15:53:15.403Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "4",
+    "object_repr": "charlie",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2021-12-30T15:53:21.530Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "5",
+    "object_repr": "danielle",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2021-12-30T15:53:27.196Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "6",
+    "object_repr": "edward",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
   }
 }
 ]
