@@ -777,6 +777,14 @@
 },
 {
   "model": "sessions.session",
+  "pk": "w6t33s2be5j6srzstd3bjwuc6b3kd1v1",
+  "fields": {
+    "session_data": ".eJxVjEEKwjAQRe-StZSUmE7i0gvoDcLMZEKimEKTgiDe3RZc6OJv3vu8lwq49hzWJksoUZ3UqA6_jJDvUndRpdP8HHYltRfGXuY6XOgm3K-yPEprGzh__3-RjC1vhYltOppJwz4g74Ed2YSY2EantfaYNIyGo5HkTQQLhsgZP3IE0aLeHy-XOjQ:1n71ge:njZZi_zL1Lt3ri3no0PB0lGVoqwnTVlIxC1Hb6GDcwc",
+    "expire_date": "2022-01-24T20:54:40.342Z"
+  }
+},
+{
+  "model": "sessions.session",
   "pk": "y5ynkgn01snj4pihm1mt7aygydkqt9m1",
   "fields": {
     "session_data": ".eJxVjEEKwyAQRe_iuoTRJBq77AXSG4RxHNGWGogGCqV3r4Eu2s2H_9_nvcSCe43LXnhbkhdnIcXpd3NId84HyFzd-uwOxLkmwprW3M3uxlSvvD1SKW24fP9_koglNsPIwWgNYBUEw71zelDsQRHh4LEVQosTK5oCmNFKGUiqFixhAku9eH8AQZg6QQ:1kq5B2:BPPKzzGORMlmL5bNBr1NAT0Vq7y7Sy8auiaTM25LdLM",
@@ -836,7 +844,7 @@
   "pk": 1,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.694Z",
+    "last_updated": "2022-01-10T20:53:54.214Z",
     "custom_field_data": {},
     "cid": "KKDG4923",
     "provider": 5,
@@ -856,7 +864,7 @@
   "pk": 2,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.682Z",
+    "last_updated": "2022-01-10T20:53:54.202Z",
     "custom_field_data": {},
     "cid": "JHEW3951",
     "provider": 5,
@@ -876,7 +884,7 @@
   "pk": 3,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.709Z",
+    "last_updated": "2022-01-10T20:53:54.228Z",
     "custom_field_data": {},
     "cid": "PPJQ5091",
     "provider": 5,
@@ -896,7 +904,7 @@
   "pk": 4,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.717Z",
+    "last_updated": "2022-01-10T20:53:54.236Z",
     "custom_field_data": {},
     "cid": "QPMA5027",
     "provider": 5,
@@ -916,7 +924,7 @@
   "pk": 5,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.686Z",
+    "last_updated": "2022-01-10T20:53:54.206Z",
     "custom_field_data": {},
     "cid": "KAGO3917",
     "provider": 5,
@@ -936,7 +944,7 @@
   "pk": 6,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.698Z",
+    "last_updated": "2022-01-10T20:53:54.217Z",
     "custom_field_data": {},
     "cid": "KLQU4018",
     "provider": 5,
@@ -956,7 +964,7 @@
   "pk": 7,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.706Z",
+    "last_updated": "2022-01-10T20:53:54.225Z",
     "custom_field_data": {},
     "cid": "LQRT4981",
     "provider": 5,
@@ -976,7 +984,7 @@
   "pk": 9,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.701Z",
+    "last_updated": "2022-01-10T20:53:54.221Z",
     "custom_field_data": {},
     "cid": "KSIR0381",
     "provider": 5,
@@ -996,7 +1004,7 @@
   "pk": 10,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.678Z",
+    "last_updated": "2022-01-10T20:53:54.198Z",
     "custom_field_data": {},
     "cid": "DOQHD947",
     "provider": 5,
@@ -1016,7 +1024,7 @@
   "pk": 11,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.674Z",
+    "last_updated": "2022-01-10T20:53:54.195Z",
     "custom_field_data": {},
     "cid": "DJDP9577",
     "provider": 5,
@@ -1036,7 +1044,7 @@
   "pk": 12,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.690Z",
+    "last_updated": "2022-01-10T20:53:54.210Z",
     "custom_field_data": {},
     "cid": "KDPO0597",
     "provider": 5,
@@ -1056,7 +1064,7 @@
   "pk": 13,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.713Z",
+    "last_updated": "2022-01-10T20:53:54.232Z",
     "custom_field_data": {},
     "cid": "QMKD2436",
     "provider": 5,
@@ -1076,7 +1084,7 @@
   "pk": 14,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.670Z",
+    "last_updated": "2022-01-10T20:53:54.191Z",
     "custom_field_data": {},
     "cid": "DEOW4921",
     "provider": 5,
@@ -1096,7 +1104,7 @@
   "pk": 15,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.643Z",
+    "last_updated": "2022-01-10T20:53:54.165Z",
     "custom_field_data": {},
     "cid": "1002847289",
     "provider": 2,
@@ -1116,7 +1124,7 @@
   "pk": 16,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.639Z",
+    "last_updated": "2022-01-10T20:53:54.161Z",
     "custom_field_data": {},
     "cid": "1002845894",
     "provider": 2,
@@ -1136,7 +1144,7 @@
   "pk": 17,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.608Z",
+    "last_updated": "2022-01-10T20:53:54.131Z",
     "custom_field_data": {},
     "cid": "1002842917",
     "provider": 2,
@@ -1156,7 +1164,7 @@
   "pk": 18,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.616Z",
+    "last_updated": "2022-01-10T20:53:54.138Z",
     "custom_field_data": {},
     "cid": "1002843350",
     "provider": 2,
@@ -1176,7 +1184,7 @@
   "pk": 19,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.597Z",
+    "last_updated": "2022-01-10T20:53:54.119Z",
     "custom_field_data": {},
     "cid": "1002840283",
     "provider": 2,
@@ -1196,7 +1204,7 @@
   "pk": 20,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.600Z",
+    "last_updated": "2022-01-10T20:53:54.123Z",
     "custom_field_data": {},
     "cid": "1002840457",
     "provider": 2,
@@ -1216,7 +1224,7 @@
   "pk": 21,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.604Z",
+    "last_updated": "2022-01-10T20:53:54.127Z",
     "custom_field_data": {},
     "cid": "1002841093",
     "provider": 2,
@@ -1236,7 +1244,7 @@
   "pk": 22,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.635Z",
+    "last_updated": "2022-01-10T20:53:54.157Z",
     "custom_field_data": {},
     "cid": "1002844978",
     "provider": 2,
@@ -1256,7 +1264,7 @@
   "pk": 23,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.620Z",
+    "last_updated": "2022-01-10T20:53:54.142Z",
     "custom_field_data": {},
     "cid": "1002843428",
     "provider": 2,
@@ -1276,7 +1284,7 @@
   "pk": 24,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.612Z",
+    "last_updated": "2022-01-10T20:53:54.134Z",
     "custom_field_data": {},
     "cid": "1002843016",
     "provider": 2,
@@ -1296,7 +1304,7 @@
   "pk": 25,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.632Z",
+    "last_updated": "2022-01-10T20:53:54.153Z",
     "custom_field_data": {},
     "cid": "1002844927",
     "provider": 2,
@@ -1316,7 +1324,7 @@
   "pk": 26,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.628Z",
+    "last_updated": "2022-01-10T20:53:54.150Z",
     "custom_field_data": {},
     "cid": "1002844901",
     "provider": 2,
@@ -1336,7 +1344,7 @@
   "pk": 27,
   "fields": {
     "created": "2020-12-30",
-    "last_updated": "2021-12-30T16:31:36.624Z",
+    "last_updated": "2022-01-10T20:53:54.146Z",
     "custom_field_data": {},
     "cid": "1002843688",
     "provider": 2,
@@ -1356,7 +1364,7 @@
   "pk": 28,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-30T16:31:36.666Z",
+    "last_updated": "2022-01-10T20:53:54.187Z",
     "custom_field_data": {},
     "cid": "398282",
     "provider": 9,
@@ -1376,7 +1384,7 @@
   "pk": 29,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-30T16:31:36.659Z",
+    "last_updated": "2022-01-10T20:53:54.180Z",
     "custom_field_data": {},
     "cid": "350927",
     "provider": 9,
@@ -1396,7 +1404,7 @@
   "pk": 30,
   "fields": {
     "created": "2021-04-02",
-    "last_updated": "2021-12-30T16:31:36.651Z",
+    "last_updated": "2022-01-10T20:53:54.172Z",
     "custom_field_data": {},
     "cid": "319031",
     "provider": 9,
@@ -5071,6 +5079,138 @@
     "mark_connected": false,
     "_path": null,
     "type": "iec-60320-c14",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
+  "model": "dcim.powerport",
+  "pk": 76,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.121Z",
+    "custom_field_data": {},
+    "device": 106,
+    "name": "PSU0",
+    "_name": "PSU00000000",
+    "label": "",
+    "description": "",
+    "cable": null,
+    "_link_peer_type": null,
+    "_link_peer_id": null,
+    "mark_connected": false,
+    "_path": null,
+    "type": "iec-60320-c20",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
+  "model": "dcim.powerport",
+  "pk": 77,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.121Z",
+    "custom_field_data": {},
+    "device": 106,
+    "name": "PSU1",
+    "_name": "PSU00000001",
+    "label": "",
+    "description": "",
+    "cable": null,
+    "_link_peer_type": null,
+    "_link_peer_id": null,
+    "mark_connected": false,
+    "_path": null,
+    "type": "iec-60320-c20",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
+  "model": "dcim.powerport",
+  "pk": 78,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.121Z",
+    "custom_field_data": {},
+    "device": 106,
+    "name": "PSU2",
+    "_name": "PSU00000002",
+    "label": "",
+    "description": "",
+    "cable": null,
+    "_link_peer_type": null,
+    "_link_peer_id": null,
+    "mark_connected": false,
+    "_path": null,
+    "type": "iec-60320-c20",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
+  "model": "dcim.powerport",
+  "pk": 79,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.121Z",
+    "custom_field_data": {},
+    "device": 106,
+    "name": "PSU3",
+    "_name": "PSU00000003",
+    "label": "",
+    "description": "",
+    "cable": null,
+    "_link_peer_type": null,
+    "_link_peer_id": null,
+    "mark_connected": false,
+    "_path": null,
+    "type": "iec-60320-c20",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
+  "model": "dcim.powerport",
+  "pk": 80,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.121Z",
+    "custom_field_data": {},
+    "device": 106,
+    "name": "PSU4",
+    "_name": "PSU00000004",
+    "label": "",
+    "description": "",
+    "cable": null,
+    "_link_peer_type": null,
+    "_link_peer_id": null,
+    "mark_connected": false,
+    "_path": null,
+    "type": "iec-60320-c20",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
+  "model": "dcim.powerport",
+  "pk": 81,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.121Z",
+    "custom_field_data": {},
+    "device": 106,
+    "name": "PSU5",
+    "_name": "PSU00000005",
+    "label": "",
+    "description": "",
+    "cable": null,
+    "_link_peer_type": null,
+    "_link_peer_id": null,
+    "mark_connected": false,
+    "_path": null,
+    "type": "iec-60320-c20",
     "maximum_draw": null,
     "allocated_draw": null
   }
@@ -66762,6 +66902,44 @@
   }
 },
 {
+  "model": "dcim.interface",
+  "pk": 1554,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.141Z",
+    "custom_field_data": {},
+    "device": 106,
+    "name": "CMM",
+    "label": "",
+    "description": "",
+    "cable": null,
+    "_link_peer_type": null,
+    "_link_peer_id": null,
+    "mark_connected": false,
+    "_path": null,
+    "enabled": true,
+    "mac_address": null,
+    "mtu": null,
+    "mode": "",
+    "parent": null,
+    "bridge": null,
+    "_name": "9999999999999999CMM..................",
+    "lag": null,
+    "type": "1000base-t",
+    "mgmt_only": true,
+    "wwn": null,
+    "rf_role": "",
+    "rf_channel": "",
+    "rf_channel_frequency": null,
+    "rf_channel_width": null,
+    "tx_power": null,
+    "wireless_link": null,
+    "untagged_vlan": null,
+    "wireless_lans": [],
+    "tagged_vlans": []
+  }
+},
+{
   "model": "dcim.frontport",
   "pk": 625,
   "fields": {
@@ -100147,14 +100325,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 1,
+  "pk": 29,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.168Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "Linecard0",
-    "_name": "Linecard00000000",
+    "device": 106,
+    "name": "Bay 1",
+    "_name": "Bay 00000001",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100162,14 +100340,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 2,
+  "pk": 30,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "Linecard1",
-    "_name": "Linecard00000001",
+    "device": 106,
+    "name": "Bay 2",
+    "_name": "Bay 00000002",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100177,14 +100355,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 3,
+  "pk": 31,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "Linecard2",
-    "_name": "Linecard00000002",
+    "device": 106,
+    "name": "Bay 3",
+    "_name": "Bay 00000003",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100192,14 +100370,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 4,
+  "pk": 32,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "Linecard3",
-    "_name": "Linecard00000003",
+    "device": 106,
+    "name": "Bay 4",
+    "_name": "Bay 00000004",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100207,14 +100385,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 5,
+  "pk": 33,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "Linecard4",
-    "_name": "Linecard00000004",
+    "device": 106,
+    "name": "Bay 5",
+    "_name": "Bay 00000005",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100222,14 +100400,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 6,
+  "pk": 34,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "Linecard5",
-    "_name": "Linecard00000005",
+    "device": 106,
+    "name": "Bay 6",
+    "_name": "Bay 00000006",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100237,14 +100415,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 7,
+  "pk": 35,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "Linecard7",
-    "_name": "Linecard00000007",
+    "device": 106,
+    "name": "Bay 7",
+    "_name": "Bay 00000007",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100252,14 +100430,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 8,
+  "pk": 36,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "Linecard8",
-    "_name": "Linecard00000008",
+    "device": 106,
+    "name": "Bay 8",
+    "_name": "Bay 00000008",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100267,14 +100445,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 9,
+  "pk": 37,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "Linecard9",
-    "_name": "Linecard00000009",
+    "device": 106,
+    "name": "Bay 9",
+    "_name": "Bay 00000009",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100282,14 +100460,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 10,
+  "pk": 38,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "Linecard10",
-    "_name": "Linecard00000010",
+    "device": 106,
+    "name": "Bay 10",
+    "_name": "Bay 00000010",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100297,14 +100475,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 11,
+  "pk": 39,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "Linecard11",
-    "_name": "Linecard00000011",
+    "device": 106,
+    "name": "Bay 11",
+    "_name": "Bay 00000011",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100312,14 +100490,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 12,
+  "pk": 40,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "RE0/SF0",
-    "_name": "RE00000000/SF00000000",
+    "device": 106,
+    "name": "Bay 12",
+    "_name": "Bay 00000012",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100327,14 +100505,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 13,
+  "pk": 41,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "RE1/SF1",
-    "_name": "RE00000001/SF00000001",
+    "device": 106,
+    "name": "Bay 13",
+    "_name": "Bay 00000013",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100342,224 +100520,14 @@
 },
 {
   "model": "dcim.devicebay",
-  "pk": 14,
+  "pk": 42,
   "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.169Z",
     "custom_field_data": {},
-    "device": 96,
-    "name": "SF2/Linecard6",
-    "_name": "SF00000002/Linecard00000006",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 15,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "Linecard0",
-    "_name": "Linecard00000000",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 16,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "Linecard1",
-    "_name": "Linecard00000001",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 17,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "Linecard2",
-    "_name": "Linecard00000002",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 18,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "Linecard3",
-    "_name": "Linecard00000003",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 19,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "Linecard4",
-    "_name": "Linecard00000004",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 20,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "Linecard5",
-    "_name": "Linecard00000005",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 21,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "Linecard7",
-    "_name": "Linecard00000007",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 22,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "Linecard8",
-    "_name": "Linecard00000008",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 23,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "Linecard9",
-    "_name": "Linecard00000009",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 24,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "Linecard10",
-    "_name": "Linecard00000010",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 25,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "Linecard11",
-    "_name": "Linecard00000011",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 26,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "RE0/SF0",
-    "_name": "RE00000000/SF00000000",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 27,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "RE1/SF1",
-    "_name": "RE00000001/SF00000001",
-    "label": "",
-    "description": "",
-    "installed_device": null
-  }
-},
-{
-  "model": "dcim.devicebay",
-  "pk": 28,
-  "fields": {
-    "created": "2021-04-14",
-    "last_updated": "2021-04-14T17:36:00.964Z",
-    "custom_field_data": {},
-    "device": 97,
-    "name": "SF2/Linecard6",
-    "_name": "SF00000002/Linecard00000006",
+    "device": 106,
+    "name": "Bay 14",
+    "_name": "Bay 00000014",
     "label": "",
     "description": "",
     "installed_device": null
@@ -100722,11 +100690,23 @@
   }
 },
 {
+  "model": "dcim.manufacturer",
+  "pk": 14,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:27.504Z",
+    "custom_field_data": {},
+    "name": "Lenovo",
+    "slug": "lenovo",
+    "description": ""
+  }
+},
+{
   "model": "dcim.devicetype",
   "pk": 1,
   "fields": {
     "created": "2020-12-18",
-    "last_updated": "2020-12-18T03:23:09.308Z",
+    "last_updated": "2022-01-10T20:55:54.125Z",
     "custom_field_data": {},
     "manufacturer": 7,
     "model": "MX480",
@@ -100734,7 +100714,7 @@
     "part_number": "",
     "u_height": 8,
     "is_full_depth": true,
-    "subdevice_role": "parent",
+    "subdevice_role": "",
     "airflow": "",
     "front_image": "",
     "rear_image": "",
@@ -100766,7 +100746,7 @@
   "pk": 3,
   "fields": {
     "created": "2020-12-18",
-    "last_updated": "2020-12-18T03:25:00.835Z",
+    "last_updated": "2022-01-10T20:55:43.096Z",
     "custom_field_data": {},
     "manufacturer": 7,
     "model": "EX9214",
@@ -100774,7 +100754,7 @@
     "part_number": "",
     "u_height": 16,
     "is_full_depth": true,
-    "subdevice_role": "parent",
+    "subdevice_role": "",
     "airflow": "",
     "front_image": "",
     "rear_image": "",
@@ -100979,6 +100959,26 @@
     "front_image": "",
     "rear_image": "",
     "comments": "[Juniper QFX10002 Data Sheet](https://www.juniper.net/assets/us/en/local/pdf/datasheets/1000531-en.pdf)"
+  }
+},
+{
+  "model": "dcim.devicetype",
+  "pk": 14,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:30.887Z",
+    "custom_field_data": {},
+    "manufacturer": 14,
+    "model": "Flex system",
+    "slug": "flex-system",
+    "part_number": "8721W3X",
+    "u_height": 10,
+    "is_full_depth": true,
+    "subdevice_role": "parent",
+    "airflow": "",
+    "front_image": "",
+    "rear_image": "",
+    "comments": ""
   }
 },
 {
@@ -103173,7 +103173,7 @@
   "pk": 98,
   "fields": {
     "created": "2021-12-30",
-    "last_updated": "2021-12-30T16:31:45.541Z",
+    "last_updated": "2022-01-10T20:54:03.515Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
@@ -103237,7 +103237,7 @@
   "pk": 100,
   "fields": {
     "created": "2021-12-30",
-    "last_updated": "2021-12-30T16:31:45.547Z",
+    "last_updated": "2022-01-10T20:54:03.521Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
@@ -103301,7 +103301,7 @@
   "pk": 102,
   "fields": {
     "created": "2021-12-30",
-    "last_updated": "2021-12-30T16:31:45.553Z",
+    "last_updated": "2022-01-10T20:54:03.526Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
@@ -103365,7 +103365,7 @@
   "pk": 104,
   "fields": {
     "created": "2021-12-30",
-    "last_updated": "2021-12-30T16:31:45.558Z",
+    "last_updated": "2022-01-10T20:54:03.532Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
@@ -103420,6 +103420,38 @@
     "cluster": null,
     "virtual_chassis": 4,
     "vc_position": 2,
+    "vc_priority": null,
+    "comments": ""
+  }
+},
+{
+  "model": "dcim.device",
+  "pk": 106,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T21:00:04.030Z",
+    "custom_field_data": {},
+    "local_context_data": null,
+    "device_type": 14,
+    "device_role": 7,
+    "tenant": null,
+    "platform": null,
+    "name": null,
+    "_name": null,
+    "serial": "",
+    "asset_tag": null,
+    "site": 21,
+    "location": 2,
+    "rack": 22,
+    "position": 9,
+    "face": "front",
+    "status": "active",
+    "airflow": "",
+    "primary_ip4": null,
+    "primary_ip6": null,
+    "cluster": null,
+    "virtual_chassis": null,
+    "vc_position": null,
     "vc_priority": null,
     "comments": ""
   }
@@ -109966,6 +109998,102 @@
   }
 },
 {
+  "model": "dcim.powerporttemplate",
+  "pk": 21,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:30.976Z",
+    "device_type": 14,
+    "name": "PSU0",
+    "_name": "PSU00000000",
+    "label": "",
+    "description": "",
+    "type": "iec-60320-c20",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
+  "model": "dcim.powerporttemplate",
+  "pk": 22,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.043Z",
+    "device_type": 14,
+    "name": "PSU1",
+    "_name": "PSU00000001",
+    "label": "",
+    "description": "",
+    "type": "iec-60320-c20",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
+  "model": "dcim.powerporttemplate",
+  "pk": 23,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.097Z",
+    "device_type": 14,
+    "name": "PSU2",
+    "_name": "PSU00000002",
+    "label": "",
+    "description": "",
+    "type": "iec-60320-c20",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
+  "model": "dcim.powerporttemplate",
+  "pk": 24,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.154Z",
+    "device_type": 14,
+    "name": "PSU3",
+    "_name": "PSU00000003",
+    "label": "",
+    "description": "",
+    "type": "iec-60320-c20",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
+  "model": "dcim.powerporttemplate",
+  "pk": 25,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.213Z",
+    "device_type": 14,
+    "name": "PSU4",
+    "_name": "PSU00000004",
+    "label": "",
+    "description": "",
+    "type": "iec-60320-c20",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
+  "model": "dcim.powerporttemplate",
+  "pk": 26,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.267Z",
+    "device_type": 14,
+    "name": "PSU5",
+    "_name": "PSU00000005",
+    "label": "",
+    "description": "",
+    "type": "iec-60320-c20",
+    "maximum_draw": null,
+    "allocated_draw": null
+  }
+},
+{
   "model": "dcim.poweroutlettemplate",
   "pk": 1,
   "fields": {
@@ -114099,6 +114227,21 @@
   }
 },
 {
+  "model": "dcim.interfacetemplate",
+  "pk": 268,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.331Z",
+    "device_type": 14,
+    "name": "CMM",
+    "label": "",
+    "description": "",
+    "_name": "9999999999999999CMM..................",
+    "type": "1000base-t",
+    "mgmt_only": true
+  }
+},
+{
   "model": "dcim.frontporttemplate",
   "pk": 1,
   "fields": {
@@ -117304,6 +117447,188 @@
     "type": "splice",
     "color": "",
     "positions": 48
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 1,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.404Z",
+    "device_type": 14,
+    "name": "Bay 1",
+    "_name": "Bay 00000001",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 2,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.473Z",
+    "device_type": 14,
+    "name": "Bay 2",
+    "_name": "Bay 00000002",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 3,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.523Z",
+    "device_type": 14,
+    "name": "Bay 3",
+    "_name": "Bay 00000003",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 4,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.565Z",
+    "device_type": 14,
+    "name": "Bay 4",
+    "_name": "Bay 00000004",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 5,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.605Z",
+    "device_type": 14,
+    "name": "Bay 5",
+    "_name": "Bay 00000005",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 6,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.646Z",
+    "device_type": 14,
+    "name": "Bay 6",
+    "_name": "Bay 00000006",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 7,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.687Z",
+    "device_type": 14,
+    "name": "Bay 7",
+    "_name": "Bay 00000007",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 8,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.727Z",
+    "device_type": 14,
+    "name": "Bay 8",
+    "_name": "Bay 00000008",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 9,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.768Z",
+    "device_type": 14,
+    "name": "Bay 9",
+    "_name": "Bay 00000009",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 10,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.808Z",
+    "device_type": 14,
+    "name": "Bay 10",
+    "_name": "Bay 00000010",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 11,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.849Z",
+    "device_type": 14,
+    "name": "Bay 11",
+    "_name": "Bay 00000011",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 12,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.889Z",
+    "device_type": 14,
+    "name": "Bay 12",
+    "_name": "Bay 00000012",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 13,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.931Z",
+    "device_type": 14,
+    "name": "Bay 13",
+    "_name": "Bay 00000013",
+    "label": "",
+    "description": ""
+  }
+},
+{
+  "model": "dcim.devicebaytemplate",
+  "pk": 14,
+  "fields": {
+    "created": "2022-01-10",
+    "last_updated": "2022-01-10T20:58:31.971Z",
+    "device_type": 14,
+    "name": "Bay 14",
+    "_name": "Bay 00000014",
+    "label": "",
+    "description": ""
   }
 },
 {
@@ -151289,7 +151614,7 @@
   "model": "auth.user",
   "fields": {
     "password": "pbkdf2_sha256$260000$1HdcEs3AzIts5vF5VChEPI$3TfdxjKUJ6XXCXP/QtqeyBXrr1+JS90aHci9zIiENS0=",
-    "last_login": "2021-12-30T15:30:41.158Z",
+    "last_login": "2022-01-10T20:54:40.328Z",
     "is_superuser": true,
     "username": "admin",
     "first_name": "",
@@ -151471,6 +151796,18 @@
             "type",
             "color"
           ]
+        },
+        "DeviceTypeTable": {
+          "columns": [
+            "model",
+            "manufacturer",
+            "part_number",
+            "u_height",
+            "is_full_depth",
+            "instance_count",
+            "subdevice_role"
+          ],
+          "available_columns": []
         },
         "RackDetailTable": {
           "columns": [
