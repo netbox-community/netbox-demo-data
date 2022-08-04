@@ -922,7 +922,7 @@
   "pk": 1,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.433Z",
+    "last_updated": "2022-08-04T14:08:10.628Z",
     "custom_field_data": {},
     "cid": "KKDG4923",
     "provider": 5,
@@ -943,7 +943,7 @@
   "pk": 2,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.422Z",
+    "last_updated": "2022-08-04T14:08:10.617Z",
     "custom_field_data": {},
     "cid": "JHEW3951",
     "provider": 5,
@@ -964,7 +964,7 @@
   "pk": 3,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.447Z",
+    "last_updated": "2022-08-04T14:08:10.642Z",
     "custom_field_data": {},
     "cid": "PPJQ5091",
     "provider": 5,
@@ -985,7 +985,7 @@
   "pk": 4,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.454Z",
+    "last_updated": "2022-08-04T14:08:10.649Z",
     "custom_field_data": {},
     "cid": "QPMA5027",
     "provider": 5,
@@ -1006,7 +1006,7 @@
   "pk": 5,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.426Z",
+    "last_updated": "2022-08-04T14:08:10.621Z",
     "custom_field_data": {},
     "cid": "KAGO3917",
     "provider": 5,
@@ -1027,7 +1027,7 @@
   "pk": 6,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.436Z",
+    "last_updated": "2022-08-04T14:08:10.632Z",
     "custom_field_data": {},
     "cid": "KLQU4018",
     "provider": 5,
@@ -1048,7 +1048,7 @@
   "pk": 7,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.443Z",
+    "last_updated": "2022-08-04T14:08:10.639Z",
     "custom_field_data": {},
     "cid": "LQRT4981",
     "provider": 5,
@@ -1069,7 +1069,7 @@
   "pk": 9,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.440Z",
+    "last_updated": "2022-08-04T14:08:10.635Z",
     "custom_field_data": {},
     "cid": "KSIR0381",
     "provider": 5,
@@ -1090,7 +1090,7 @@
   "pk": 10,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.418Z",
+    "last_updated": "2022-08-04T14:08:10.613Z",
     "custom_field_data": {},
     "cid": "DOQHD947",
     "provider": 5,
@@ -1111,7 +1111,7 @@
   "pk": 11,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.414Z",
+    "last_updated": "2022-08-04T14:08:10.609Z",
     "custom_field_data": {},
     "cid": "DJDP9577",
     "provider": 5,
@@ -1132,7 +1132,7 @@
   "pk": 12,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.429Z",
+    "last_updated": "2022-08-04T14:08:10.624Z",
     "custom_field_data": {},
     "cid": "KDPO0597",
     "provider": 5,
@@ -1153,7 +1153,7 @@
   "pk": 13,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.450Z",
+    "last_updated": "2022-08-04T14:08:10.646Z",
     "custom_field_data": {},
     "cid": "QMKD2436",
     "provider": 5,
@@ -1174,7 +1174,7 @@
   "pk": 14,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.409Z",
+    "last_updated": "2022-08-04T14:08:10.606Z",
     "custom_field_data": {},
     "cid": "DEOW4921",
     "provider": 5,
@@ -1195,7 +1195,7 @@
   "pk": 15,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.381Z",
+    "last_updated": "2022-08-04T14:08:10.578Z",
     "custom_field_data": {},
     "cid": "1002847289",
     "provider": 2,
@@ -1216,7 +1216,7 @@
   "pk": 16,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.378Z",
+    "last_updated": "2022-08-04T14:08:10.575Z",
     "custom_field_data": {},
     "cid": "1002845894",
     "provider": 2,
@@ -1237,7 +1237,7 @@
   "pk": 17,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.348Z",
+    "last_updated": "2022-08-04T14:08:10.544Z",
     "custom_field_data": {},
     "cid": "1002842917",
     "provider": 2,
@@ -1258,7 +1258,7 @@
   "pk": 18,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.355Z",
+    "last_updated": "2022-08-04T14:08:10.551Z",
     "custom_field_data": {},
     "cid": "1002843350",
     "provider": 2,
@@ -1279,7 +1279,7 @@
   "pk": 19,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.338Z",
+    "last_updated": "2022-08-04T14:08:10.533Z",
     "custom_field_data": {},
     "cid": "1002840283",
     "provider": 2,
@@ -1300,7 +1300,7 @@
   "pk": 20,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.341Z",
+    "last_updated": "2022-08-04T14:08:10.537Z",
     "custom_field_data": {},
     "cid": "1002840457",
     "provider": 2,
@@ -1321,7 +1321,7 @@
   "pk": 21,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.345Z",
+    "last_updated": "2022-08-04T14:08:10.540Z",
     "custom_field_data": {},
     "cid": "1002841093",
     "provider": 2,
@@ -1342,7 +1342,7 @@
   "pk": 22,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.374Z",
+    "last_updated": "2022-08-04T14:08:10.570Z",
     "custom_field_data": {},
     "cid": "1002844978",
     "provider": 2,
@@ -1363,7 +1363,7 @@
   "pk": 23,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.359Z",
+    "last_updated": "2022-08-04T14:08:10.555Z",
     "custom_field_data": {},
     "cid": "1002843428",
     "provider": 2,
@@ -1384,7 +1384,7 @@
   "pk": 24,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.352Z",
+    "last_updated": "2022-08-04T14:08:10.547Z",
     "custom_field_data": {},
     "cid": "1002843016",
     "provider": 2,
@@ -1405,7 +1405,7 @@
   "pk": 25,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.370Z",
+    "last_updated": "2022-08-04T14:08:10.565Z",
     "custom_field_data": {},
     "cid": "1002844927",
     "provider": 2,
@@ -1426,7 +1426,7 @@
   "pk": 26,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.367Z",
+    "last_updated": "2022-08-04T14:08:10.562Z",
     "custom_field_data": {},
     "cid": "1002844901",
     "provider": 2,
@@ -1447,7 +1447,7 @@
   "pk": 27,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.363Z",
+    "last_updated": "2022-08-04T14:08:10.558Z",
     "custom_field_data": {},
     "cid": "1002843688",
     "provider": 2,
@@ -1468,7 +1468,7 @@
   "pk": 28,
   "fields": {
     "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.404Z",
+    "last_updated": "2022-08-04T14:08:10.602Z",
     "custom_field_data": {},
     "cid": "398282",
     "provider": 9,
@@ -1489,7 +1489,7 @@
   "pk": 29,
   "fields": {
     "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.397Z",
+    "last_updated": "2022-08-04T14:08:10.595Z",
     "custom_field_data": {},
     "cid": "350927",
     "provider": 9,
@@ -1510,7 +1510,7 @@
   "pk": 30,
   "fields": {
     "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:36.390Z",
+    "last_updated": "2022-08-04T14:08:10.587Z",
     "custom_field_data": {},
     "cid": "319031",
     "provider": 9,
@@ -119792,7 +119792,9 @@
     "module_type": null,
     "_name": "9999999999999999fxp000000............",
     "type": "1000base-t",
-    "mgmt_only": true
+    "mgmt_only": true,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119808,7 +119810,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000000............",
     "type": "10gbase-x-xfp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119824,7 +119828,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000001............",
     "type": "10gbase-x-xfp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119840,7 +119846,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000002............",
     "type": "10gbase-x-xfp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119856,7 +119864,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000003............",
     "type": "10gbase-x-xfp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119872,7 +119882,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000000............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119888,7 +119900,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000001............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119904,7 +119918,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000002............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119920,7 +119936,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000003............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119936,7 +119954,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000004............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119952,7 +119972,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000005............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119968,7 +119990,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000006............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -119984,7 +120008,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000007............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120000,7 +120026,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000008............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120016,7 +120044,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000009............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120032,7 +120062,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000010............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120048,7 +120080,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000011............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120064,7 +120098,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000012............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120080,7 +120116,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000013............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120096,7 +120134,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000014............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120112,7 +120152,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000015............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120128,7 +120170,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000016............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120144,7 +120188,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000017............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120160,7 +120206,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000018............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120176,7 +120224,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000019............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120192,7 +120242,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000020............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120208,7 +120260,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000021............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120224,7 +120278,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000022............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120240,7 +120296,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000023............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120256,7 +120314,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000024............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120272,7 +120332,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000025............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120288,7 +120350,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000026............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120304,7 +120368,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000027............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120320,7 +120386,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000028............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120336,7 +120404,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000029............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120352,7 +120422,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000030............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120368,7 +120440,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000031............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120384,7 +120458,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000032............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120400,7 +120476,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000033............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120416,7 +120494,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000034............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120432,7 +120512,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000035............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120448,7 +120530,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000036............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120464,7 +120548,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000037............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120480,7 +120566,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000038............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120496,7 +120584,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000039............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120512,7 +120602,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000040............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120528,7 +120620,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000041............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120544,7 +120638,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000042............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120560,7 +120656,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000043............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120576,7 +120674,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000044............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120592,7 +120692,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000045............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120608,7 +120710,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000046............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120624,7 +120728,9 @@
     "module_type": null,
     "_name": "0000000099999999ge-000047............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120640,7 +120746,9 @@
     "module_type": null,
     "_name": "0000000199999999et-000000............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120656,7 +120764,9 @@
     "module_type": null,
     "_name": "0000000199999999et-000001............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120672,7 +120782,9 @@
     "module_type": null,
     "_name": "0000000199999999et-000002............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120688,7 +120800,9 @@
     "module_type": null,
     "_name": "0000000199999999et-000003............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120704,7 +120818,9 @@
     "module_type": null,
     "_name": "9999999999999999vme..................",
     "type": "1000base-t",
-    "mgmt_only": true
+    "mgmt_only": true,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120720,7 +120836,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000000............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120736,7 +120854,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000001............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120752,7 +120872,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000002............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120768,7 +120890,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000003............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120784,7 +120908,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000004............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120800,7 +120926,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000005............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120816,7 +120944,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000006............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120832,7 +120962,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000007............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120848,7 +120980,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000008............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120864,7 +120998,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000009............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120880,7 +121016,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000010............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120896,7 +121034,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000011............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120912,7 +121052,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000012............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120928,7 +121070,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000013............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120944,7 +121088,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000014............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120960,7 +121106,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000015............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120976,7 +121124,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000016............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -120992,7 +121142,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000017............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121008,7 +121160,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000018............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121024,7 +121178,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000019............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121040,7 +121196,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000020............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121056,7 +121214,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000021............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121072,7 +121232,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000022............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121088,7 +121250,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000023............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121104,7 +121268,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000024............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121120,7 +121286,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000025............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121136,7 +121304,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000026............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121152,7 +121322,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000027............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121168,7 +121340,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000028............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121184,7 +121358,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000029............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121200,7 +121376,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000030............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121216,7 +121394,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000031............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121232,7 +121412,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000032............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121248,7 +121430,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000033............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121264,7 +121448,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000034............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121280,7 +121466,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000035............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121296,7 +121484,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000036............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121312,7 +121502,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000037............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121328,7 +121520,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000038............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121344,7 +121538,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000039............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121360,7 +121556,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000040............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121376,7 +121574,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000041............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121392,7 +121592,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000042............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121408,7 +121610,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000043............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121424,7 +121628,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000044............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121440,7 +121646,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000045............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121456,7 +121664,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000046............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121472,7 +121682,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000047............",
     "type": "10gbase-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121488,7 +121700,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000048............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121504,7 +121718,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000049............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121520,7 +121736,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000050............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121536,7 +121754,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000051............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121552,7 +121772,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000052............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121568,7 +121790,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000053............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121584,7 +121808,9 @@
     "module_type": null,
     "_name": "0000000099999999GigabitEthernet000000............",
     "type": "1000base-x-sfp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121600,7 +121826,9 @@
     "module_type": null,
     "_name": "0000000099999999GigabitEthernet000001............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121616,7 +121844,9 @@
     "module_type": null,
     "_name": "0000000199999999GigabitEthernet000000............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121632,7 +121862,9 @@
     "module_type": null,
     "_name": "0000000199999999GigabitEthernet000001............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121648,7 +121880,9 @@
     "module_type": null,
     "_name": "0000000199999999GigabitEthernet000002............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121664,7 +121898,9 @@
     "module_type": null,
     "_name": "0000000199999999GigabitEthernet000003............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121680,7 +121916,9 @@
     "module_type": null,
     "_name": "0000000199999999GigabitEthernet000004............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121696,7 +121934,9 @@
     "module_type": null,
     "_name": "0000000199999999GigabitEthernet000005............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121712,7 +121952,9 @@
     "module_type": null,
     "_name": "0000000199999999GigabitEthernet000006............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121728,7 +121970,9 @@
     "module_type": null,
     "_name": "0000000199999999GigabitEthernet000007............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121744,7 +121988,9 @@
     "module_type": null,
     "_name": "0000000199999999GigabitEthernet000008............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121760,7 +122006,9 @@
     "module_type": null,
     "_name": "0000000199999999Wlan-GigabitEthernet000008............",
     "type": "ieee802.11ac",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121776,7 +122024,9 @@
     "module_type": null,
     "_name": "0000000299999999Cellular000000............",
     "type": "lte",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121792,7 +122042,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000001............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121808,7 +122060,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000002............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121824,7 +122078,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000003............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121840,7 +122096,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000004............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121856,7 +122114,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000005............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121872,7 +122132,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000006............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121888,7 +122150,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000007............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121904,7 +122168,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000008............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121920,7 +122186,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000009............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121936,7 +122204,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000010............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121952,7 +122222,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000011............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121968,7 +122240,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000012............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -121984,7 +122258,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000013............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122000,7 +122276,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000014............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122016,7 +122294,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000015............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122032,7 +122312,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000016............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122048,7 +122330,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000017............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122064,7 +122348,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000018............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122080,7 +122366,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000019............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122096,7 +122384,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000020............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122112,7 +122402,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000021............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122128,7 +122420,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000022............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122144,7 +122438,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000023............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122160,7 +122456,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000024............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122176,7 +122474,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000025............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122192,7 +122492,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000026............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122208,7 +122510,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000027............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122224,7 +122528,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000028............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122240,7 +122546,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000029............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122256,7 +122564,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000030............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122272,7 +122582,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000031............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122288,7 +122600,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000032............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122304,7 +122618,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000033............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122320,7 +122636,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000034............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122336,7 +122654,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000035............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122352,7 +122672,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000036............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122368,7 +122690,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000037............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122384,7 +122708,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000038............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122400,7 +122726,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000039............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122416,7 +122744,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000040............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122432,7 +122762,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000041............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122448,7 +122780,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000042............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122464,7 +122798,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000043............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122480,7 +122816,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000044............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122496,7 +122834,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000045............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122512,7 +122852,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000046............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122528,7 +122870,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000047............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122544,7 +122888,9 @@
     "module_type": null,
     "_name": "0001000099999999GigabitEthernet000048............",
     "type": "1000base-t",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122560,7 +122906,9 @@
     "module_type": null,
     "_name": "9999999999999999STACK000000............",
     "type": "cisco-stackwise",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122576,7 +122924,9 @@
     "module_type": null,
     "_name": "9999999999999999STACK000001............",
     "type": "cisco-stackwise",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122592,7 +122942,9 @@
     "module_type": null,
     "_name": "9999999999999999GigabitEthernet000000............",
     "type": "1000base-t",
-    "mgmt_only": true
+    "mgmt_only": true,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122608,7 +122960,9 @@
     "module_type": null,
     "_name": "9999999999999999fxp000000............",
     "type": "1000base-t",
-    "mgmt_only": true
+    "mgmt_only": true,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122624,7 +122978,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000000............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122640,7 +122996,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000001............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122656,7 +123014,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000002............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122672,7 +123032,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000003............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122688,7 +123050,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000004............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122704,7 +123068,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000005............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122720,7 +123086,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000006............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122736,7 +123104,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000007............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122752,7 +123122,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000008............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122768,7 +123140,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000009............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122784,7 +123158,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000010............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122800,7 +123176,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000011............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122816,7 +123194,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000012............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122832,7 +123212,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000013............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122848,7 +123230,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000014............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122864,7 +123248,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000015............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122880,7 +123266,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000016............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122896,7 +123284,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000017............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122912,7 +123302,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000018............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122928,7 +123320,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000019............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122944,7 +123338,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000020............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122960,7 +123356,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000021............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122976,7 +123374,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000022............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -122992,7 +123392,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000023............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123008,7 +123410,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000024............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123024,7 +123428,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000025............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123040,7 +123446,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000026............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123056,7 +123464,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000027............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123072,7 +123482,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000028............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123088,7 +123500,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000029............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123104,7 +123518,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000030............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123120,7 +123536,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000031............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123136,7 +123554,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000032............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123152,7 +123572,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000033............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123168,7 +123590,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000034............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123184,7 +123608,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000035............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123200,7 +123626,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000036............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123216,7 +123644,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000037............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123232,7 +123662,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000038............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123248,7 +123680,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000039............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123264,7 +123698,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000040............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123280,7 +123716,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000041............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123296,7 +123734,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000042............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123312,7 +123752,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000043............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123328,7 +123770,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000044............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123344,7 +123788,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000045............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123360,7 +123806,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000046............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123376,7 +123824,9 @@
     "module_type": null,
     "_name": "0000000099999999xe-000047............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123392,7 +123842,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000048............",
     "type": "100gbase-x-qsfp28",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123408,7 +123860,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000049............",
     "type": "100gbase-x-qsfp28",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123424,7 +123878,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000050............",
     "type": "100gbase-x-qsfp28",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123440,7 +123896,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000051............",
     "type": "100gbase-x-qsfp28",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123456,7 +123914,9 @@
     "module_type": null,
     "_name": "9999999999999999em000000............",
     "type": "1000base-t",
-    "mgmt_only": true
+    "mgmt_only": true,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123472,7 +123932,9 @@
     "module_type": null,
     "_name": "9999999999999999em000001............",
     "type": "1000base-x-sfp",
-    "mgmt_only": true
+    "mgmt_only": true,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123488,7 +123950,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000000............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123504,7 +123968,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000001............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123520,7 +123986,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000002............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123536,7 +124004,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000003............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123552,7 +124022,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000004............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123568,7 +124040,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000005............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123584,7 +124058,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000006............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123600,7 +124076,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000007............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123616,7 +124094,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000008............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123632,7 +124112,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000009............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123648,7 +124130,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000010............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123664,7 +124148,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000011............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123680,7 +124166,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000012............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123696,7 +124184,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000013............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123712,7 +124202,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000014............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123728,7 +124220,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000015............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123744,7 +124238,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000016............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123760,7 +124256,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000017............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123776,7 +124274,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000018............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123792,7 +124292,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000019............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123808,7 +124310,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000020............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123824,7 +124328,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000021............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123840,7 +124346,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000022............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123856,7 +124364,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000023............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123872,7 +124382,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000024............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123888,7 +124400,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000025............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123904,7 +124418,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000026............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123920,7 +124436,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000027............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123936,7 +124454,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000028............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123952,7 +124472,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000029............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123968,7 +124490,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000030............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -123984,7 +124508,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000031............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124000,7 +124526,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000032............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124016,7 +124544,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000033............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124032,7 +124562,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000034............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124048,7 +124580,9 @@
     "module_type": null,
     "_name": "0000000099999999et-000035............",
     "type": "40gbase-x-qsfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124064,7 +124598,9 @@
     "module_type": null,
     "_name": "9999999999999999CMM..................",
     "type": "1000base-t",
-    "mgmt_only": true
+    "mgmt_only": true,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124080,7 +124616,9 @@
     "module_type": 1,
     "_name": "0000999999999999xe-{module}/000000............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124096,7 +124634,9 @@
     "module_type": 1,
     "_name": "0000999999999999xe-{module}/000001............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124112,7 +124652,9 @@
     "module_type": 1,
     "_name": "0000999999999999xe-{module}/000002............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124128,7 +124670,9 @@
     "module_type": 1,
     "_name": "0000999999999999xe-{module}/000003............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124144,7 +124688,9 @@
     "module_type": 1,
     "_name": "0000999999999999xe-{module}/000004............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124160,7 +124706,9 @@
     "module_type": 1,
     "_name": "0000999999999999xe-{module}/000005............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124176,7 +124724,9 @@
     "module_type": 1,
     "_name": "0000999999999999xe-{module}/000006............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124192,7 +124742,9 @@
     "module_type": 1,
     "_name": "0000999999999999xe-{module}/000007............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124208,7 +124760,9 @@
     "module_type": 1,
     "_name": "0001999999999999xe-{module}/000000............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124224,7 +124778,9 @@
     "module_type": 1,
     "_name": "0001999999999999xe-{module}/000001............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124240,7 +124796,9 @@
     "module_type": 1,
     "_name": "0001999999999999xe-{module}/000002............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124256,7 +124814,9 @@
     "module_type": 1,
     "_name": "0001999999999999xe-{module}/000003............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124272,7 +124832,9 @@
     "module_type": 1,
     "_name": "0001999999999999xe-{module}/000004............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124288,7 +124850,9 @@
     "module_type": 1,
     "_name": "0001999999999999xe-{module}/000005............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124304,7 +124868,9 @@
     "module_type": 1,
     "_name": "0001999999999999xe-{module}/000006............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124320,7 +124886,9 @@
     "module_type": 1,
     "_name": "0001999999999999xe-{module}/000007............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124336,7 +124904,9 @@
     "module_type": 1,
     "_name": "0002999999999999xe-{module}/000000............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124352,7 +124922,9 @@
     "module_type": 1,
     "_name": "0002999999999999xe-{module}/000001............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124368,7 +124940,9 @@
     "module_type": 1,
     "_name": "0002999999999999xe-{module}/000002............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124384,7 +124958,9 @@
     "module_type": 1,
     "_name": "0002999999999999xe-{module}/000003............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124400,7 +124976,9 @@
     "module_type": 1,
     "_name": "0002999999999999xe-{module}/000004............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124416,7 +124994,9 @@
     "module_type": 1,
     "_name": "0002999999999999xe-{module}/000005............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124432,7 +125012,9 @@
     "module_type": 1,
     "_name": "0002999999999999xe-{module}/000006............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124448,7 +125030,9 @@
     "module_type": 1,
     "_name": "0002999999999999xe-{module}/000007............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124464,7 +125048,9 @@
     "module_type": 1,
     "_name": "0003999999999999xe-{module}/000000............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124480,7 +125066,9 @@
     "module_type": 1,
     "_name": "0003999999999999xe-{module}/000001............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124496,7 +125084,9 @@
     "module_type": 1,
     "_name": "0003999999999999xe-{module}/000002............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124512,7 +125102,9 @@
     "module_type": 1,
     "_name": "0003999999999999xe-{module}/000003............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124528,7 +125120,9 @@
     "module_type": 1,
     "_name": "0003999999999999xe-{module}/000004............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124544,7 +125138,9 @@
     "module_type": 1,
     "_name": "0003999999999999xe-{module}/000005............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124560,7 +125156,9 @@
     "module_type": 1,
     "_name": "0003999999999999xe-{module}/000006............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -124576,7 +125174,9 @@
     "module_type": 1,
     "_name": "0003999999999999xe-{module}/000007............",
     "type": "10gbase-x-sfpp",
-    "mgmt_only": false
+    "mgmt_only": false,
+    "poe_mode": "",
+    "poe_type": ""
   }
 },
 {
@@ -131011,7 +131611,7 @@
   "pk": 98,
   "fields": {
     "created": "2021-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:45.091Z",
+    "last_updated": "2022-08-04T14:08:19.970Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
@@ -131075,7 +131675,7 @@
   "pk": 100,
   "fields": {
     "created": "2021-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:45.096Z",
+    "last_updated": "2022-08-04T14:08:19.976Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
@@ -131139,7 +131739,7 @@
   "pk": 102,
   "fields": {
     "created": "2021-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:45.101Z",
+    "last_updated": "2022-08-04T14:08:19.980Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
@@ -131203,7 +131803,7 @@
   "pk": 104,
   "fields": {
     "created": "2021-12-30T00:00:00Z",
-    "last_updated": "2022-07-14T17:41:45.106Z",
+    "last_updated": "2022-08-04T14:08:19.986Z",
     "custom_field_data": {},
     "local_context_data": null,
     "device_type": 5,
