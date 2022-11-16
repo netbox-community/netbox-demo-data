@@ -51,7 +51,7 @@ The following steps are necessary **only** if you intend to save a snapshot of d
 
 ```bash
 source /opt/netbox/venv/bin/activate
-./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange -e django_rq --indent 2 -o netbox-demo-$VERSION.json
+./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange -e extras.CachedValue -e django_rq --indent 2 -o netbox-demo-$VERSION.json
 ```
 
 ### Docker Commands
