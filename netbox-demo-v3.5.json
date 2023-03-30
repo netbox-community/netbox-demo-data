@@ -975,34 +975,6 @@
   }
 },
 {
-  "model": "core.managedfile",
-  "pk": 1,
-  "fields": {
-    "data_source": null,
-    "data_file": null,
-    "data_path": "",
-    "data_synced": null,
-    "created": "2023-03-30T19:15:26.942Z",
-    "last_updated": null,
-    "file_root": "reports",
-    "file_path": "devices.py"
-  }
-},
-{
-  "model": "core.managedfile",
-  "pk": 2,
-  "fields": {
-    "data_source": null,
-    "data_file": null,
-    "data_path": "",
-    "data_synced": null,
-    "created": "2023-03-30T19:15:26.942Z",
-    "last_updated": null,
-    "file_root": "reports",
-    "file_path": "library.py"
-  }
-},
-{
   "model": "circuits.circuittype",
   "pk": 1,
   "fields": {
