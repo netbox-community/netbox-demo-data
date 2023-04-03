@@ -56,7 +56,15 @@ source /opt/netbox/venv/bin/activate
 
 ### Docker Commands
 
+Docker Compose v1
+
+```bash
+docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange -e django_rq --indent 2" > netbox-demo-$VERSION.json
 ```
-docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange --indent 2" > netbox-demo-$VERSION.json
+
+Docker Compose v2
+
+```bash
+docker compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py dumpdata -e extras.Script -e extras.Report -e extras.ObjectChange -e django_rq --indent 2 --output netbox-demo-$VERSION.json"
 ```
 
