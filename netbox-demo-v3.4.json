@@ -415,6 +415,13 @@
 {
   "model": "contenttypes.contenttype",
   "fields": {
+    "app_label": "dcim",
+    "model": "virtualdevicecontext"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
     "app_label": "ipam",
     "model": "aggregate"
   }
@@ -632,6 +639,34 @@
 {
   "model": "contenttypes.contenttype",
   "fields": {
+    "app_label": "extras",
+    "model": "savedfilter"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "extras",
+    "model": "cachedvalue"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "extras",
+    "model": "branch"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "extras",
+    "model": "stagedchange"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
     "app_label": "tenancy",
     "model": "tenantgroup"
   }
@@ -798,41 +833,6 @@
   }
 },
 {
-  "model": "contenttypes.contenttype",
-  "fields": {
-    "app_label": "dcim",
-    "model": "virtualdevicecontext"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "fields": {
-    "app_label": "extras",
-    "model": "savedfilter"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "fields": {
-    "app_label": "extras",
-    "model": "cachedvalue"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "fields": {
-    "app_label": "extras",
-    "model": "branch"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "fields": {
-    "app_label": "extras",
-    "model": "stagedchange"
-  }
-},
-{
   "model": "sessions.session",
   "pk": "5hs4q8q0nq5ty0uutneg8319031y9ool",
   "fields": {
@@ -957,7 +957,7 @@
   "pk": 1,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:48.010Z",
+    "last_updated": "2023-04-12T19:32:03.833Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -978,7 +978,7 @@
   "pk": 2,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.996Z",
+    "last_updated": "2023-04-12T19:32:03.820Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -999,7 +999,7 @@
   "pk": 3,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:48.025Z",
+    "last_updated": "2023-04-12T19:32:03.850Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1020,7 +1020,7 @@
   "pk": 4,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:48.032Z",
+    "last_updated": "2023-04-12T19:32:03.860Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1041,7 +1041,7 @@
   "pk": 5,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:48.000Z",
+    "last_updated": "2023-04-12T19:32:03.825Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1062,7 +1062,7 @@
   "pk": 6,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:48.014Z",
+    "last_updated": "2023-04-12T19:32:03.837Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1083,7 +1083,7 @@
   "pk": 7,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:48.022Z",
+    "last_updated": "2023-04-12T19:32:03.846Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1104,7 +1104,7 @@
   "pk": 9,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:48.018Z",
+    "last_updated": "2023-04-12T19:32:03.842Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1125,7 +1125,7 @@
   "pk": 10,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.993Z",
+    "last_updated": "2023-04-12T19:32:03.816Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1146,7 +1146,7 @@
   "pk": 11,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.989Z",
+    "last_updated": "2023-04-12T19:32:03.812Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1167,7 +1167,7 @@
   "pk": 12,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:48.005Z",
+    "last_updated": "2023-04-12T19:32:03.828Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1188,7 +1188,7 @@
   "pk": 13,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:48.029Z",
+    "last_updated": "2023-04-12T19:32:03.855Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1209,7 +1209,7 @@
   "pk": 14,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.986Z",
+    "last_updated": "2023-04-12T19:32:03.808Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1230,7 +1230,7 @@
   "pk": 15,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.961Z",
+    "last_updated": "2023-04-12T19:32:03.776Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1251,7 +1251,7 @@
   "pk": 16,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.957Z",
+    "last_updated": "2023-04-12T19:32:03.771Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1272,7 +1272,7 @@
   "pk": 17,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.928Z",
+    "last_updated": "2023-04-12T19:32:03.736Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1293,7 +1293,7 @@
   "pk": 18,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.935Z",
+    "last_updated": "2023-04-12T19:32:03.745Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1314,7 +1314,7 @@
   "pk": 19,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.918Z",
+    "last_updated": "2023-04-12T19:32:03.723Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1335,7 +1335,7 @@
   "pk": 20,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.921Z",
+    "last_updated": "2023-04-12T19:32:03.728Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1356,7 +1356,7 @@
   "pk": 21,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.925Z",
+    "last_updated": "2023-04-12T19:32:03.732Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1377,7 +1377,7 @@
   "pk": 22,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.954Z",
+    "last_updated": "2023-04-12T19:32:03.767Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1398,7 +1398,7 @@
   "pk": 23,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.939Z",
+    "last_updated": "2023-04-12T19:32:03.749Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1419,7 +1419,7 @@
   "pk": 24,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.932Z",
+    "last_updated": "2023-04-12T19:32:03.741Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1440,7 +1440,7 @@
   "pk": 25,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.950Z",
+    "last_updated": "2023-04-12T19:32:03.763Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1461,7 +1461,7 @@
   "pk": 26,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.946Z",
+    "last_updated": "2023-04-12T19:32:03.758Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1482,7 +1482,7 @@
   "pk": 27,
   "fields": {
     "created": "2020-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.943Z",
+    "last_updated": "2023-04-12T19:32:03.754Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1503,7 +1503,7 @@
   "pk": 28,
   "fields": {
     "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.982Z",
+    "last_updated": "2023-04-12T19:32:03.803Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1524,7 +1524,7 @@
   "pk": 29,
   "fields": {
     "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.975Z",
+    "last_updated": "2023-04-12T19:32:03.794Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -1545,7 +1545,7 @@
   "pk": 30,
   "fields": {
     "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:47.968Z",
+    "last_updated": "2023-04-12T19:32:03.785Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -131461,6 +131461,1566 @@
   }
 },
 {
+  "model": "dcim.location",
+  "pk": 1,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T16:57:17.398Z",
+    "custom_field_data": {},
+    "parent": null,
+    "name": "Row 1",
+    "slug": "row-1",
+    "description": "",
+    "site": 21,
+    "status": "active",
+    "tenant": null,
+    "lft": 1,
+    "rght": 2,
+    "tree_id": 1,
+    "level": 0
+  }
+},
+{
+  "model": "dcim.location",
+  "pk": 2,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T16:57:24.629Z",
+    "custom_field_data": {},
+    "parent": null,
+    "name": "Row 2",
+    "slug": "row-2",
+    "description": "",
+    "site": 21,
+    "status": "active",
+    "tenant": null,
+    "lft": 1,
+    "rght": 2,
+    "tree_id": 2,
+    "level": 0
+  }
+},
+{
+  "model": "dcim.location",
+  "pk": 3,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T16:57:31.713Z",
+    "custom_field_data": {},
+    "parent": null,
+    "name": "Row 3",
+    "slug": "row-3",
+    "description": "",
+    "site": 21,
+    "status": "active",
+    "tenant": null,
+    "lft": 1,
+    "rght": 2,
+    "tree_id": 3,
+    "level": 0
+  }
+},
+{
+  "model": "dcim.location",
+  "pk": 4,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T16:57:37.732Z",
+    "custom_field_data": {},
+    "parent": null,
+    "name": "Row 4",
+    "slug": "row-4",
+    "description": "",
+    "site": 21,
+    "status": "active",
+    "tenant": null,
+    "lft": 1,
+    "rght": 2,
+    "tree_id": 4,
+    "level": 0
+  }
+},
+{
+  "model": "dcim.rackrole",
+  "pk": 1,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:00:14.579Z",
+    "custom_field_data": {},
+    "name": "Infrastructure",
+    "slug": "infrastructure",
+    "description": "",
+    "color": "00bcd4"
+  }
+},
+{
+  "model": "dcim.rackrole",
+  "pk": 2,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:00:22.623Z",
+    "custom_field_data": {},
+    "name": "Compute",
+    "slug": "compute",
+    "description": "",
+    "color": "2196f3"
+  }
+},
+{
+  "model": "dcim.rackrole",
+  "pk": 3,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:00:38.355Z",
+    "custom_field_data": {},
+    "name": "Storage",
+    "slug": "storage",
+    "description": "",
+    "color": "ffc107"
+  }
+},
+{
+  "model": "dcim.rackrole",
+  "pk": 4,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:10:54.590Z",
+    "custom_field_data": {},
+    "name": "IDF",
+    "slug": "idf",
+    "description": "",
+    "color": "9e9e9e"
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 1,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.056Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 2,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 2,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.159Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 3,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 3,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.211Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 4,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 4,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.263Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 5,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 5,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.314Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 6,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 6,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.389Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 7,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 7,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.470Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 8,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 8,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.524Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 9,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 9,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.575Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 10,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 10,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.624Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 11,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 11,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.674Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 12,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 12,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.725Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 13,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 13,
+  "fields": {
+    "created": "2020-12-20T00:00:00Z",
+    "last_updated": "2020-12-20T02:24:51.776Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Comms closet",
+    "_name": "Comms closet",
+    "facility_id": null,
+    "site": 14,
+    "location": null,
+    "tenant": 5,
+    "status": "active",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "wall-cabinet",
+    "width": 19,
+    "u_height": 12,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 14,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:01:12.931Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R101",
+    "_name": "R00000101",
+    "facility_id": null,
+    "site": 21,
+    "location": 1,
+    "tenant": 13,
+    "status": "active",
+    "role": 1,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 15,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:01:13.022Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R102",
+    "_name": "R00000102",
+    "facility_id": null,
+    "site": 21,
+    "location": 1,
+    "tenant": 13,
+    "status": "active",
+    "role": 1,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 16,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:01:13.112Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R103",
+    "_name": "R00000103",
+    "facility_id": null,
+    "site": 21,
+    "location": 1,
+    "tenant": 13,
+    "status": "active",
+    "role": 1,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 17,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:01:13.202Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R104",
+    "_name": "R00000104",
+    "facility_id": null,
+    "site": 21,
+    "location": 1,
+    "tenant": 13,
+    "status": "active",
+    "role": 1,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 18,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:01:35.986Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R105",
+    "_name": "R00000105",
+    "facility_id": null,
+    "site": 21,
+    "location": 1,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 19,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:01:36.120Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R106",
+    "_name": "R00000106",
+    "facility_id": null,
+    "site": 21,
+    "location": 1,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 20,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:01:36.232Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R107",
+    "_name": "R00000107",
+    "facility_id": null,
+    "site": 21,
+    "location": 1,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 21,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:01:36.318Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R108",
+    "_name": "R00000108",
+    "facility_id": null,
+    "site": 21,
+    "location": 1,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 22,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:20:56.328Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R201",
+    "_name": "R00000201",
+    "facility_id": null,
+    "site": 21,
+    "location": 2,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 23,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:20:56.336Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R202",
+    "_name": "R00000202",
+    "facility_id": null,
+    "site": 21,
+    "location": 2,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 24,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:20:56.341Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R203",
+    "_name": "R00000203",
+    "facility_id": null,
+    "site": 21,
+    "location": 2,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 25,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:20:56.346Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R204",
+    "_name": "R00000204",
+    "facility_id": null,
+    "site": 21,
+    "location": 2,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 26,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:20:56.352Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R205",
+    "_name": "R00000205",
+    "facility_id": null,
+    "site": 21,
+    "location": 2,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 27,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:20:56.357Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R206",
+    "_name": "R00000206",
+    "facility_id": null,
+    "site": 21,
+    "location": 2,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 28,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:20:56.362Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R207",
+    "_name": "R00000207",
+    "facility_id": null,
+    "site": 21,
+    "location": 2,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 29,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:20:56.367Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R208",
+    "_name": "R00000208",
+    "facility_id": null,
+    "site": 21,
+    "location": 2,
+    "tenant": 13,
+    "status": "active",
+    "role": 2,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 30,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:21:19.145Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R301",
+    "_name": "R00000301",
+    "facility_id": null,
+    "site": 21,
+    "location": 3,
+    "tenant": 13,
+    "status": "active",
+    "role": 3,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 31,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:21:19.159Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R302",
+    "_name": "R00000302",
+    "facility_id": null,
+    "site": 21,
+    "location": 3,
+    "tenant": 13,
+    "status": "active",
+    "role": 3,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 32,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:21:19.165Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R303",
+    "_name": "R00000303",
+    "facility_id": null,
+    "site": 21,
+    "location": 3,
+    "tenant": 13,
+    "status": "active",
+    "role": 3,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 33,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:21:19.171Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R304",
+    "_name": "R00000304",
+    "facility_id": null,
+    "site": 21,
+    "location": 3,
+    "tenant": 13,
+    "status": "active",
+    "role": 3,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 34,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:21:19.177Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R305",
+    "_name": "R00000305",
+    "facility_id": null,
+    "site": 21,
+    "location": 3,
+    "tenant": 13,
+    "status": "available",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 35,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:21:19.183Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R306",
+    "_name": "R00000306",
+    "facility_id": null,
+    "site": 21,
+    "location": 3,
+    "tenant": 13,
+    "status": "available",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 36,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:21:19.189Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R307",
+    "_name": "R00000307",
+    "facility_id": null,
+    "site": 21,
+    "location": 3,
+    "tenant": 13,
+    "status": "available",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 37,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-05T20:21:19.195Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "R308",
+    "_name": "R00000308",
+    "facility_id": null,
+    "site": 21,
+    "location": 3,
+    "tenant": 13,
+    "status": "available",
+    "role": null,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-cabinet",
+    "width": 19,
+    "u_height": 48,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 38,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:11:05.846Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "IDF118",
+    "_name": "IDF00000118",
+    "facility_id": null,
+    "site": 23,
+    "location": null,
+    "tenant": 13,
+    "status": "active",
+    "role": 4,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-frame",
+    "width": 19,
+    "u_height": 42,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 39,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:11:05.692Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "IDF128",
+    "_name": "IDF00000128",
+    "facility_id": null,
+    "site": 24,
+    "location": null,
+    "tenant": 13,
+    "status": "active",
+    "role": 4,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-frame",
+    "width": 19,
+    "u_height": 42,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 40,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:11:05.768Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "IDF117",
+    "_name": "IDF00000117",
+    "facility_id": null,
+    "site": 22,
+    "location": null,
+    "tenant": 13,
+    "status": "active",
+    "role": 4,
+    "serial": "",
+    "asset_tag": null,
+    "type": "4-post-frame",
+    "width": 19,
+    "u_height": 42,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 41,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:15:48.788Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Plant 1",
+    "_name": "Plant 00000001",
+    "facility_id": null,
+    "site": 21,
+    "location": null,
+    "tenant": 13,
+    "status": "active",
+    "role": 4,
+    "serial": "",
+    "asset_tag": null,
+    "type": "2-post-frame",
+    "width": 19,
+    "u_height": 42,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
+  "model": "dcim.rack",
+  "pk": 42,
+  "fields": {
+    "created": "2021-04-02T00:00:00Z",
+    "last_updated": "2021-04-02T17:15:56.794Z",
+    "custom_field_data": {},
+    "description": "",
+    "comments": "",
+    "weight": null,
+    "weight_unit": "",
+    "_abs_weight": null,
+    "name": "Plant 2",
+    "_name": "Plant 00000002",
+    "facility_id": null,
+    "site": 21,
+    "location": null,
+    "tenant": 13,
+    "status": "active",
+    "role": 4,
+    "serial": "",
+    "asset_tag": null,
+    "type": "2-post-frame",
+    "width": 19,
+    "u_height": 42,
+    "desc_units": false,
+    "outer_width": null,
+    "outer_depth": null,
+    "outer_unit": "",
+    "max_weight": null,
+    "_abs_max_weight": null,
+    "mounting_depth": null
+  }
+},
+{
   "model": "dcim.device",
   "pk": 1,
   "fields": {
@@ -133544,7 +135104,7 @@
   "pk": 98,
   "fields": {
     "created": "2021-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:57.795Z",
+    "last_updated": "2023-04-12T19:32:15.366Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -133610,7 +135170,7 @@
   "pk": 100,
   "fields": {
     "created": "2021-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:57.801Z",
+    "last_updated": "2023-04-12T19:32:15.372Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -133676,7 +135236,7 @@
   "pk": 102,
   "fields": {
     "created": "2021-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:57.807Z",
+    "last_updated": "2023-04-12T19:32:15.379Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -133742,7 +135302,7 @@
   "pk": 104,
   "fields": {
     "created": "2021-12-30T00:00:00Z",
-    "last_updated": "2022-11-16T20:02:57.813Z",
+    "last_updated": "2023-04-12T19:32:15.385Z",
     "custom_field_data": {},
     "description": "",
     "comments": "",
@@ -133849,6 +135409,7 @@
     "device": 96,
     "module_bay": 1,
     "module_type": 1,
+    "status": "active",
     "serial": "",
     "asset_tag": null
   }
@@ -133866,6 +135427,7 @@
     "device": 96,
     "module_bay": 2,
     "module_type": 1,
+    "status": "active",
     "serial": "",
     "asset_tag": null
   }
@@ -133883,6 +135445,7 @@
     "device": 97,
     "module_bay": 15,
     "module_type": 1,
+    "status": "active",
     "serial": "",
     "asset_tag": null
   }
@@ -133900,6 +135463,7 @@
     "device": 97,
     "module_bay": 16,
     "module_type": 1,
+    "status": "active",
     "serial": "",
     "asset_tag": null
   }
@@ -135262,1402 +136826,6 @@
     "amperage": 20,
     "max_utilization": 80,
     "available_power": 3520
-  }
-},
-{
-  "model": "dcim.rackrole",
-  "pk": 1,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:00:14.579Z",
-    "custom_field_data": {},
-    "name": "Infrastructure",
-    "slug": "infrastructure",
-    "description": "",
-    "color": "00bcd4"
-  }
-},
-{
-  "model": "dcim.rackrole",
-  "pk": 2,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:00:22.623Z",
-    "custom_field_data": {},
-    "name": "Compute",
-    "slug": "compute",
-    "description": "",
-    "color": "2196f3"
-  }
-},
-{
-  "model": "dcim.rackrole",
-  "pk": 3,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:00:38.355Z",
-    "custom_field_data": {},
-    "name": "Storage",
-    "slug": "storage",
-    "description": "",
-    "color": "ffc107"
-  }
-},
-{
-  "model": "dcim.rackrole",
-  "pk": 4,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:10:54.590Z",
-    "custom_field_data": {},
-    "name": "IDF",
-    "slug": "idf",
-    "description": "",
-    "color": "9e9e9e"
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 1,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.056Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 2,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 2,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.159Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 3,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 3,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.211Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 4,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 4,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.263Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 5,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 5,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.314Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 6,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 6,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.389Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 7,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 7,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.470Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 8,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 8,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.524Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 9,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 9,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.575Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 10,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 10,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.624Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 11,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 11,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.674Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 12,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 12,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.725Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 13,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 13,
-  "fields": {
-    "created": "2020-12-20T00:00:00Z",
-    "last_updated": "2020-12-20T02:24:51.776Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Comms closet",
-    "_name": "Comms closet",
-    "facility_id": null,
-    "site": 14,
-    "location": null,
-    "tenant": 5,
-    "status": "active",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "wall-cabinet",
-    "width": 19,
-    "u_height": 12,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 14,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:01:12.931Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R101",
-    "_name": "R00000101",
-    "facility_id": null,
-    "site": 21,
-    "location": 1,
-    "tenant": 13,
-    "status": "active",
-    "role": 1,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 15,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:01:13.022Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R102",
-    "_name": "R00000102",
-    "facility_id": null,
-    "site": 21,
-    "location": 1,
-    "tenant": 13,
-    "status": "active",
-    "role": 1,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 16,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:01:13.112Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R103",
-    "_name": "R00000103",
-    "facility_id": null,
-    "site": 21,
-    "location": 1,
-    "tenant": 13,
-    "status": "active",
-    "role": 1,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 17,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:01:13.202Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R104",
-    "_name": "R00000104",
-    "facility_id": null,
-    "site": 21,
-    "location": 1,
-    "tenant": 13,
-    "status": "active",
-    "role": 1,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 18,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:01:35.986Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R105",
-    "_name": "R00000105",
-    "facility_id": null,
-    "site": 21,
-    "location": 1,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 19,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:01:36.120Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R106",
-    "_name": "R00000106",
-    "facility_id": null,
-    "site": 21,
-    "location": 1,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 20,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:01:36.232Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R107",
-    "_name": "R00000107",
-    "facility_id": null,
-    "site": 21,
-    "location": 1,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 21,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:01:36.318Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R108",
-    "_name": "R00000108",
-    "facility_id": null,
-    "site": 21,
-    "location": 1,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 22,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:20:56.328Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R201",
-    "_name": "R00000201",
-    "facility_id": null,
-    "site": 21,
-    "location": 2,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 23,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:20:56.336Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R202",
-    "_name": "R00000202",
-    "facility_id": null,
-    "site": 21,
-    "location": 2,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 24,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:20:56.341Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R203",
-    "_name": "R00000203",
-    "facility_id": null,
-    "site": 21,
-    "location": 2,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 25,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:20:56.346Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R204",
-    "_name": "R00000204",
-    "facility_id": null,
-    "site": 21,
-    "location": 2,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 26,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:20:56.352Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R205",
-    "_name": "R00000205",
-    "facility_id": null,
-    "site": 21,
-    "location": 2,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 27,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:20:56.357Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R206",
-    "_name": "R00000206",
-    "facility_id": null,
-    "site": 21,
-    "location": 2,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 28,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:20:56.362Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R207",
-    "_name": "R00000207",
-    "facility_id": null,
-    "site": 21,
-    "location": 2,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 29,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:20:56.367Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R208",
-    "_name": "R00000208",
-    "facility_id": null,
-    "site": 21,
-    "location": 2,
-    "tenant": 13,
-    "status": "active",
-    "role": 2,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 30,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:21:19.145Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R301",
-    "_name": "R00000301",
-    "facility_id": null,
-    "site": 21,
-    "location": 3,
-    "tenant": 13,
-    "status": "active",
-    "role": 3,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 31,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:21:19.159Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R302",
-    "_name": "R00000302",
-    "facility_id": null,
-    "site": 21,
-    "location": 3,
-    "tenant": 13,
-    "status": "active",
-    "role": 3,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 32,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:21:19.165Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R303",
-    "_name": "R00000303",
-    "facility_id": null,
-    "site": 21,
-    "location": 3,
-    "tenant": 13,
-    "status": "active",
-    "role": 3,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 33,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:21:19.171Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R304",
-    "_name": "R00000304",
-    "facility_id": null,
-    "site": 21,
-    "location": 3,
-    "tenant": 13,
-    "status": "active",
-    "role": 3,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 34,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:21:19.177Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R305",
-    "_name": "R00000305",
-    "facility_id": null,
-    "site": 21,
-    "location": 3,
-    "tenant": 13,
-    "status": "available",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 35,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:21:19.183Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R306",
-    "_name": "R00000306",
-    "facility_id": null,
-    "site": 21,
-    "location": 3,
-    "tenant": 13,
-    "status": "available",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 36,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:21:19.189Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R307",
-    "_name": "R00000307",
-    "facility_id": null,
-    "site": 21,
-    "location": 3,
-    "tenant": 13,
-    "status": "available",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 37,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-05T20:21:19.195Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "R308",
-    "_name": "R00000308",
-    "facility_id": null,
-    "site": 21,
-    "location": 3,
-    "tenant": 13,
-    "status": "available",
-    "role": null,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-cabinet",
-    "width": 19,
-    "u_height": 48,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 38,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:11:05.846Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "IDF118",
-    "_name": "IDF00000118",
-    "facility_id": null,
-    "site": 23,
-    "location": null,
-    "tenant": 13,
-    "status": "active",
-    "role": 4,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-frame",
-    "width": 19,
-    "u_height": 42,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 39,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:11:05.692Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "IDF128",
-    "_name": "IDF00000128",
-    "facility_id": null,
-    "site": 24,
-    "location": null,
-    "tenant": 13,
-    "status": "active",
-    "role": 4,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-frame",
-    "width": 19,
-    "u_height": 42,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 40,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:11:05.768Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "IDF117",
-    "_name": "IDF00000117",
-    "facility_id": null,
-    "site": 22,
-    "location": null,
-    "tenant": 13,
-    "status": "active",
-    "role": 4,
-    "serial": "",
-    "asset_tag": null,
-    "type": "4-post-frame",
-    "width": 19,
-    "u_height": 42,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 41,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:15:48.788Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Plant 1",
-    "_name": "Plant 00000001",
-    "facility_id": null,
-    "site": 21,
-    "location": null,
-    "tenant": 13,
-    "status": "active",
-    "role": 4,
-    "serial": "",
-    "asset_tag": null,
-    "type": "2-post-frame",
-    "width": 19,
-    "u_height": 42,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
-  }
-},
-{
-  "model": "dcim.rack",
-  "pk": 42,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T17:15:56.794Z",
-    "custom_field_data": {},
-    "description": "",
-    "comments": "",
-    "weight": null,
-    "weight_unit": "",
-    "_abs_weight": null,
-    "name": "Plant 2",
-    "_name": "Plant 00000002",
-    "facility_id": null,
-    "site": 21,
-    "location": null,
-    "tenant": 13,
-    "status": "active",
-    "role": 4,
-    "serial": "",
-    "asset_tag": null,
-    "type": "2-post-frame",
-    "width": 19,
-    "u_height": 42,
-    "desc_units": false,
-    "outer_width": null,
-    "outer_depth": null,
-    "outer_unit": "",
-    "mounting_depth": null
   }
 },
 {
@@ -138448,86 +138616,6 @@
     "latitude": null,
     "longitude": null,
     "asns": []
-  }
-},
-{
-  "model": "dcim.location",
-  "pk": 1,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T16:57:17.398Z",
-    "custom_field_data": {},
-    "parent": null,
-    "name": "Row 1",
-    "slug": "row-1",
-    "description": "",
-    "site": 21,
-    "status": "active",
-    "tenant": null,
-    "lft": 1,
-    "rght": 2,
-    "tree_id": 1,
-    "level": 0
-  }
-},
-{
-  "model": "dcim.location",
-  "pk": 2,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T16:57:24.629Z",
-    "custom_field_data": {},
-    "parent": null,
-    "name": "Row 2",
-    "slug": "row-2",
-    "description": "",
-    "site": 21,
-    "status": "active",
-    "tenant": null,
-    "lft": 1,
-    "rght": 2,
-    "tree_id": 2,
-    "level": 0
-  }
-},
-{
-  "model": "dcim.location",
-  "pk": 3,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T16:57:31.713Z",
-    "custom_field_data": {},
-    "parent": null,
-    "name": "Row 3",
-    "slug": "row-3",
-    "description": "",
-    "site": 21,
-    "status": "active",
-    "tenant": null,
-    "lft": 1,
-    "rght": 2,
-    "tree_id": 3,
-    "level": 0
-  }
-},
-{
-  "model": "dcim.location",
-  "pk": 4,
-  "fields": {
-    "created": "2021-04-02T00:00:00Z",
-    "last_updated": "2021-04-02T16:57:37.732Z",
-    "custom_field_data": {},
-    "parent": null,
-    "name": "Row 4",
-    "slug": "row-4",
-    "description": "",
-    "site": 21,
-    "status": "active",
-    "tenant": null,
-    "lft": 1,
-    "rght": 2,
-    "tree_id": 4,
-    "level": 0
   }
 },
 {
@@ -147233,7 +147321,7 @@
     "validation_minimum": null,
     "validation_maximum": null,
     "validation_regex": "^[A-Z]{3}\\d{2}$",
-    "choices": "[]",
+    "choices": [],
     "ui_visibility": "read-write",
     "content_types": [
       [
@@ -171391,6 +171479,50 @@
 {
   "model": "auth.permission",
   "fields": {
+    "name": "Can add virtual device context",
+    "content_type": [
+      "dcim",
+      "virtualdevicecontext"
+    ],
+    "codename": "add_virtualdevicecontext"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change virtual device context",
+    "content_type": [
+      "dcim",
+      "virtualdevicecontext"
+    ],
+    "codename": "change_virtualdevicecontext"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete virtual device context",
+    "content_type": [
+      "dcim",
+      "virtualdevicecontext"
+    ],
+    "codename": "delete_virtualdevicecontext"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view virtual device context",
+    "content_type": [
+      "dcim",
+      "virtualdevicecontext"
+    ],
+    "codename": "view_virtualdevicecontext"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
     "name": "Can add aggregate",
     "content_type": [
       "ipam",
@@ -172755,6 +172887,182 @@
 {
   "model": "auth.permission",
   "fields": {
+    "name": "Can add saved filter",
+    "content_type": [
+      "extras",
+      "savedfilter"
+    ],
+    "codename": "add_savedfilter"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change saved filter",
+    "content_type": [
+      "extras",
+      "savedfilter"
+    ],
+    "codename": "change_savedfilter"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete saved filter",
+    "content_type": [
+      "extras",
+      "savedfilter"
+    ],
+    "codename": "delete_savedfilter"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view saved filter",
+    "content_type": [
+      "extras",
+      "savedfilter"
+    ],
+    "codename": "view_savedfilter"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add cached value",
+    "content_type": [
+      "extras",
+      "cachedvalue"
+    ],
+    "codename": "add_cachedvalue"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change cached value",
+    "content_type": [
+      "extras",
+      "cachedvalue"
+    ],
+    "codename": "change_cachedvalue"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete cached value",
+    "content_type": [
+      "extras",
+      "cachedvalue"
+    ],
+    "codename": "delete_cachedvalue"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view cached value",
+    "content_type": [
+      "extras",
+      "cachedvalue"
+    ],
+    "codename": "view_cachedvalue"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add branch",
+    "content_type": [
+      "extras",
+      "branch"
+    ],
+    "codename": "add_branch"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change branch",
+    "content_type": [
+      "extras",
+      "branch"
+    ],
+    "codename": "change_branch"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete branch",
+    "content_type": [
+      "extras",
+      "branch"
+    ],
+    "codename": "delete_branch"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view branch",
+    "content_type": [
+      "extras",
+      "branch"
+    ],
+    "codename": "view_branch"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add staged change",
+    "content_type": [
+      "extras",
+      "stagedchange"
+    ],
+    "codename": "add_stagedchange"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change staged change",
+    "content_type": [
+      "extras",
+      "stagedchange"
+    ],
+    "codename": "change_stagedchange"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete staged change",
+    "content_type": [
+      "extras",
+      "stagedchange"
+    ],
+    "codename": "delete_stagedchange"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view staged change",
+    "content_type": [
+      "extras",
+      "stagedchange"
+    ],
+    "codename": "view_stagedchange"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
     "name": "Can add tenant group",
     "content_type": [
       "tenancy",
@@ -173776,226 +174084,6 @@
   }
 },
 {
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can add virtual device context",
-    "content_type": [
-      "dcim",
-      "virtualdevicecontext"
-    ],
-    "codename": "add_virtualdevicecontext"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can change virtual device context",
-    "content_type": [
-      "dcim",
-      "virtualdevicecontext"
-    ],
-    "codename": "change_virtualdevicecontext"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can delete virtual device context",
-    "content_type": [
-      "dcim",
-      "virtualdevicecontext"
-    ],
-    "codename": "delete_virtualdevicecontext"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can view virtual device context",
-    "content_type": [
-      "dcim",
-      "virtualdevicecontext"
-    ],
-    "codename": "view_virtualdevicecontext"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can add saved filter",
-    "content_type": [
-      "extras",
-      "savedfilter"
-    ],
-    "codename": "add_savedfilter"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can change saved filter",
-    "content_type": [
-      "extras",
-      "savedfilter"
-    ],
-    "codename": "change_savedfilter"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can delete saved filter",
-    "content_type": [
-      "extras",
-      "savedfilter"
-    ],
-    "codename": "delete_savedfilter"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can view saved filter",
-    "content_type": [
-      "extras",
-      "savedfilter"
-    ],
-    "codename": "view_savedfilter"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can add cached value",
-    "content_type": [
-      "extras",
-      "cachedvalue"
-    ],
-    "codename": "add_cachedvalue"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can change cached value",
-    "content_type": [
-      "extras",
-      "cachedvalue"
-    ],
-    "codename": "change_cachedvalue"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can delete cached value",
-    "content_type": [
-      "extras",
-      "cachedvalue"
-    ],
-    "codename": "delete_cachedvalue"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can view cached value",
-    "content_type": [
-      "extras",
-      "cachedvalue"
-    ],
-    "codename": "view_cachedvalue"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can add branch",
-    "content_type": [
-      "extras",
-      "branch"
-    ],
-    "codename": "add_branch"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can change branch",
-    "content_type": [
-      "extras",
-      "branch"
-    ],
-    "codename": "change_branch"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can delete branch",
-    "content_type": [
-      "extras",
-      "branch"
-    ],
-    "codename": "delete_branch"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can view branch",
-    "content_type": [
-      "extras",
-      "branch"
-    ],
-    "codename": "view_branch"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can add staged change",
-    "content_type": [
-      "extras",
-      "stagedchange"
-    ],
-    "codename": "add_stagedchange"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can change staged change",
-    "content_type": [
-      "extras",
-      "stagedchange"
-    ],
-    "codename": "change_stagedchange"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can delete staged change",
-    "content_type": [
-      "extras",
-      "stagedchange"
-    ],
-    "codename": "delete_stagedchange"
-  }
-},
-{
-  "model": "auth.permission",
-  "fields": {
-    "name": "Can view staged change",
-    "content_type": [
-      "extras",
-      "stagedchange"
-    ],
-    "codename": "view_stagedchange"
-  }
-},
-{
   "model": "auth.group",
   "fields": {
     "name": "Staff",
@@ -174133,7 +174221,18 @@
     "custom_field_data": {},
     "comments": "",
     "rack": 39,
-    "units": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\"]",
+    "units": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "tenant": null,
     "user": [
       "alice"
@@ -174150,7 +174249,10 @@
     "custom_field_data": {},
     "comments": "",
     "rack": 14,
-    "units": "[\"20\", \"21\"]",
+    "units": [
+      20,
+      21
+    ],
     "tenant": null,
     "user": [
       "bob"
