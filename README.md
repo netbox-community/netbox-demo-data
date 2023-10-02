@@ -30,6 +30,9 @@ Finally, load the demo data fixtures from the JSON file.
 ./manage.py loaddata -v 3 netbox-demo-$VERSION.json
 ```
 
+> [!IMPORTANT]
+> After loading the data, it may be necessary to run the following command to fix cable path traces: `manage.py trace_paths --force`. (Ensure that NetBox's' Python virtual environment is active before executing this command.)
+
 ### Docker Commands
 
 ```
