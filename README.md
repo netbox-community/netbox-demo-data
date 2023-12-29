@@ -1,37 +1,28 @@
 # netbox-demo-data
 
-This repository serves as "dummy" data that can be used to populate a [NetBox](https://github.com/netbox-community/netbox) instance for the purposes of demonstration and testing. The set of demo data comprises a set of JSON objects which are to be loaded into NetBox's PostgreSQL database using Django's `loaddata` management command (see the instructions below).
+This repository provides "dummy" data that can be used to populate a [NetBox](https://github.com/netbox-community/netbox) instance for the purposes of demonstration and testing. A PostgreSQL database dump is provided for each minor version of NetBox, beginning with v3.0. See below for instructions on populating your database from a SQL dump.
 
 Once populated, the demo instance can be accessed using the username `admin` and password `admin`.
 
-Please note that due to very limited testing ability, we are not currently accepting contributions to the demo data set.
+Also included in this repository are JSON data dumps that were captured using Django's `dumpdata` management command. While these have been retained for NetBox v3.6 and earlier for historical purposes, we no longer generate demo data in this format due to its limitations dealing with complex data models. (Specifically, it can be very difficult to ensure that model data is exported in a sequence that can be imported successfully without manual intervention.)
 
-## Loading the Database
+## Loading the Data
 
 First, drop and recreate the PostgreSQL database. The example here assumes the database is named `netbox`.
 
-**WARNING:** This will destroy any existing database. Do not perform this operation on a database you care about.
+> [!CAUTION]
+> This will destroy any existing database. Do not perform this operation on a database you care about.
 
 ```bash
 sudo -u postgres psql -c "DROP database netbox;"
 sudo -u postgres psql -c "CREATE database netbox;"
 ```
 
-Next, apply NetBox's database migrations using the `migrate` management command. (Ensure that the Python virtual environment is active before attempting to invoke the command.)
+Next, use the PosgtreSQL `psql` client to load the data from the desired file:
 
 ```bash
-source /opt/netbox/venv/bin/activate
-./manage.py migrate
+sudo -u postgres psql netbox < netbox-demo-data/sql/netbox-demo-$VERSION.sql
 ```
-
-Finally, load the demo data fixtures from the JSON file.
-
-```bash
-./manage.py loaddata -v 3 netbox-demo-$VERSION.json
-```
-
-> [!IMPORTANT]
-> After loading the data, it may be necessary to run the following command to fix cable path traces: `manage.py trace_paths --force`. (Ensure that NetBox's' Python virtual environment is active before executing this command.)
 
 ### Docker Commands
 
@@ -40,26 +31,16 @@ Finally, load the demo data fixtures from the JSON file.
 docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "DROP DATABASE netbox;"'
 docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "CREATE DATABASE netbox;"'
 
-# Apply migrations
-docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py migrate"
-
 # Load the demo data
-docker cp netbox-demo-$VERSION.json "$(docker-compose ps -q netbox)":/opt/netbox/netbox/netbox-demo.json
-docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py loaddata netbox-demo.json"
+docker cp netbox-demo-$VERSION.sql "$(docker-compose ps -q netbox)":/opt/netbox/netbox/netbox-demo.sql
+docker-compose exec netbox bash -c "psql -U $POSTGRES_USER netbox < /opt/netbox/netbox/netbox-demo.sql"
 ```
 
-## Exporting the Database
+## Exporting the Data
 
-The following steps are necessary **only** if you intend to save a snapshot of data from a demo instance. This is done using Django's `dumpdata` management command, with a few specific arguments set to ensure a successful export of the database.
+The following steps are necessary **only** if you intend to save a snapshot of data from a demo instance. This is done using PostgreSQL's `pg_dump` utility. (Again, the example here assumes the database is named `netbox`.)
 
 ```bash
-source /opt/netbox/venv/bin/activate
-./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange -e extras.CachedValue -e django_rq --indent 2 -o netbox-demo-$VERSION.json
-```
-
-### Docker Commands
-
-```
-docker-compose exec netbox bash -c "source /opt/netbox/venv/bin/activate && ./manage.py dumpdata --natural-foreign --natural-primary -e extras.Script -e extras.Report -e extras.ObjectChange --indent 2" > netbox-demo-$VERSION.json
+sudo -u postgres pg_dump netbox > snapshot.sql
 ```
 
