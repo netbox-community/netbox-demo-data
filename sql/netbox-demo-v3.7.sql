@@ -7178,78 +7178,78 @@ COPY public.dcim_consoleserverporttemplate (created, last_updated, id, name, _na
 --
 
 COPY public.dcim_device (created, last_updated, custom_field_data, id, local_context_data, name, _name, serial, asset_tag, "position", face, status, vc_position, vc_priority, comments, cluster_id, role_id, device_type_id, location_id, platform_id, primary_ip4_id, primary_ip6_id, rack_id, site_id, tenant_id, virtual_chassis_id, airflow, description, config_template_id, latitude, longitude, oob_ip_id, console_port_count, console_server_port_count, power_port_count, power_outlet_count, interface_count, front_port_count, rear_port_count, device_bay_count, module_bay_count, inventory_item_count) FROM stdin;
-2020-12-19 19:00:00-05	2020-12-19 21:51:03.257-05	{}	1	\N	dmi01-akron-rtr01	dmi00000001-akron-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	1	2	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:51:32.863-05	{}	2	\N	dmi01-albany-rtr01	dmi00000001-albany-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	2	3	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:52:02.614-05	{}	3	\N	dmi01-binghamton-rtr01	dmi00000001-binghamton-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	3	4	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:52:26.146-05	{}	4	\N	dmi01-buffalo-rtr01	dmi00000001-buffalo-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	4	5	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:53:47.838-05	{}	5	\N	dmi01-camden-rtr01	dmi00000001-camden-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	5	6	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:54:08.2-05	{}	6	\N	dmi01-nashua-rtr01	dmi00000001-nashua-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	6	7	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:55:17.095-05	{}	7	\N	dmi01-pittsfield-rtr01	dmi00000001-pittsfield-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	7	8	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:55:35.846-05	{}	8	\N	dmi01-rochester-rtr01	dmi00000001-rochester-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	8	9	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:55:49.316-05	{}	9	\N	dmi01-scranton-rtr01	dmi00000001-scranton-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	9	10	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:56:06.592-05	{}	10	\N	dmi01-stamford-rtr01	dmi00000001-stamford-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	10	11	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:56:24.173-05	{}	11	\N	dmi01-syracuse-rtr01	dmi00000001-syracuse-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	11	12	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:56:38.212-05	{}	12	\N	dmi01-utica-rtr01	dmi00000001-utica-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	12	13	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-19 19:00:00-05	2020-12-19 21:56:52.908-05	{}	13	\N	dmi01-yonkers-rtr01	dmi00000001-yonkers-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	13	14	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:11.625-05	{}	14	\N	dmi01-akron-sw01	dmi00000001-akron-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	1	2	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:11.714-05	{}	15	\N	dmi01-albany-sw01	dmi00000001-albany-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	2	3	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:11.799-05	{}	16	\N	dmi01-binghamton-sw01	dmi00000001-binghamton-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	3	4	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:11.883-05	{}	17	\N	dmi01-buffalo-sw01	dmi00000001-buffalo-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	4	5	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:11.968-05	{}	18	\N	dmi01-camden-sw01	dmi00000001-camden-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	5	6	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:12.071-05	{}	19	\N	dmi01-nashua-sw01	dmi00000001-nashua-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	6	7	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:12.204-05	{}	20	\N	dmi01-pittsfield-sw01	dmi00000001-pittsfield-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	7	8	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:12.287-05	{}	21	\N	dmi01-rochster-sw01	dmi00000001-rochster-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	8	9	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:12.37-05	{}	22	\N	dmi01-scranton-sw01	dmi00000001-scranton-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	9	10	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:12.454-05	{}	23	\N	dmi01-stamford-sw01	dmi00000001-stamford-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	10	11	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:12.54-05	{}	24	\N	dmi01-syracuse-sw01	dmi00000001-syracuse-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	11	12	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:12.622-05	{}	25	\N	dmi01-utica-sw01	dmi00000001-utica-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	12	13	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-21 21:11:12.705-05	{}	26	\N	dmi01-yonkers-sw01	dmi00000001-yonkers-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	13	14	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:55.76-05	{}	27	\N	dmi01-akron-pdu01	dmi00000001-akron-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	1	2	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:55.909-05	{}	34	\N	dmi01-albany-pdu01	dmi00000001-albany-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	2	3	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:56.038-05	{}	35	\N	dmi01-binghamton-pdu01	dmi00000001-binghamton-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	3	4	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:56.155-05	{}	36	\N	dmi01-buffalo-pdu01	dmi00000001-buffalo-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	4	5	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:56.256-05	{}	37	\N	dmi01-camden-pdu01	dmi00000001-camden-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	5	6	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:56.357-05	{}	38	\N	dmi01-nashua-pdu01	dmi00000001-nashua-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	6	7	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:56.46-05	{}	39	\N	dmi01-pittsfield-pdu01	dmi00000001-pittsfield-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	7	8	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:56.562-05	{}	40	\N	dmi01-rochester-pdu01	dmi00000001-rochester-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	8	9	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:56.664-05	{}	41	\N	dmi01-scranton-pdu01	dmi00000001-scranton-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	9	10	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:56.767-05	{}	42	\N	dmi01-stamford-pdu01	dmi00000001-stamford-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	10	11	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:56.87-05	{}	43	\N	dmi01-syracuse-pdu01	dmi00000001-syracuse-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	11	12	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:56.973-05	{}	44	\N	dmi01-utica-pdu01	dmi00000001-utica-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	12	13	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-21 19:00:00-05	2020-12-30 14:02:57.075-05	{}	45	\N	dmi01-yonkers-pdu01	dmi00000001-yonkers-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	13	14	5	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:53.681-05	{}	74	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	1	2	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:53.808-05	{}	75	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	2	3	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:53.932-05	{}	76	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	3	4	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:54.054-05	{}	77	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	4	5	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:54.176-05	{}	78	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	5	6	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:54.297-05	{}	79	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	6	7	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:54.419-05	{}	80	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	7	8	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:54.541-05	{}	81	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	8	9	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:54.661-05	{}	82	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	9	10	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:54.785-05	{}	83	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	10	11	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:54.912-05	{}	84	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	11	12	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:55.035-05	{}	85	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	12	13	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2020-12-29 19:00:00-05	2020-12-30 15:44:55.158-05	{}	86	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	13	14	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-04-01 20:00:00-04	2021-04-02 13:16:58.069-04	{}	87	\N	PP:B128	PP:B00000128		\N	39.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	41	21	13	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-04-01 20:00:00-04	2021-04-02 13:17:28.425-04	{}	88	\N	PP:B117	PP:B00000117		\N	37.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	41	21	13	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-04-01 20:00:00-04	2021-04-02 13:17:57.268-04	{}	89	\N	PP:B118	PP:B00000118		\N	35.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	41	21	13	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-04-01 20:00:00-04	2021-04-02 13:19:12.87-04	{}	90	\N	PP:MDF	PP:MDF		\N	39.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	39	24	13	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-04-01 20:00:00-04	2021-04-02 13:19:41.498-04	{}	91	\N	PP:MDF	PP:MDF		\N	39.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	40	22	13	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-04-01 20:00:00-04	2021-04-02 13:20:15.226-04	{}	92	\N	PP:MDF	PP:MDF		\N	39.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	38	23	13	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-04-01 20:00:00-04	2021-04-02 13:28:42.498-04	{}	93	\N	ncsu128-distswitch1	ncsu00000128-distswitch00000001		\N	32.0	front	active	\N	\N		\N	3	12	\N	\N	\N	\N	39	24	13	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-04-01 20:00:00-04	2021-04-02 13:29:22.719-04	{}	94	\N	ncsu117-distswitch1	ncsu00000117-distswitch00000001		\N	36.0	front	active	\N	\N		\N	3	12	\N	\N	\N	\N	40	22	13	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-04-01 20:00:00-04	2021-04-02 13:29:56.066-04	{}	95	\N	ncsu118-distswitch1	ncsu00000118-distswitch00000001		\N	36.0	front	active	\N	\N		\N	3	12	\N	\N	\N	\N	38	23	13	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-04-01 20:00:00-04	2021-04-02 13:31:41.398-04	{}	96	\N	ncsu-coreswitch1	ncsu-coreswitch00000001		\N	6.0	front	active	\N	\N		\N	2	3	1	\N	\N	\N	16	21	13	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-04-01 20:00:00-04	2021-04-02 13:31:56.519-04	{}	97	\N	ncsu-coreswitch2	ncsu-coreswitch00000002		\N	6.0	front	active	\N	\N		\N	2	3	1	\N	\N	\N	17	21	13	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-12-29 19:00:00-05	2021-12-30 11:16:55.811-05	{}	99	\N	\N	\N		\N	25.0	rear	active	2	\N		\N	9	5	1	\N	\N	\N	18	21	13	1			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-12-29 19:00:00-05	2021-12-30 11:17:27.958-05	{}	101	\N	\N	\N		\N	25.0	rear	active	2	\N		\N	9	5	1	\N	\N	\N	19	21	13	2			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-12-29 19:00:00-05	2021-12-30 11:17:56.487-05	{}	103	\N	\N	\N		\N	25.0	rear	active	2	\N		\N	9	5	1	\N	\N	\N	20	21	13	3			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-12-29 19:00:00-05	2021-12-30 11:18:24.555-05	{}	105	\N	\N	\N		\N	25.0	rear	active	2	\N		\N	9	5	1	\N	\N	\N	21	21	13	4			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2022-01-09 19:00:00-05	2022-01-10 16:00:04.03-05	{}	106	\N	\N	\N		\N	9.0	front	active	\N	\N		\N	7	14	2	\N	\N	\N	22	21	\N	\N			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-12-29 19:00:00-05	2023-12-29 10:45:09.994269-05	{}	98	\N	\N	\N		\N	26.0	rear	active	1	\N		\N	9	5	1	\N	\N	\N	18	21	13	1			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-12-29 19:00:00-05	2023-12-29 10:45:09.997915-05	{}	100	\N	\N	\N		\N	26.0	rear	active	1	\N		\N	9	5	1	\N	\N	\N	19	21	13	2			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-12-29 19:00:00-05	2023-12-29 10:45:10.001313-05	{}	102	\N	\N	\N		\N	26.0	rear	active	1	\N		\N	9	5	1	\N	\N	\N	20	21	13	3			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
-2021-12-29 19:00:00-05	2023-12-29 10:45:10.004695-05	{}	104	\N	\N	\N		\N	26.0	rear	active	1	\N		\N	9	5	1	\N	\N	\N	21	21	13	4			\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:51:03.257-05	{}	1	\N	dmi01-akron-rtr01	dmi00000001-akron-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	1	2	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:51:32.863-05	{}	2	\N	dmi01-albany-rtr01	dmi00000001-albany-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	2	3	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:52:02.614-05	{}	3	\N	dmi01-binghamton-rtr01	dmi00000001-binghamton-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	3	4	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:52:26.146-05	{}	4	\N	dmi01-buffalo-rtr01	dmi00000001-buffalo-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	4	5	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:55:49.316-05	{}	9	\N	dmi01-scranton-rtr01	dmi00000001-scranton-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	9	10	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:56:06.592-05	{}	10	\N	dmi01-stamford-rtr01	dmi00000001-stamford-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	10	11	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:56:24.173-05	{}	11	\N	dmi01-syracuse-rtr01	dmi00000001-syracuse-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	11	12	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:56:38.212-05	{}	12	\N	dmi01-utica-rtr01	dmi00000001-utica-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	12	13	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:56:52.908-05	{}	13	\N	dmi01-yonkers-rtr01	dmi00000001-yonkers-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	13	14	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:11.625-05	{}	14	\N	dmi01-akron-sw01	dmi00000001-akron-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	1	2	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:11.714-05	{}	15	\N	dmi01-albany-sw01	dmi00000001-albany-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	2	3	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:11.799-05	{}	16	\N	dmi01-binghamton-sw01	dmi00000001-binghamton-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	3	4	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:11.883-05	{}	17	\N	dmi01-buffalo-sw01	dmi00000001-buffalo-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	4	5	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:11.968-05	{}	18	\N	dmi01-camden-sw01	dmi00000001-camden-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	5	6	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:12.071-05	{}	19	\N	dmi01-nashua-sw01	dmi00000001-nashua-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	6	7	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:12.204-05	{}	20	\N	dmi01-pittsfield-sw01	dmi00000001-pittsfield-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	7	8	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2021-04-01 20:00:00-04	2021-04-02 13:17:28.425-04	{}	88	\N	PP:B117	PP:B00000117		\N	37.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	41	21	13	\N			\N	\N	\N	\N	0	0	0	0	0	48	1	0	0	0
+2022-01-09 19:00:00-05	2022-01-10 16:00:04.03-05	{}	106	\N	\N	\N		\N	9.0	front	active	\N	\N		\N	7	14	2	\N	\N	\N	22	21	\N	\N			\N	\N	\N	\N	0	0	6	0	1	0	0	14	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:12.287-05	{}	21	\N	dmi01-rochster-sw01	dmi00000001-rochster-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	8	9	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:12.37-05	{}	22	\N	dmi01-scranton-sw01	dmi00000001-scranton-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	9	10	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:12.454-05	{}	23	\N	dmi01-stamford-sw01	dmi00000001-stamford-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	10	11	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:12.54-05	{}	24	\N	dmi01-syracuse-sw01	dmi00000001-syracuse-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	11	12	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:12.622-05	{}	25	\N	dmi01-utica-sw01	dmi00000001-utica-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	12	13	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-21 21:11:12.705-05	{}	26	\N	dmi01-yonkers-sw01	dmi00000001-yonkers-sw00000001		\N	10.0	front	active	\N	\N		\N	4	7	\N	\N	\N	\N	13	14	5	\N			\N	\N	\N	\N	0	0	1	0	52	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:55.76-05	{}	27	\N	dmi01-akron-pdu01	dmi00000001-akron-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	1	2	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:55.909-05	{}	34	\N	dmi01-albany-pdu01	dmi00000001-albany-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	2	3	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:56.038-05	{}	35	\N	dmi01-binghamton-pdu01	dmi00000001-binghamton-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	3	4	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:56.155-05	{}	36	\N	dmi01-buffalo-pdu01	dmi00000001-buffalo-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	4	5	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:56.256-05	{}	37	\N	dmi01-camden-pdu01	dmi00000001-camden-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	5	6	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:56.357-05	{}	38	\N	dmi01-nashua-pdu01	dmi00000001-nashua-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	6	7	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:56.46-05	{}	39	\N	dmi01-pittsfield-pdu01	dmi00000001-pittsfield-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	7	8	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:56.562-05	{}	40	\N	dmi01-rochester-pdu01	dmi00000001-rochester-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	8	9	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:56.664-05	{}	41	\N	dmi01-scranton-pdu01	dmi00000001-scranton-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	9	10	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:56.767-05	{}	42	\N	dmi01-stamford-pdu01	dmi00000001-stamford-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	10	11	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:53:47.838-05	{}	5	\N	dmi01-camden-rtr01	dmi00000001-camden-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	5	6	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:54:08.2-05	{}	6	\N	dmi01-nashua-rtr01	dmi00000001-nashua-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	6	7	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:55:17.095-05	{}	7	\N	dmi01-pittsfield-rtr01	dmi00000001-pittsfield-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	7	8	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-19 19:00:00-05	2020-12-19 21:55:35.846-05	{}	8	\N	dmi01-rochester-rtr01	dmi00000001-rochester-rtr00000001		\N	4.0	front	active	\N	\N		\N	1	6	\N	1	\N	\N	8	9	5	\N			\N	\N	\N	\N	2	0	1	0	14	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:56.87-05	{}	43	\N	dmi01-syracuse-pdu01	dmi00000001-syracuse-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	11	12	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:56.973-05	{}	44	\N	dmi01-utica-pdu01	dmi00000001-utica-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	12	13	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-21 19:00:00-05	2020-12-30 14:02:57.075-05	{}	45	\N	dmi01-yonkers-pdu01	dmi00000001-yonkers-pdu00000001		\N	1.0	front	active	\N	\N		\N	5	8	\N	\N	\N	\N	13	14	5	\N			\N	\N	\N	\N	0	0	1	8	0	0	0	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:53.681-05	{}	74	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	1	2	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:53.808-05	{}	75	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	2	3	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:53.932-05	{}	76	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	3	4	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:54.054-05	{}	77	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	4	5	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:54.176-05	{}	78	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	5	6	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:54.297-05	{}	79	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	6	7	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:54.419-05	{}	80	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	7	8	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:54.541-05	{}	81	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	8	9	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:54.661-05	{}	82	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	9	10	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:54.785-05	{}	83	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	10	11	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:54.912-05	{}	84	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	11	12	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:55.035-05	{}	85	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	12	13	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2020-12-29 19:00:00-05	2020-12-30 15:44:55.158-05	{}	86	\N	\N	\N		\N	11.0	front	active	\N	\N		\N	6	10	\N	\N	\N	\N	13	14	\N	\N			\N	\N	\N	\N	0	0	0	0	0	48	48	0	0	0
+2021-04-01 20:00:00-04	2021-04-02 13:16:58.069-04	{}	87	\N	PP:B128	PP:B00000128		\N	39.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	41	21	13	\N			\N	\N	\N	\N	0	0	0	0	0	48	1	0	0	0
+2021-04-01 20:00:00-04	2021-04-02 13:17:57.268-04	{}	89	\N	PP:B118	PP:B00000118		\N	35.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	41	21	13	\N			\N	\N	\N	\N	0	0	0	0	0	48	1	0	0	0
+2021-04-01 20:00:00-04	2021-04-02 13:19:12.87-04	{}	90	\N	PP:MDF	PP:MDF		\N	39.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	39	24	13	\N			\N	\N	\N	\N	0	0	0	0	0	48	1	0	0	0
+2021-04-01 20:00:00-04	2021-04-02 13:19:41.498-04	{}	91	\N	PP:MDF	PP:MDF		\N	39.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	40	22	13	\N			\N	\N	\N	\N	0	0	0	0	0	48	1	0	0	0
+2021-04-01 20:00:00-04	2021-04-02 13:20:15.226-04	{}	92	\N	PP:MDF	PP:MDF		\N	39.0	front	active	\N	\N		\N	6	11	\N	\N	\N	\N	38	23	13	\N			\N	\N	\N	\N	0	0	0	0	0	48	1	0	0	0
+2021-04-01 20:00:00-04	2021-04-02 13:28:42.498-04	{}	93	\N	ncsu128-distswitch1	ncsu00000128-distswitch00000001		\N	32.0	front	active	\N	\N		\N	3	12	\N	\N	\N	\N	39	24	13	\N			\N	\N	\N	\N	1	0	2	0	53	0	0	0	0	0
+2021-04-01 20:00:00-04	2021-04-02 13:29:22.719-04	{}	94	\N	ncsu117-distswitch1	ncsu00000117-distswitch00000001		\N	36.0	front	active	\N	\N		\N	3	12	\N	\N	\N	\N	40	22	13	\N			\N	\N	\N	\N	1	0	2	0	53	0	0	0	0	0
+2021-04-01 20:00:00-04	2021-04-02 13:29:56.066-04	{}	95	\N	ncsu118-distswitch1	ncsu00000118-distswitch00000001		\N	36.0	front	active	\N	\N		\N	3	12	\N	\N	\N	\N	38	23	13	\N			\N	\N	\N	\N	1	0	2	0	53	0	0	0	0	0
+2021-04-01 20:00:00-04	2021-04-02 13:31:41.398-04	{}	96	\N	ncsu-coreswitch1	ncsu-coreswitch00000001		\N	6.0	front	active	\N	\N		\N	2	3	1	\N	\N	\N	16	21	13	\N			\N	\N	\N	\N	2	0	4	0	64	0	0	0	14	0
+2021-04-01 20:00:00-04	2021-04-02 13:31:56.519-04	{}	97	\N	ncsu-coreswitch2	ncsu-coreswitch00000002		\N	6.0	front	active	\N	\N		\N	2	3	1	\N	\N	\N	17	21	13	\N			\N	\N	\N	\N	2	0	4	0	64	0	0	0	14	0
+2021-12-29 19:00:00-05	2021-12-30 11:16:55.811-05	{}	99	\N	\N	\N		\N	25.0	rear	active	2	\N		\N	9	5	1	\N	\N	\N	18	21	13	1			\N	\N	\N	\N	1	0	2	0	55	0	0	0	0	0
+2021-12-29 19:00:00-05	2021-12-30 11:17:27.958-05	{}	101	\N	\N	\N		\N	25.0	rear	active	2	\N		\N	9	5	1	\N	\N	\N	19	21	13	2			\N	\N	\N	\N	1	0	2	0	55	0	0	0	0	0
+2021-12-29 19:00:00-05	2021-12-30 11:17:56.487-05	{}	103	\N	\N	\N		\N	25.0	rear	active	2	\N		\N	9	5	1	\N	\N	\N	20	21	13	3			\N	\N	\N	\N	1	0	2	0	55	0	0	0	0	0
+2021-12-29 19:00:00-05	2021-12-30 11:18:24.555-05	{}	105	\N	\N	\N		\N	25.0	rear	active	2	\N		\N	9	5	1	\N	\N	\N	21	21	13	4			\N	\N	\N	\N	1	0	2	0	55	0	0	0	0	0
+2021-12-29 19:00:00-05	2023-12-29 10:45:09.994269-05	{}	98	\N	\N	\N		\N	26.0	rear	active	1	\N		\N	9	5	1	\N	\N	\N	18	21	13	1			\N	\N	\N	\N	1	0	2	0	55	0	0	0	0	0
+2021-12-29 19:00:00-05	2023-12-29 10:45:09.997915-05	{}	100	\N	\N	\N		\N	26.0	rear	active	1	\N		\N	9	5	1	\N	\N	\N	19	21	13	2			\N	\N	\N	\N	1	0	2	0	55	0	0	0	0	0
+2021-12-29 19:00:00-05	2023-12-29 10:45:10.001313-05	{}	102	\N	\N	\N		\N	26.0	rear	active	1	\N		\N	9	5	1	\N	\N	\N	20	21	13	3			\N	\N	\N	\N	1	0	2	0	55	0	0	0	0	0
+2021-12-29 19:00:00-05	2023-12-29 10:45:10.004695-05	{}	104	\N	\N	\N		\N	26.0	rear	active	1	\N		\N	9	5	1	\N	\N	\N	21	21	13	4			\N	\N	\N	\N	1	0	2	0	55	0	0	0	0	0
 \.
 
 
@@ -7319,20 +7319,20 @@ COPY public.dcim_devicerole (created, last_updated, custom_field_data, id, name,
 --
 
 COPY public.dcim_devicetype (created, last_updated, custom_field_data, id, model, slug, part_number, u_height, is_full_depth, subdevice_role, front_image, rear_image, comments, manufacturer_id, airflow, weight, weight_unit, _abs_weight, description, default_platform_id, console_port_template_count, console_server_port_template_count, power_port_template_count, power_outlet_template_count, interface_template_count, front_port_template_count, rear_port_template_count, device_bay_template_count, module_bay_template_count, inventory_item_template_count, exclude_from_utilization) FROM stdin;
-2020-12-17 19:00:00-05	2022-01-10 15:55:54.125-05	{}	1	MX480	mx480		8.0	t				[Juniper MX480 Data Sheet](https://www.juniper.net/us/en/products-services/routing/mx-series/mx480/)	7		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2020-12-17 19:00:00-05	2020-12-17 22:24:13.186-05	{}	2	MX80	mx80		2.0	t					7		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2020-12-17 19:00:00-05	2022-01-10 15:55:43.096-05	{}	3	EX9214	ex9214		16.0	t				[Juniper EX9214 Data Sheet](https://www.juniper.net/us/en/local/pdf/datasheets/1000432-en.pdf)	7		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2020-12-17 19:00:00-05	2020-12-17 22:25:47.972-05	{}	4	EX4200-48T	ex4200-48t		1.0	t				[Juniper EX4200 Data Sheet](https://www.juniper.net/assets/us/en/local/pdf/datasheets/1000215-en.pdf)	7		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2020-12-17 19:00:00-05	2020-12-17 22:27:36.824-05	{}	5	QFX5100-48T-6Q	qfx5100-48t-6q		1.0	t				[Juniper QFX5100 Data Sheet](https://www.juniper.net/us/en/products-services/switching/qfx-series/qfx5100/)	7		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2020-12-19 19:00:00-05	2020-12-19 21:08:50.431-05	{}	6	ISR 1111-8P	isr1111	C1111-8P	1.0	f					3		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2020-12-21 19:00:00-05	2020-12-21 20:54:33.417-05	{}	7	C9200-48P	c9200-48p	C9200-48P	1.0	t				[Cisco Catalyst 9200 Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.html)	3		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2020-12-21 19:00:00-05	2020-12-21 21:26:08.093-05	{}	8	AP7901	ap7901	AP7901B	1.0	f					11		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2020-12-29 19:00:00-05	2020-12-30 15:35:26.266-05	{}	9	24-Port Patch Panel	24-port-patch-panel		1.0	f					12		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2020-12-29 19:00:00-05	2020-12-30 15:40:56.394-05	{}	10	48-Port Patch Panel	48-port-patch-panel		2.0	f					12		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2021-04-01 20:00:00-04	2021-04-02 13:12:15.02-04	{}	11	48-Pair Fiber Panel	48-pair-fiber-panel		2.0	f					13		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2021-04-01 20:00:00-04	2021-04-02 13:26:18.349-04	{}	12	QFX5110-48S-4C	qfx5110-48s-4c		1.0	t					7		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2021-04-01 20:00:00-04	2021-04-02 13:27:20.684-04	{}	13	QFX10002-36Q	qfx10002-36q		2.0	t				[Juniper QFX10002 Data Sheet](https://www.juniper.net/assets/us/en/local/pdf/datasheets/1000531-en.pdf)	7		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
-2022-01-09 19:00:00-05	2022-01-10 15:58:30.887-05	{}	14	Flex system	flex-system	8721W3X	10.0	t	parent				14		\N		\N		\N	0	0	0	0	0	0	0	0	0	0	f
+2020-12-17 19:00:00-05	2022-01-10 15:55:54.125-05	{}	1	MX480	mx480		8.0	t				[Juniper MX480 Data Sheet](https://www.juniper.net/us/en/products-services/routing/mx-series/mx480/)	7		\N		\N		\N	2	0	4	0	0	0	0	0	0	0	f
+2020-12-17 19:00:00-05	2020-12-17 22:24:13.186-05	{}	2	MX80	mx80		2.0	t					7		\N		\N		\N	1	0	2	0	5	0	0	0	0	0	f
+2020-12-17 19:00:00-05	2022-01-10 15:55:43.096-05	{}	3	EX9214	ex9214		16.0	t				[Juniper EX9214 Data Sheet](https://www.juniper.net/us/en/local/pdf/datasheets/1000432-en.pdf)	7		\N		\N		\N	2	0	4	0	0	0	0	0	14	0	f
+2020-12-17 19:00:00-05	2020-12-17 22:25:47.972-05	{}	4	EX4200-48T	ex4200-48t		1.0	t				[Juniper EX4200 Data Sheet](https://www.juniper.net/assets/us/en/local/pdf/datasheets/1000215-en.pdf)	7		\N		\N		\N	1	0	2	0	52	0	0	0	0	0	f
+2020-12-17 19:00:00-05	2020-12-17 22:27:36.824-05	{}	5	QFX5100-48T-6Q	qfx5100-48t-6q		1.0	t				[Juniper QFX5100 Data Sheet](https://www.juniper.net/us/en/products-services/switching/qfx-series/qfx5100/)	7		\N		\N		\N	1	0	2	0	55	0	0	0	0	0	f
+2020-12-19 19:00:00-05	2020-12-19 21:08:50.431-05	{}	6	ISR 1111-8P	isr1111	C1111-8P	1.0	f					3		\N		\N		\N	2	0	1	0	13	0	0	0	0	0	f
+2020-12-21 19:00:00-05	2020-12-21 21:26:08.093-05	{}	8	AP7901	ap7901	AP7901B	1.0	f					11		\N		\N		\N	0	0	1	8	0	0	0	0	0	0	f
+2020-12-21 19:00:00-05	2020-12-21 20:54:33.417-05	{}	7	C9200-48P	c9200-48p	C9200-48P	1.0	t				[Cisco Catalyst 9200 Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.html)	3		\N		\N		\N	0	0	0	0	51	0	0	0	0	0	f
+2020-12-29 19:00:00-05	2020-12-30 15:35:26.266-05	{}	9	24-Port Patch Panel	24-port-patch-panel		1.0	f					12		\N		\N		\N	0	0	0	0	0	24	24	0	0	0	f
+2020-12-29 19:00:00-05	2020-12-30 15:40:56.394-05	{}	10	48-Port Patch Panel	48-port-patch-panel		2.0	f					12		\N		\N		\N	0	0	0	0	0	48	48	0	0	0	f
+2021-04-01 20:00:00-04	2021-04-02 13:12:15.02-04	{}	11	48-Pair Fiber Panel	48-pair-fiber-panel		2.0	f					13		\N		\N		\N	0	0	0	0	0	48	1	0	0	0	f
+2021-04-01 20:00:00-04	2021-04-02 13:26:18.349-04	{}	12	QFX5110-48S-4C	qfx5110-48s-4c		1.0	t					7		\N		\N		\N	1	0	2	0	53	0	0	0	0	0	f
+2021-04-01 20:00:00-04	2021-04-02 13:27:20.684-04	{}	13	QFX10002-36Q	qfx10002-36q		2.0	t				[Juniper QFX10002 Data Sheet](https://www.juniper.net/assets/us/en/local/pdf/datasheets/1000531-en.pdf)	7		\N		\N		\N	1	0	2	0	38	0	0	0	0	0	f
+2022-01-09 19:00:00-05	2022-01-10 15:58:30.887-05	{}	14	Flex system	flex-system	8721W3X	10.0	t	parent				14		\N		\N		\N	0	0	6	0	1	0	0	14	0	0	f
 \.
 
 
@@ -11693,10 +11693,10 @@ COPY public.dcim_sitegroup (created, last_updated, custom_field_data, id, name, 
 --
 
 COPY public.dcim_virtualchassis (created, last_updated, custom_field_data, id, name, domain, master_id, comments, description, member_count) FROM stdin;
-2021-12-29 19:00:00-05	2021-12-30 11:17:05.09-05	{}	1	r105-torsw		98			0
-2021-12-29 19:00:00-05	2021-12-30 11:17:36.01-05	{}	2	r106-torsw		100			0
-2021-12-29 19:00:00-05	2021-12-30 11:18:03.276-05	{}	3	r107-torsw		102			0
-2021-12-29 19:00:00-05	2021-12-30 11:18:40.587-05	{}	4	r108-torsw		104			0
+2021-12-29 19:00:00-05	2021-12-30 11:17:05.09-05	{}	1	r105-torsw		98			2
+2021-12-29 19:00:00-05	2021-12-30 11:17:36.01-05	{}	2	r106-torsw		100			2
+2021-12-29 19:00:00-05	2021-12-30 11:18:03.276-05	{}	3	r107-torsw		102			2
+2021-12-29 19:00:00-05	2021-12-30 11:18:40.587-05	{}	4	r108-torsw		104			2
 \.
 
 
@@ -12449,6 +12449,11 @@ COPY public.django_migrations (id, app, name, applied) FROM stdin;
 560	virtualization	0038_virtualdisk	2023-12-29 10:59:46.423751-05
 561	vpn	0001_initial	2023-12-29 10:59:47.832414-05
 562	vpn	0002_move_l2vpn	2023-12-29 10:59:48.052599-05
+563	extras	0106_bookmark_user_cascade_deletion	2024-02-29 14:47:56.007899-05
+564	extras	0107_cachedvalue_extras_cachedvalue_object	2024-02-29 14:47:56.037497-05
+565	tenancy	0014_contactassignment_ordering	2024-02-29 14:47:56.099203-05
+566	vpn	0003_ipaddress_multiple_tunnel_terminations	2024-02-29 14:47:56.285971-05
+567	vpn	0004_alter_ikepolicy_mode	2024-02-29 14:47:56.3406-05
 \.
 
 
@@ -28864,7 +28869,7 @@ SELECT pg_catalog.setval('public.django_content_type_id_seq', 149, true);
 -- Name: django_migrations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: netbox
 --
 
-SELECT pg_catalog.setval('public.django_migrations_id_seq', 562, true);
+SELECT pg_catalog.setval('public.django_migrations_id_seq', 567, true);
 
 
 --
@@ -32448,14 +32453,6 @@ ALTER TABLE ONLY public.vpn_tunnelgroup
 
 
 --
--- Name: vpn_tunneltermination vpn_tunneltermination_outside_ip_id_key; Type: CONSTRAINT; Schema: public; Owner: netbox
---
-
-ALTER TABLE ONLY public.vpn_tunneltermination
-    ADD CONSTRAINT vpn_tunneltermination_outside_ip_id_key UNIQUE (outside_ip_id);
-
-
---
 -- Name: vpn_tunneltermination vpn_tunneltermination_pkey; Type: CONSTRAINT; Schema: public; Owner: netbox
 --
 
@@ -34002,6 +33999,13 @@ CREATE INDEX extras_branch_name_1d13739f_like ON public.extras_branch USING btre
 --
 
 CREATE INDEX extras_branch_user_id_a6cfd338 ON public.extras_branch USING btree (user_id);
+
+
+--
+-- Name: extras_cachedvalue_object; Type: INDEX; Schema: public; Owner: netbox
+--
+
+CREATE INDEX extras_cachedvalue_object ON public.extras_cachedvalue USING btree (object_type_id, object_id);
 
 
 --
@@ -35584,6 +35588,13 @@ CREATE INDEX vpn_tunnelgroup_slug_9e614d62_like ON public.vpn_tunnelgroup USING 
 --
 
 CREATE INDEX vpn_tunnelt_termina_c1f04b_idx ON public.vpn_tunneltermination USING btree (termination_type_id, termination_id);
+
+
+--
+-- Name: vpn_tunneltermination_outside_ip_id_2c6f3a7c; Type: INDEX; Schema: public; Owner: netbox
+--
+
+CREATE INDEX vpn_tunneltermination_outside_ip_id_2c6f3a7c ON public.vpn_tunneltermination USING btree (outside_ip_id);
 
 
 --
