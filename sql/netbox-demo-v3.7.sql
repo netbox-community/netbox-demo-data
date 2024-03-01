@@ -6581,9 +6581,6 @@ COPY public.core_job (id, object_id, name, created, scheduled, "interval", start
 --
 
 COPY public.core_managedfile (id, data_path, data_synced, created, last_updated, file_root, file_path, data_file_id, data_source_id, auto_sync_enabled) FROM stdin;
-1		\N	2023-12-29 10:44:54.474241-05	\N	scripts	myscript.py	\N	\N	f
-2		\N	2023-12-29 10:44:54.474257-05	\N	scripts	test.py	\N	\N	f
-3		\N	2023-12-29 10:44:54.474264-05	\N	scripts	test2.py	\N	\N	f
 \.
 
 
