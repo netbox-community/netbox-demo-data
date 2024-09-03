@@ -2,8 +2,8 @@
 -- PostgreSQL database dump
 --
 
--- Dumped from database version 14.11 (Ubuntu 14.11-0ubuntu0.22.04.1)
--- Dumped by pg_dump version 14.11 (Ubuntu 14.11-0ubuntu0.22.04.1)
+-- Dumped from database version 14.12 (Ubuntu 14.12-0ubuntu0.22.04.1)
+-- Dumped by pg_dump version 14.12 (Ubuntu 14.12-0ubuntu0.22.04.1)
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -2164,7 +2164,6 @@ CREATE TABLE public.dcim_racktype (
     max_weight integer,
     _abs_max_weight bigint,
     mounting_depth smallint,
-    airflow character varying(50) NOT NULL,
     CONSTRAINT dcim_racktype__abs_max_weight_check CHECK ((_abs_max_weight >= 0)),
     CONSTRAINT dcim_racktype__abs_weight_check CHECK ((_abs_weight >= 0)),
     CONSTRAINT dcim_racktype_max_weight_check CHECK ((max_weight >= 0)),
@@ -3140,7 +3139,7 @@ CREATE TABLE public.extras_customfield (
     ui_editable character varying(50) NOT NULL,
     ui_visible character varying(50) NOT NULL,
     comments text NOT NULL,
-    validation_unique boolean NOT NULL,
+    "unique" boolean NOT NULL,
     related_object_filter jsonb,
     CONSTRAINT extras_customfield_search_weight_check CHECK ((search_weight >= 0)),
     CONSTRAINT extras_customfield_weight_check CHECK ((weight >= 0))
@@ -11224,7 +11223,7 @@ COPY public.dcim_rackrole (created, last_updated, custom_field_data, id, name, s
 -- Data for Name: dcim_racktype; Type: TABLE DATA; Schema: public; Owner: netbox
 --
 
-COPY public.dcim_racktype (id, created, last_updated, custom_field_data, description, comments, weight, weight_unit, _abs_weight, manufacturer_id, model, slug, form_factor, width, u_height, starting_unit, desc_units, outer_width, outer_depth, outer_unit, max_weight, _abs_max_weight, mounting_depth, airflow) FROM stdin;
+COPY public.dcim_racktype (id, created, last_updated, custom_field_data, description, comments, weight, weight_unit, _abs_weight, manufacturer_id, model, slug, form_factor, width, u_height, starting_unit, desc_units, outer_width, outer_depth, outer_unit, max_weight, _abs_max_weight, mounting_depth) FROM stdin;
 \.
 
 
@@ -12876,23 +12875,24 @@ COPY public.django_migrations (id, app, name, applied) FROM stdin;
 595	users	0002_squashed_0004	2024-05-06 15:34:03.523584-04
 596	virtualization	0023_squashed_0036	2024-05-06 15:34:03.524884-04
 597	wireless	0001_squashed_0008	2024-05-06 15:34:03.526117-04
-598	users	0009_update_group_perms	2024-08-05 14:20:37.576955-04
-599	core	0011_move_objectchange	2024-08-05 14:20:37.649659-04
-600	extras	0116_move_objectchange	2024-08-05 14:20:37.705114-04
-601	extras	0117_customfield_uniqueness	2024-08-05 14:20:37.724535-04
-602	extras	0118_notifications	2024-08-05 14:20:38.181935-04
-603	circuits	0044_circuit_groups	2024-08-05 14:20:38.64319-04
-604	core	0012_job_object_type_optional	2024-08-05 14:20:38.734386-04
-605	extras	0119_eventrule_event_types	2024-08-05 14:20:39.377879-04
-606	extras	0120_customfield_related_object_filter	2024-08-05 14:20:39.40578-04
-607	dcim	0188_racktype	2024-08-05 14:20:39.772547-04
-608	dcim	0189_moduletype_airflow_rack_airflow_racktype_airflow	2024-08-05 14:20:39.942705-04
-609	dcim	0190_nested_modules	2024-08-05 14:20:40.806281-04
-610	ipam	0070_vlangroup_vlan_id_ranges	2024-08-05 14:20:41.33761-04
-611	social_django	0016_alter_usersocialauth_extra_data	2024-08-05 14:20:41.36145-04
-612	virtualization	0039_virtualmachine_serial_number	2024-08-05 14:20:41.4179-04
-613	virtualization	0040_convert_disk_size	2024-08-05 14:20:41.493795-04
-614	wireless	0009_wirelesslink_distance	2024-08-05 14:20:41.65678-04
+598	users	0009_update_group_perms	2024-09-03 14:20:25.44546-04
+599	extras	0116_custom_link_button_color	2024-09-03 14:20:25.530524-04
+600	core	0011_move_objectchange	2024-09-03 14:20:25.601636-04
+601	extras	0117_move_objectchange	2024-09-03 14:20:25.788306-04
+602	extras	0118_customfield_uniqueness	2024-09-03 14:20:25.808357-04
+603	extras	0119_notifications	2024-09-03 14:20:26.370175-04
+604	circuits	0044_circuit_groups	2024-09-03 14:20:26.662739-04
+605	core	0012_job_object_type_optional	2024-09-03 14:20:26.752841-04
+606	extras	0120_eventrule_event_types	2024-09-03 14:20:27.364866-04
+607	extras	0121_customfield_related_object_filter	2024-09-03 14:20:27.393108-04
+608	dcim	0188_racktype	2024-09-03 14:20:27.920062-04
+609	dcim	0189_moduletype_rack_airflow	2024-09-03 14:20:28.041443-04
+610	dcim	0190_nested_modules	2024-09-03 14:20:28.868265-04
+611	ipam	0070_vlangroup_vlan_id_ranges	2024-09-03 14:20:29.34538-04
+612	social_django	0016_alter_usersocialauth_extra_data	2024-09-03 14:20:29.370159-04
+613	virtualization	0039_virtualmachine_serial_number	2024-09-03 14:20:29.424146-04
+614	virtualization	0040_convert_disk_size	2024-09-03 14:20:29.499303-04
+615	wireless	0009_wirelesslink_distance	2024-09-03 14:20:29.650773-04
 \.
 
 
@@ -26565,20 +26565,20 @@ e121193b-a821-425e-88ea-f845c2423256	2023-12-29 10:45:11.754517-05	1618	mtu	int	
 f78437d0-15bb-4f9d-9689-b4c0b55d51ae	2023-12-29 10:45:11.757341-05	1620	mtu	int	None	2000	124
 1a1e0fe5-4259-4919-8ced-f11c6fcbc448	2023-12-29 10:45:12.034496-05	1	description	str	Reserved for future projects	500	52
 c57228ef-703e-4faf-882a-2179b4eff67e	2023-12-29 10:45:12.035364-05	2	description	str	Damaged - DO NOT USE	500	52
-0051f83c-9e85-4280-af86-5902cba2eeb1	2024-08-05 14:20:41.208956-04	2	name	str	JBB104	100	75
-150cc80b-c43c-470a-a659-ab36a288bb90	2024-08-05 14:20:41.208986-04	2	slug	str	jbb104	110	75
-3be40c7f-876c-4eaf-bc91-b1b26061404b	2024-08-05 14:20:41.210625-04	3	name	str	JBB109	100	75
-931962cc-24a2-43cc-905e-14bd1ad5535f	2024-08-05 14:20:41.210655-04	3	slug	str	jbb109	110	75
-6786990c-aeee-49ed-83a2-c82b0b13c9c7	2024-08-05 14:20:41.212186-04	4	name	str	JBB115	100	75
-aee7d23e-5afa-4b74-850f-0d7de1719483	2024-08-05 14:20:41.212213-04	4	slug	str	jb115	110	75
-c3882bda-45d3-4b6f-840d-f21741c286e3	2024-08-05 14:20:41.213737-04	5	name	str	JBB120	100	75
-6ad2860c-268a-45f3-ae6b-185f97c7d2b6	2024-08-05 14:20:41.213764-04	5	slug	str	jbb120	110	75
-f9fdbb8f-a337-40d4-a824-346fbbda65d4	2024-08-05 14:20:41.215207-04	6	name	str	JBB127	100	75
-8a3d1723-0383-456a-ab2f-6ea6d2ffa51f	2024-08-05 14:20:41.215235-04	6	slug	str	jbb127	110	75
-c92af077-4e21-4025-b361-8a7095292164	2024-08-05 14:20:41.21668-04	7	name	str	JBB133	100	75
-e3949f3a-91d4-4553-b61d-377e03df8218	2024-08-05 14:20:41.21671-04	7	slug	str	jbb133	110	75
-6d6b9aba-6ab7-435c-85e8-0cf180019afb	2024-08-05 14:20:41.218153-04	8	name	str	JBB-Global	100	75
-bb99fb52-f2b3-401c-9128-fd2961fbf7ac	2024-08-05 14:20:41.21818-04	8	slug	str	jbb-global	110	75
+66d53b5e-6881-4199-b6c2-f2161fde45a1	2024-09-03 14:20:29.061539-04	2	name	str	JBB104	100	75
+5bc83935-14fa-41ad-ac8c-63952a07858a	2024-09-03 14:20:29.061555-04	2	slug	str	jbb104	110	75
+b12614b6-80ec-4dd4-b623-0b84758538e6	2024-09-03 14:20:29.063632-04	3	name	str	JBB109	100	75
+070a4a9d-1f71-4b9d-abae-e13b359ca26a	2024-09-03 14:20:29.063648-04	3	slug	str	jbb109	110	75
+97665ddc-ab8a-4108-a489-cd2c6730b60e	2024-09-03 14:20:29.065657-04	4	name	str	JBB115	100	75
+8a0f22bb-0a4c-436d-b765-73b89c9cfe6e	2024-09-03 14:20:29.065673-04	4	slug	str	jb115	110	75
+19ca7090-dfe0-4189-a258-3e6bf69a72ad	2024-09-03 14:20:29.067294-04	5	name	str	JBB120	100	75
+555bbff6-77f7-4f99-9f97-7e61f082b0e8	2024-09-03 14:20:29.067309-04	5	slug	str	jbb120	110	75
+ba7e6867-cbc6-4c28-9d85-c264fd87dd57	2024-09-03 14:20:29.068797-04	6	name	str	JBB127	100	75
+bcfe9ef1-0db4-48f6-95f5-57cb290d20c7	2024-09-03 14:20:29.068812-04	6	slug	str	jbb127	110	75
+5741811e-1bd5-433a-80f9-9fe4482cb687	2024-09-03 14:20:29.070209-04	7	name	str	JBB133	100	75
+18fa4784-5899-4ef0-807a-e856e99a15c7	2024-09-03 14:20:29.070225-04	7	slug	str	jbb133	110	75
+6d22d1f3-9a35-474c-b58f-3dcc8c515351	2024-09-03 14:20:29.071637-04	8	name	str	JBB-Global	100	75
+39c8ffe8-9898-4b58-8a88-a9924fc65a16	2024-09-03 14:20:29.071653-04	8	slug	str	jbb-global	110	75
 \.
 
 
@@ -26706,7 +26706,7 @@ COPY public.extras_configtemplate (id, created, last_updated, data_path, data_sy
 -- Data for Name: extras_customfield; Type: TABLE DATA; Schema: public; Owner: netbox
 --
 
-COPY public.extras_customfield (id, type, name, label, description, required, filter_logic, "default", weight, validation_minimum, validation_maximum, validation_regex, created, last_updated, related_object_type_id, group_name, search_weight, is_cloneable, choice_set_id, ui_editable, ui_visible, comments, validation_unique, related_object_filter) FROM stdin;
+COPY public.extras_customfield (id, type, name, label, description, required, filter_logic, "default", weight, validation_minimum, validation_maximum, validation_regex, created, last_updated, related_object_type_id, group_name, search_weight, is_cloneable, choice_set_id, ui_editable, ui_visible, comments, "unique", related_object_filter) FROM stdin;
 1	text	cust_id	Customer ID		f	exact	\N	100	\N	\N	^[A-Z]{3}\\d{2}$	2021-09-08 20:00:00-04	2021-09-09 10:52:44.516-04	\N		1000	f	\N	yes	always		f	\N
 \.
 
@@ -27498,13 +27498,13 @@ COPY public.ipam_vlan (created, last_updated, custom_field_data, id, vid, name, 
 --
 
 COPY public.ipam_vlangroup (created, last_updated, custom_field_data, id, name, slug, scope_id, description, scope_type_id, vid_ranges, _total_vlan_ids) FROM stdin;
-2021-03-09 19:00:00-05	2024-08-05 14:20:41.206168-04	{}	2	JBB104	jbb104	15		57	{"[1,4095)"}	4094
-2021-03-09 19:00:00-05	2024-08-05 14:20:41.20927-04	{}	3	JBB109	jbb109	16		57	{"[1,4095)"}	4094
-2021-03-09 19:00:00-05	2024-08-05 14:20:41.210891-04	{}	4	JBB115	jb115	17		57	{"[1,4095)"}	4094
-2021-03-09 19:00:00-05	2024-08-05 14:20:41.212438-04	{}	5	JBB120	jbb120	18		57	{"[1,4095)"}	4094
-2021-03-09 19:00:00-05	2024-08-05 14:20:41.213977-04	{}	6	JBB127	jbb127	19		57	{"[1,4095)"}	4094
-2021-03-09 19:00:00-05	2024-08-05 14:20:41.215448-04	{}	7	JBB133	jbb133	20		57	{"[1,4095)"}	4094
-2021-03-09 19:00:00-05	2024-08-05 14:20:41.216923-04	{}	8	JBB-Global	jbb-global	\N		\N	{"[1,4095)"}	4094
+2021-03-09 19:00:00-05	2024-09-03 14:20:29.058496-04	{}	2	JBB104	jbb104	15		57	{"[1,4095)"}	4094
+2021-03-09 19:00:00-05	2024-09-03 14:20:29.061994-04	{}	3	JBB109	jbb109	16		57	{"[1,4095)"}	4094
+2021-03-09 19:00:00-05	2024-09-03 14:20:29.06405-04	{}	4	JBB115	jb115	17		57	{"[1,4095)"}	4094
+2021-03-09 19:00:00-05	2024-09-03 14:20:29.065998-04	{}	5	JBB120	jbb120	18		57	{"[1,4095)"}	4094
+2021-03-09 19:00:00-05	2024-09-03 14:20:29.067562-04	{}	6	JBB127	jbb127	19		57	{"[1,4095)"}	4094
+2021-03-09 19:00:00-05	2024-09-03 14:20:29.069005-04	{}	7	JBB133	jbb133	20		57	{"[1,4095)"}	4094
+2021-03-09 19:00:00-05	2024-09-03 14:20:29.070413-04	{}	8	JBB-Global	jbb-global	\N		\N	{"[1,4095)"}	4094
 \.
 
 
@@ -29400,7 +29400,7 @@ SELECT pg_catalog.setval('public.django_content_type_id_seq', 159, true);
 -- Name: django_migrations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: netbox
 --
 
-SELECT pg_catalog.setval('public.django_migrations_id_seq', 614, true);
+SELECT pg_catalog.setval('public.django_migrations_id_seq', 615, true);
 
 
 --
