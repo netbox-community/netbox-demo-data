@@ -32,8 +32,8 @@ docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "DROP DAT
 docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "CREATE DATABASE netbox;"'
 
 # Load the demo data
-docker cp netbox-demo-$VERSION.sql "$(docker-compose ps -q netbox)":/opt/netbox/netbox/netbox-demo.sql
-docker-compose exec netbox bash -c "psql -U $POSTGRES_USER netbox < /opt/netbox/netbox/netbox-demo.sql"
+docker cp netbox-demo-$VERSION.sql "$(docker-compose ps -q postgres)":/tmp/netbox-demo.sql
+docker-compose exec postgres sh -c "psql -U $POSTGRES_USER netbox < /tmp/netbox-demo.sql"
 ```
 
 ## Exporting the Data
