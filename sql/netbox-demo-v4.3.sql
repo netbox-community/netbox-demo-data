@@ -11320,12 +11320,12 @@ COPY public.dcim_moduletype (created, last_updated, custom_field_data, id, model
 --
 
 COPY public.dcim_moduletypeprofile (id, created, last_updated, custom_field_data, description, comments, name, schema) FROM stdin;
-1	2025-04-14 13:29:58.276745-04	2025-04-14 13:29:58.276754-04	{}			CPU	{"properties": {"cores": {"type": "integer", "description": "Number of cores present"}, "speed": {"type": "number", "title": "Speed", "description": "Clock speed in GHz"}, "architecture": {"type": "string", "title": "Architecture"}}}
-2	2025-04-14 13:29:58.279038-04	2025-04-14 13:29:58.279044-04	{}			Fan	{"properties": {"rpm": {"type": "integer", "title": "RPM", "description": "Fan speed (RPM)"}}}
-3	2025-04-14 13:29:58.280001-04	2025-04-14 13:29:58.280007-04	{}			GPU	{"required": ["memory"], "properties": {"gpu": {"type": "string", "title": "GPU"}, "memory": {"type": "integer", "title": "Memory (GB)", "description": "Total memory capacity (in GB)"}, "interface": {"enum": ["PCIe 4.0", "PCIe 4.0 x8", "PCIe 4.0 x16", "PCIe 5.0 x16"], "type": "string"}}}
-4	2025-04-14 13:29:58.280937-04	2025-04-14 13:29:58.280943-04	{}			Hard disk	{"required": ["size"], "properties": {"size": {"type": "integer", "title": "Size (GB)", "description": "Raw disk capacity"}, "type": {"enum": ["HD", "SSD", "NVME"], "type": "string", "title": "Disk type", "default": "SSD"}, "speed": {"type": "integer", "title": "Speed (RPM)"}}}
-5	2025-04-14 13:29:58.281627-04	2025-04-14 13:29:58.281631-04	{}			Memory	{"required": ["class", "size"], "properties": {"ecc": {"type": "boolean", "title": "ECC", "description": "Error-correcting code is enabled"}, "size": {"type": "integer", "title": "Size (GB)", "description": "Raw capacity of the module"}, "class": {"enum": ["DDR3", "DDR4", "DDR5"], "type": "string", "title": "Memory class", "default": "DDR5"}, "data_rate": {"type": "integer", "title": "Data rate", "description": "Speed in MT/s"}}}
-6	2025-04-14 13:29:58.282165-04	2025-04-14 13:29:58.282169-04	{}			Power supply	{"required": ["input_current", "input_voltage"], "properties": {"wattage": {"type": "integer", "description": "Available output power (watts)"}, "hot_swappable": {"type": "boolean", "title": "Hot-swappable", "default": false}, "input_current": {"enum": ["AC", "DC"], "type": "string", "title": "Current type", "default": "AC"}, "input_voltage": {"type": "integer", "title": "Voltage", "default": 120}}}
+1	2025-05-02 07:51:51.375199-04	2025-05-02 07:51:51.375208-04	{}			CPU	{"properties": {"cores": {"type": "integer", "description": "Number of cores present"}, "speed": {"type": "number", "title": "Speed", "description": "Clock speed in GHz"}, "architecture": {"type": "string", "title": "Architecture"}}}
+2	2025-05-02 07:51:51.377253-04	2025-05-02 07:51:51.377259-04	{}			Fan	{"properties": {"rpm": {"type": "integer", "title": "RPM", "description": "Fan speed (RPM)"}}}
+3	2025-05-02 07:51:51.377859-04	2025-05-02 07:51:51.377863-04	{}			GPU	{"required": ["memory"], "properties": {"gpu": {"type": "string", "title": "GPU"}, "memory": {"type": "integer", "title": "Memory (GB)", "description": "Total memory capacity (in GB)"}, "interface": {"enum": ["PCIe 4.0", "PCIe 4.0 x8", "PCIe 4.0 x16", "PCIe 5.0 x16"], "type": "string"}}}
+4	2025-05-02 07:51:51.378427-04	2025-05-02 07:51:51.378431-04	{}			Hard disk	{"required": ["size"], "properties": {"size": {"type": "integer", "title": "Size (GB)", "description": "Raw disk capacity"}, "type": {"enum": ["HD", "SSD", "NVME"], "type": "string", "title": "Disk type", "default": "SSD"}, "speed": {"type": "integer", "title": "Speed (RPM)"}}}
+5	2025-05-02 07:51:51.379024-04	2025-05-02 07:51:51.379028-04	{}			Memory	{"required": ["class", "size"], "properties": {"ecc": {"type": "boolean", "title": "ECC", "description": "Error-correcting code is enabled"}, "size": {"type": "integer", "title": "Size (GB)", "description": "Raw capacity of the module"}, "class": {"enum": ["DDR3", "DDR4", "DDR5"], "type": "string", "title": "Memory class", "default": "DDR5"}, "data_rate": {"type": "integer", "title": "Data rate", "description": "Speed in MT/s"}}}
+6	2025-05-02 07:51:51.379576-04	2025-05-02 07:51:51.37958-04	{}			Power supply	{"required": ["input_current", "input_voltage"], "properties": {"wattage": {"type": "integer", "description": "Available output power (watts)"}, "hot_swappable": {"type": "boolean", "title": "Hot-swappable", "default": false}, "input_current": {"enum": ["AC", "DC"], "type": "string", "title": "Current type", "default": "AC"}, "input_voltage": {"type": "integer", "title": "Voltage", "default": 120}}}
 \.
 
 
@@ -13453,32 +13453,33 @@ COPY public.django_migrations (id, app, name, applied) FROM stdin;
 654	wireless	0011_wirelesslan__location_wirelesslan__region_and_more	2025-01-06 14:09:54.043517-05
 655	wireless	0012_alter_wirelesslan__location_and_more	2025-01-06 14:09:54.351506-05
 656	wireless	0013_natural_ordering	2025-01-06 14:09:54.43835-05
-657	core	0013_datasource_sync_interval	2025-04-14 13:29:56.194077-04
-658	core	0014_remove_redundant_indexes	2025-04-14 13:29:56.239744-04
-659	extras	0123_journalentry_kind_default	2025-04-14 13:29:56.315446-04
-660	extras	0124_remove_staging	2025-04-14 13:29:56.471325-04
-661	extras	0125_alter_tag_options_tag_weight	2025-04-14 13:29:56.606397-04
-662	extras	0126_exporttemplate_file_name	2025-04-14 13:29:56.633864-04
-663	dcim	0201_add_power_outlet_status	2025-04-14 13:29:56.691369-04
-664	dcim	0202_location_comments_region_comments_sitegroup_comments	2025-04-14 13:29:57.009513-04
-665	dcim	0203_add_rack_outer_height	2025-04-14 13:29:57.121391-04
-666	dcim	0203_device_role_nested	2025-04-14 13:29:57.819726-04
-667	dcim	0204_device_role_rebuild	2025-04-14 13:29:57.908047-04
-668	dcim	0205_moduletypeprofile	2025-04-14 13:29:58.203686-04
-669	dcim	0206_load_module_type_profiles	2025-04-14 13:29:58.282678-04
-670	dcim	0207_remove_redundant_indexes	2025-04-14 13:29:58.330496-04
-671	extras	0127_configtemplate_as_attachment_and_more	2025-04-14 13:29:58.739211-04
-672	extras	0128_tableconfig	2025-04-14 13:29:58.855733-04
-673	ipam	0077_vlangroup_tenant	2025-04-14 13:29:58.945058-04
-674	ipam	0078_iprange_mark_utilized	2025-04-14 13:29:59.001151-04
-675	ipam	0079_add_service_fhrp_group_parent_gfk	2025-04-14 13:29:59.146637-04
-676	ipam	0080_populate_service_parent	2025-04-14 13:29:59.225922-04
-677	ipam	0081_remove_service_device_virtual_machine_add_parent_gfk_index	2025-04-14 13:29:59.768393-04
-678	tenancy	0018_contact_groups	2025-04-14 13:30:00.395926-04
-679	tenancy	0019_contactgroup_comments_tenantgroup_comments	2025-04-14 13:30:00.507618-04
-680	vpn	0008_add_l2vpn_status	2025-04-14 13:30:00.566351-04
-681	vpn	0009_remove_redundant_indexes	2025-04-14 13:30:00.694902-04
-682	wireless	0014_wirelesslangroup_comments	2025-04-14 13:30:00.760508-04
+657	core	0013_job_data_encoder	2025-05-02 07:51:49.267068-04
+658	core	0014_datasource_sync_interval	2025-05-02 07:51:49.324182-04
+659	core	0015_remove_redundant_indexes	2025-05-02 07:51:49.367189-04
+660	extras	0123_journalentry_kind_default	2025-05-02 07:51:49.441718-04
+661	extras	0124_remove_staging	2025-05-02 07:51:49.593545-04
+662	extras	0125_alter_tag_options_tag_weight	2025-05-02 07:51:49.726055-04
+663	extras	0126_exporttemplate_file_name	2025-05-02 07:51:49.760587-04
+664	dcim	0201_add_power_outlet_status	2025-05-02 07:51:49.81552-04
+665	dcim	0202_location_comments_region_comments_sitegroup_comments	2025-05-02 07:51:50.118738-04
+666	dcim	0203_add_rack_outer_height	2025-05-02 07:51:50.225991-04
+667	dcim	0203_device_role_nested	2025-05-02 07:51:50.926031-04
+668	dcim	0204_device_role_rebuild	2025-05-02 07:51:51.01256-04
+669	dcim	0205_moduletypeprofile	2025-05-02 07:51:51.303027-04
+670	dcim	0206_load_module_type_profiles	2025-05-02 07:51:51.380086-04
+671	dcim	0207_remove_redundant_indexes	2025-05-02 07:51:51.427677-04
+672	extras	0127_configtemplate_as_attachment_and_more	2025-05-02 07:51:51.856996-04
+673	extras	0128_tableconfig	2025-05-02 07:51:51.958476-04
+674	ipam	0077_vlangroup_tenant	2025-05-02 07:51:52.047227-04
+675	ipam	0078_iprange_mark_utilized	2025-05-02 07:51:52.102096-04
+676	ipam	0079_add_service_fhrp_group_parent_gfk	2025-05-02 07:51:52.249172-04
+677	ipam	0080_populate_service_parent	2025-05-02 07:51:52.326152-04
+678	ipam	0081_remove_service_device_virtual_machine_add_parent_gfk_index	2025-05-02 07:51:52.877137-04
+679	tenancy	0018_contact_groups	2025-05-02 07:51:53.515217-04
+680	tenancy	0019_contactgroup_comments_tenantgroup_comments	2025-05-02 07:51:53.6287-04
+681	vpn	0008_add_l2vpn_status	2025-05-02 07:51:53.688792-04
+682	vpn	0009_remove_redundant_indexes	2025-05-02 07:51:53.819618-04
+683	wireless	0014_wirelesslangroup_comments	2025-05-02 07:51:53.886722-04
 \.
 
 
@@ -27157,12 +27158,12 @@ bcfe9ef1-0db4-48f6-95f5-57cb290d20c7	2024-09-03 14:20:29.068812-04	6	slug	str	jb
 18fa4784-5899-4ef0-807a-e856e99a15c7	2024-09-03 14:20:29.070225-04	7	slug	str	jbb133	110	75
 6d22d1f3-9a35-474c-b58f-3dcc8c515351	2024-09-03 14:20:29.071637-04	8	name	str	JBB-Global	100	75
 39c8ffe8-9898-4b58-8a88-a9924fc65a16	2024-09-03 14:20:29.071653-04	8	slug	str	jbb-global	110	75
-450160ba-96db-4b24-bedd-ad76e664e5d2	2025-04-14 13:29:58.278483-04	1	name	str	CPU	100	170
-de9b8a79-9ba9-4a48-a876-55b3d7a22de5	2025-04-14 13:29:58.279578-04	2	name	str	Fan	100	170
-b65e464a-3c54-4590-9a5a-4b9db82dfd61	2025-04-14 13:29:58.280523-04	3	name	str	GPU	100	170
-8a5d53fc-3a9c-4d04-8f15-e0ae46c45470	2025-04-14 13:29:58.281396-04	4	name	str	Hard disk	100	170
-9b36aa8e-25dc-4c00-bf03-c9a433e174ca	2025-04-14 13:29:58.281966-04	5	name	str	Memory	100	170
-33bcd6a0-058d-4d45-80d3-978a5ce94032	2025-04-14 13:29:58.2825-04	6	name	str	Power supply	100	170
+b90a0bb5-b1ea-48db-9e6d-3634f76907b2	2025-05-02 07:51:51.376745-04	1	name	str	CPU	100	170
+7ee8ea07-2af5-4bae-9e2a-aebbc79b9d62	2025-05-02 07:51:51.377641-04	2	name	str	Fan	100	170
+fdb58381-9bb7-4e7a-a782-595143382815	2025-05-02 07:51:51.378198-04	3	name	str	GPU	100	170
+48115f91-b5a7-4011-99f1-8e7cfdf9bcf2	2025-05-02 07:51:51.378818-04	4	name	str	Hard disk	100	170
+c77a8c5c-0781-45da-ace2-a55a057f615c	2025-05-02 07:51:51.379363-04	5	name	str	Memory	100	170
+7c64410f-bee6-4c00-b5b1-853f66fcf01e	2025-05-02 07:51:51.379906-04	6	name	str	Power supply	100	170
 \.
 
 
@@ -30078,7 +30079,7 @@ SELECT pg_catalog.setval('public.django_content_type_id_seq', 172, true);
 -- Name: django_migrations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: netbox
 --
 
-SELECT pg_catalog.setval('public.django_migrations_id_seq', 682, true);
+SELECT pg_catalog.setval('public.django_migrations_id_seq', 683, true);
 
 
 --
