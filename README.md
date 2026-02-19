@@ -38,7 +38,9 @@ docker compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "DROP DAT
 docker compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "CREATE DATABASE netbox;"'
 
 # Load the demo data
-docker cp netbox-demo-data/sql/netbox-demo-$VERSION.sql "$(docker compose ps -q postgres)":/tmp/netbox-demo.sql
+wget -nv https://raw.githubusercontent.com/netbox-community/netbox-demo-data/refs/heads/master/sql/netbox-demo-$VERSION.sql -O netbox-demo.sql
+docker cp netbox-demo.sql "$(docker compose ps -q postgres)":/tmp/netbox-demo.sql
+rm netbox-demo.sql
 docker compose exec postgres bash -c "psql -U $POSTGRES_USER netbox < /tmp/netbox-demo.sql"
 # Delete imported demo sql
 docker compose exec postgres bash -c "rm /tmp/netbox-demo.sql"
