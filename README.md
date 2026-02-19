@@ -32,7 +32,7 @@ Before executing command, make sure postgres container is running.
 # Set 'YOUR_NETBOX_VERSION' to your current netbox version such as v4.3
 export VERSION=YOUR_NETBOX_VERSION
 # Stop netbox container before dropping database if it is running or it will shows 'ERROR: database "netbox" is being accessed by other users'.
-docker compose stop netbox
+docker compose stop netbox netbox-worker
 # Drop & recreate the database
 docker compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "DROP DATABASE netbox;"'
 docker compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "CREATE DATABASE netbox;"'
