@@ -16,6 +16,8 @@ First, drop and recreate the PostgreSQL database. The example here assumes the d
 ```bash
 sudo -u postgres psql -c "DROP database netbox;"
 sudo -u postgres psql -c "CREATE database netbox;"
+sudo -u postgres psql -c "ALTER DATABASE netbox OWNER TO netbox;"
+sudo -u postgres psql -d netbox -c "GRANT CREATE ON SCHEMA public TO netbox;"
 ```
 
 Next, use the PosgtreSQL `psql` client to load the data from the desired file:
