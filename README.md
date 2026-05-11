@@ -25,15 +25,18 @@ sudo -u postgres psql netbox < netbox-demo-data/sql/netbox-demo-$VERSION.sql
 ```
 
 ### Docker Commands
-
 ```
-# Drop & recreate the database
-docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "DROP DATABASE netbox;"'
-docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "CREATE DATABASE netbox;"'
+# stop netbox
+docker compose stop netbox
 
-# Load the demo data
-docker cp netbox-demo-$VERSION.sql "$(docker-compose ps -q netbox)":/opt/netbox/netbox/netbox-demo.sql
-docker-compose exec netbox bash -c "psql -U $POSTGRES_USER netbox < /opt/netbox/netbox/netbox-demo.sql"
+# Drop & recreate the database
+docker compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "DROP DATABASE netbox;"'
+docker compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "CREATE DATABASE netbox;"'
+
+# Load the demo data, change VERSION if need
+(VERSION=v4.1; curl https://raw.githubusercontent.com/netbox-community/netbox-demo-data/refs/heads/master/sql/netbox-demo-$VERSION.sql | docker compose exec -T postgres psql -U $POSTGRES_USER netbox)
+# run netbox, wait migrations done
+docker compose up netbox 
 ```
 
 ## Exporting the Data
