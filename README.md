@@ -26,14 +26,24 @@ sudo -u postgres psql netbox < netbox-demo-data/sql/netbox-demo-$VERSION.sql
 
 ### Docker Commands
 
+Before executing command, make sure postgres container is running.
+
 ```
+# Set 'YOUR_NETBOX_VERSION' to your current netbox version such as v4.3
+export VERSION=YOUR_NETBOX_VERSION
+# Stop netbox container before dropping database if it is running or it will shows 'ERROR: database "netbox" is being accessed by other users'.
+docker compose stop netbox netbox-worker
 # Drop & recreate the database
-docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "DROP DATABASE netbox;"'
-docker-compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "CREATE DATABASE netbox;"'
+docker compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "DROP DATABASE netbox;"'
+docker compose exec postgres sh -c 'psql -U $POSTGRES_USER postgres -c "CREATE DATABASE netbox;"'
 
 # Load the demo data
-docker cp netbox-demo-$VERSION.sql "$(docker-compose ps -q netbox)":/opt/netbox/netbox/netbox-demo.sql
-docker-compose exec netbox bash -c "psql -U $POSTGRES_USER netbox < /opt/netbox/netbox/netbox-demo.sql"
+wget -nv https://raw.githubusercontent.com/netbox-community/netbox-demo-data/refs/heads/master/sql/netbox-demo-$VERSION.sql -O netbox-demo.sql
+docker cp netbox-demo.sql "$(docker compose ps -q postgres)":/tmp/netbox-demo.sql
+rm netbox-demo.sql
+docker compose exec postgres bash -c "psql -U $POSTGRES_USER netbox < /tmp/netbox-demo.sql"
+# Delete imported demo sql
+docker compose exec postgres bash -c "rm /tmp/netbox-demo.sql"
 ```
 
 ## Exporting the Data
